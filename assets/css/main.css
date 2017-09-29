@@ -140,7 +140,6 @@
 		letter-spacing: 0.225em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2054,11 +2053,17 @@
 }
 	.news-photos img {
 		width: 100%;
-		margin-bottom: 50px;
+		margin-bottom: 10px;
 	}
 		.news-photos a {
 			border: none;
 		}
+	.news-photos span {
+		font-size: 10px;
+		line-height: 12px;
+	}
+
+
 
 .news {
 	margin-bottom: 100px;

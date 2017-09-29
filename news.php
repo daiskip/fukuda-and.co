@@ -1,7 +1,7 @@
 <?
 
 	$pagetitle = "最新情報 - 株式会社フクダ＆Ｃｏ．";
-	$ogp = "news.gif";
+	$ogp = "ogp_news.gif";
 	$url = "news";
 
 	include('_header.php');
@@ -17,6 +17,177 @@
 
 			<section class="wrapper">
 				<div class="inner">
+
+
+					<div class="news">
+						<div class="news-photos">
+							<a href="/images/news/07.jpg"><img src="/images/news/07.jpg" /></a>
+							<span>&copy; Loving Vincent Sp. z o.o/ Loving Vincent ltd.</span>
+						</div>
+						<p class="date">
+							2017.09.29
+						</p>
+						<h3>村治学　11.3公開『ゴッホ〜最期の手紙〜』に出演</h3>
+						<p class="icon">
+							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+						</p>
+						<p class="text">
+							《「愛か、狂気か。」世界初、全編が動く油絵で構成される珠玉のアートサスペンス映画》<br>
+							<br>
+							2017年アヌシー国際アニメーション映画祭・観客賞受賞の劇場アニメ、<br>
+							『ゴッホ〜最後の手紙〜』で、村治学が、ガシェ医師（ジェローム・フリン）役を担当します。<br>
+							<br>
+							劇場公開は、<br>
+							11月3日(金・祝) TOHOシネマズ六本木ヒルズ、<br>
+							11月4日(土) TOHOシネマズ上野、ほか全国ロードショーです。<br>
+							<br>
+							＊公式サイト　<a href="http://www.gogh-movie.jp/" target="_blank">http://www.gogh-movie.jp/</a><br>
+							＊劇場情報　<a href="http://eigakan.org/theaterpage/schedule.php?t=nWPPELol" target="_blank">http://eigakan.org/theaterpage/schedule.php?t=nWPPELol</a><br>
+							＊キャスト紹介　<a href="http://www.gogh-movie.jp/cast.php" target="_blank">http://www.gogh-movie.jp/cast.php</a>
+						</p>
+					</div>
+
+
+					<div class="news">
+						<div class="news-photos">
+							<a href="/images/news/05.jpg"><img src="/images/news/05.jpg" /></a>
+							<a href="/images/news/06.jpg"><img src="/images/news/06.jpg" /></a>
+						</div>
+						<p class="date">
+							2017.09.15
+						</p>
+						<h3>山像かおり＆秋之桜子　10月公演　羽衣1011「すみれの花、サカセテagain」</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+							<a href="/akino"><img src="/images/icon/akino.jpg" /></a>
+						</p>
+						<p class="text">
+							山像かおりの演劇ユニット、羽衣1011（はごろもいちまるいちいち）が8年ぶりに再始動、秋之桜子の脚本家処女作である「すみれの花、サカセテ」を12年ぶりの再演で上演いたします。<br />
+							<br />
+							羽衣1011第6回プロデュース公演<br />
+							「すみれの花、サカセテagain」<br />
+							＊公式サイト　<a href="http://hagoromo1011.pupu.jp/" target="_blank">http://hagoromo1011.pupu.jp/</a><br />
+							作：秋之桜子／演出：リチャード・ノリジ<br />
+							出演：山像かおり、渡辺美佐（青二プロダクション）<br />
+							<br />
+							上演期間：2017年10月25日（水）～29（日）<br />
+							25日（水）19：00<br />
+							26日（木）19：00<br />
+							27日（金）15：00／19：00<br />
+							28日（土）13：00／17：00<br />
+							29日（日）13：00／17：00<br />
+							<br />
+							劇場：SPACE梟門（新宿三丁目）<br />
+							<br />
+							チケット料金：前売り3,800円／当日4,000円／学割3,000円（全席自由）<br />
+							チケット発売開始：9月1日<br />
+							<br />
+							チケット予約＆お問い合わせ<br />
+							【風ノ環～かぜのわ～】<br />
+							電話：080-3463-3192／メール：kazenowa@live.jp<br />
+							【CoRich】web予約<br />
+							<a href="http://ticket.corich.jp/apply/83829/" target="_blank">http://ticket.corich.jp/apply/83829/</a>
+						</p>
+					</div>
+
+
+					<div class="news">
+						<p class="date">
+							2017.09.04
+						</p>
+						<h3>菅生隆之　9/5（火）「クリミナルマインド12」放送スタート</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+						</p>
+						<p class="text">
+							全米大ヒットの犯罪捜査ドラマ「クリミナルマインド FBI行動分析課」の最新、第12シーズンがいよいよWOWOWプライムにて放送開始です。<br />
+							菅生隆之が、捜査チームBAUのリーダー、デヴィット・ロッシ役（ジョー・マンテーニャ）を担当しています。<br />
+							<br />
+							9/5（火）23:00〜　WOWOWプライム　吹替え版　全22話<br />
+							＊第1話「クリムゾン・キング」は無料放送です。<br />
+							<a href="http://www.wowow.co.jp/detail/110473" target="_blank">http://www.wowow.co.jp/detail/110473</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2017.08.28
+						</p>
+						<h3>山像かおり　9/6（水）花組芝居「いろは四谷怪談」に出演</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+						</p>
+						<p class="text">
+							花組芝居30周年公演「いろは四谷怪談」の日替わりゲストで、山像かおりが出演します。<br />
+							山像かおりの出演回は、9月6日（水）14:00開演の回です。<br />
+							劇場は、下北沢ザ・スズナリです。<br />
+							<br />
+							「いろは四谷怪談」脚本・演出：加納幸和<br />
+							<br />
+							＊花組芝居公式サイト、チケットはこちら<br />
+							<a href="http://hanagumi.ne.jp" target="_blank">http://hanagumi.ne.jp</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2017.08.21
+						</p>
+						<h3>菅生隆之　佐古真弓　NHKFM「また、桜の国で」8/28（月）放送スタート</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+						</p>
+						<p class="text">
+							NHKFMのラジオドラマ、青春アドベンチャー「また、桜の国で」（全15回）に、菅生隆之、佐古真弓が出演します。<br />
+							<br />
+							菅生隆之・・・セルゲイ役<br />
+							佐古真弓・・・ヴァーニャ役<br />
+							<br />
+							放送予定は、8/28（月）〜9/15（金）までの連日、月ー金の平日22:45〜23:00です。<br />
+							放送の翌日正午からは、NHKネットラジオ、らじる☆らじるで聴き逃し配信もあります。<br />
+							<br />
+							青春アドベンチャー「また、桜の国で」<br />
+							原作：須賀しのぶ「また、桜の国で」<br />
+							脚色：藤井香織<br />
+							演出：藤井靖<br />
+							<a href="http://www.nhk.or.jp/audio/html_se/se2017016.html" target="_blank">http://www.nhk.or.jp/audio/html_se/se2017016.html</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2017.08.21
+						</p>
+						<h3>菅生隆之　映画「ワンダーウーマン」8/25（金）公開</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+						</p>
+						<p class="text">
+							8/25（金）全国公開、映画「ワンダーウーマン」吹替版で、ルーデンドルフ役（ダニー・ヒューストン）を担当しています。<br />
+							<a href="http://wwws.warnerbros.co.jp/wonderwoman/#/boards/wonderwoman" target="_blank">http://wwws.warnerbros.co.jp/wonderwoman/#/boards/wonderwoman</a>
+						</p>
+					</div>
+
+
+					<div class="news">
+						<p class="date">
+							2017.08.21
+						</p>
+						<h3>佐古真弓　映画「きみの声をとどけたい」8/25（金）公開</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+						</p>
+						<p class="text">
+							8/25（金）全国公開の劇場アニメ「きみの声をとどけたい」に、行合みつえ役で出演します。<br />
+							<br />
+							「きみの声をとどけたい」<br />
+							監督：伊藤尚往<br />
+							脚本：石川学<br />
+							制作：東北新社、マッドハウス<br />
+							<a href="http://kimikoe.com/movie/" target="_blank">http://kimikoe.com/movie/</a>
+						</p>
+					</div>
 
 					<div class="news">
 						<p class="date">
@@ -37,6 +208,31 @@
 							9/9（土）13:00〜　第17話〜第22話（最終回）<br />
 							＊途中、深夜に再放送もあります。<br />
 							<a href="http://www.wowow.co.jp/detail/110471" target="_blank">http://www.wowow.co.jp/detail/110471</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2017.08.11
+						</p>
+						<h3>佐古真弓　8/18（金）夜9時「エクスペンダブルズ3」ニコニコ生放送・実況中継に出演</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+						</p>
+						<p class="text">
+							洋画専門チャンネル、ザ・シネマと、ふきカエル大作戦のコラボ企画が実現。<br />
+							ザ・シネマ「エクスペンダブルズ3　ワールドミッション」の放送と同時刻に、吹替え版のキャストがニコニコ生放送にて、実況中継いたします。<br />
+							<br />
+							佐古真弓、ルナ役（ロンダ・ラウジー）です。<br />
+							<br />
+							8/18（金）21:00〜　ニコニコ生放送<br />
+							＊ザ・ジネマ「エクスペンダブルズ3　ワールドミッション」吹替え版<br />
+							<a href="https://www.thecinema.jp/sp/summer2017/" target="_blank">https://www.thecinema.jp/sp/summer2017/</a><br />
+							＊ふきカエル大作戦　特設ページ<br />
+							<a href="http://www.fukikaeru.com/?p=7666" target="_blank">http://www.fukikaeru.com/?p=7666</a><br />
+							＊ザ・シネマ公式ツイッターでは、質問も受付中です（8/15〆切）<br />
+							ハッシュタグは「＃ふきカエルニコ生で声優さんにこれを聞きたい」<br />
+							<a href="https://twitter.com/thecinema_ch/status/892732073244409857" target="_blank">https://twitter.com/thecinema_ch/status/892732073244409857</a>
 						</p>
 					</div>
 
