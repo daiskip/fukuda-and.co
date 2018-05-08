@@ -1,0 +1,16 @@
+php_value error_reporting 30711
+
+RewriteCond %{HTTP_HOST} ^(www\.fukuda-and\.co)(:80)? [NC]
+RewriteRule ^(.*) http://fukuda-and.co/$1 [R=301,L]
+
+AddHandler php5-script .php
+
+RewriteEngine On
+
+RewriteRule ^sugo/?$ sugo.php [PT]
+RewriteRule ^yamagata/?$ yamagata.php [PT]
+RewriteRule ^muraji/?$ muraji.php [PT]
+RewriteRule ^saco/?$ saco.php [PT]
+RewriteRule ^akino/?$ akino.php [PT]
+
+RewriteRule ^news/?$ news.php [PT]

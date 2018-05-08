@@ -2050,6 +2050,7 @@
 .news-photos {
 	float: right;
 	width: 300px;
+	margin-left: 30px;
 }
 	.news-photos img {
 		width: 100%;
@@ -2066,6 +2067,7 @@
 
 
 .news {
+	clear: both;
 	margin-bottom: 100px;
 }
 	.news .date {
@@ -2092,7 +2094,10 @@
 			margin-left: 20px;
 		}
 			.news-photos img {
-				margin-bottom: 30px;
+				margin-bottom: 5px;
+			}
+			.news-photos span {
+				font-size: 10px;
 			}
 
 		.news {
