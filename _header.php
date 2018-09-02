@@ -39,7 +39,6 @@
 											<li><a href="/news">最新情報</a></li>
 											<li><a href="/sugo">　菅生 隆之</a></li>
 											<li><a href="/yamagata">　山像 かおり</a></li>
-											<li><a href="/muraji">　村治　学</a></li>
 											<li><a href="/saco">　佐古 真弓</a></li>
 											<li><a href="/akino">　秋之 桜子（脚本家）</a></li>
 											<li><a href="/#three" class="more scrolly">会社概要</a></li>

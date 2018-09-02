@@ -19,6 +19,7 @@
 				<div class="inner">
 
 					<h3>菅生 隆之（すごう たかゆき）</h3>
+					<p>Takayuki SUGO</p>
 
 					<ul>
 						<li>生年月日：1952年8月1日</li>
@@ -49,13 +50,15 @@
 
 					<h5>劇場</h5>
 					<ul>
-						<li>「<a href="http://cpn.disney.co.jp/avengers-iw/" target="_blank">アベンジャーズ／インフィニティ・ウォー</a>」サディアス・“サンダーボルト”・ロス（ウィリアム・ハート）4.28公開</li>
-						<li>「<a href="http://yamato2202.net/" target="_blank">宇宙戦艦ヤマト2202愛の戦士たち 煉獄篇</a>」ナレーション/cv沖田十三 5.25公開 松竹</li>
+						<li>「<a href="https://www.disney.co.jp/movie/incredible-family.html" target="_blank">インクレイディブル・ファミリー</a>」リック・ディッカー　8.1公開</li>
 						<li>「<a href="http://flcl-anime.com/progre/" target="_blank">劇場版 フリクリ プログレ</a>」cvアイパッチ 9.28公開 東宝</li>
 					</ul>
 
 					<h5>TV</h5>
 					<ul>
+						<li>「<a href="http://www4.nhk.or.jp/etv21c/x/2018-08-04/31/29579/2259631/" target="_blank">HERE AND NOW ～家族のカタチ～</a>」グレッグ（ティム・ロビンス）スターチャンネル</li>
+						<li>ETV特集「<a href="https://www.star-ch.jp/drama/here-and-now/" target="_blank">シリーズ アメリカと被爆者～シュモーさんを探して</a>」シュモー氏語り</li>
+						<li>「<a href="http://www.oshiri-tantei.com/" target="_blank">おしりたんてい</a>」cvマスター Eテレ</li>
 						<li>「<a href="https://www.discoverychannel.jp/ja/d-news.html" target="_blank">モーガン・フリーマンが語る宇宙 S7</a>」モーガン・フリーマン語り ディスカバリーCH</li>
 						<li>「<a href="http://www.tv-tokyo.co.jp/anime/yugioh-vrains/" target="_blank">遊☆戯☆王 VRAINS</a>」cv鴻上博士 TX</li>
 						<li>「<a href="http://www.kamuy-anime.com/" target="_blank">ゴールデンカムイ</a>」cv永倉新八 TOKYOMX</li>
@@ -65,6 +68,7 @@
 					<ul>
 						<li>「<a href="https://www.netflix.com/jp/title/80216834" target="_blank">さようなら、コダクローム</a>」ベン（エド・ハリス） NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/title/80177803" target="_blank">世界の麻薬王：その光と闇</a>」ナレーション NETFLIX</li>
+						<li>アニメ「<a href="http://baki-anime.jp/" target="_blank">バキ</a>」cv愚地独歩　2018年夏NETFLIX</li>
 					</ul>
 
 					<h5>ＣＭ</h5>
@@ -74,6 +78,11 @@
 						<li><a href="https://www.youtube.com/channel/UCkWkCguOlljD8G7LuHDwAew" target="_blank">FDA フジドリームエアラインズ</a></li>
 						<li>北海道新聞社「<a href="http://kk.hokkaido-np.co.jp/doga/" target="_blank">北海道の住人から〜記者編、販売所員編</a>」</li>
 						<li>福岡トヨペット「<a href="https://www.youtube.com/watch?v=LWBTVtMkTtQ" target="_blank">2018年新春初売り</a>」</li>
+					</ul>
+
+					<h5>ラジオ</h5>
+					<ul>
+						<li>NHKFMシアター「<a href="http://www.nhk.or.jp/audio/html_fm/fm2018019.html" target="_blank">母ちゃんと王様</a>」父・孝役　6.9放送</li>
 					</ul>
 
 					<hr>
@@ -116,6 +125,7 @@
 						<li>「イニョプの道」　キム・チグゥン<キム・ガプス></li>
 						<li>「ヒューマンズ　シーズン1」ミリカン博士＜ウィリアム・ハート＞</li>
 						<li>「世界の麻薬王：その光と闇」ナレーション</li>
+						<li>「HERE AND NOW ～家族のカタチ～」グレッグ <ティム・ロビンス></li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
@@ -159,6 +169,7 @@
 						<li>「レゴバットマン ザ・ムービー」　ｃｖアルフレッド</li>
 						<li>「ワンダーウーマン」　ルーデンドルフ<ダニー・ヒューストン></li>
 						<li>「キングスマン：ゴールデン・サークル」シャンパン（ジェフ・ブリッジス）</li>
+						<li>「インクレイディブル・ファミリー」cvリック・ディッカー</li>
 					</ul>
 
 					<h5>アニメ </h5>
@@ -194,6 +205,8 @@
 						<li>「銀の墓守（ガーディアン）」陸遊七</li>
 						<li>「ゴールデンカムイ」永倉新八</li>
 						<li>「劇場版フリクリ プログレ」アイパッチ</li>
+						<li>「バキ」愚地独歩</li>
+						<li>「おしりたんてい」マスター</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -209,10 +222,11 @@
 						<li>「ドラゴンズドグマ　ダークアリズン」エドマン</li>
 					</ul>
 
-					<h5>ラジオドラマ</h5>
+					<h5>ラジオ</h5>
 					<ul>
-						<li>「ツングース特命隊」　NHKFM青春アドベンチャー</li>
-						<li>「また、桜の国で」　NHKFM青春アドベンチャー</li>
+						<li>「ツングース特命隊」NHKFM青春アドベンチャー</li>
+						<li>「また、桜の国で」NHKFM青春アドベンチャー</li>
+						<li>「母ちゃんと王様」NHKFMシアター</li>
 					</ul>
 
 					<h5>ＣＭ</h5>
@@ -231,6 +245,7 @@
 						<li>「ニノさん　ニノゴンの怪獣図鑑」ＮＴＶ</li>
 						<li>「超絶　凄ワザ！」ＮＨＫ</li>
 						<li>「超常現象　科学者たちの挑戦」ＮＨＫ</li>
+						<li>ETV特集「シリーズ アメリカと被爆者～シュモーさんを探して」シュモー氏語り Eテレ<br>他、ＮＨＫスペシャル（ボイスオーバー、朗読）多数</li>
 					</ul>
 
 				</div>

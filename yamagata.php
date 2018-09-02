@@ -19,6 +19,7 @@
 				<div class="inner">
 
 					<h3>山像 かおり（やまがた かおり）</h3>
+					<p>Kaori YAMAGATA</p>
 
 					<ul>
 						<li>生年月日：1963年2月27日</li>
@@ -64,13 +65,19 @@
 
 					<h5>舞台</h5>
 					<ul>
-						<li>西瓜糖第6回公演「<a href="http://no-4.biz/suikato6/" target="_blank">レバア</a>」（秋之桜子作・寺十吾演出）4月18日～29日 テアトルBONBON</li>
+						<li>はんなりラヂオ「<a href="http://hannnariradio.com/" target="_blank">はんなり☆夏語り～晴～</a>」7月12日～14日　赤坂RED／THEATER</li>
+						<li>aibook 「<a href="http://aibook.trickplan.com/web/aibook04/" target="_blank">吐く</a>」8月29日～9月4日　下北沢駅前劇場</li>
+					</ul>
+
+					<h5>劇場</h5>
+					<ul>
+						<li>「<a href="https://starwars.disney.co.jp/movie/hansolo.html" target="_blank">ハン・ソロ／スター・ウォーズ・ストーリー</a>」6.29公開　ヴァル</li>
 					</ul>
 
 					<h5>TV</h5>
 					<ul>
+						<li>「<a href="http://www.bs-j.co.jp/cinema/?p=201808082000" target="_blank">デンジャラス・ラン</a>」リンクレイター（ベラ・ファミーガ）BSジャパン新録版</li>
 						<li>「<a href="http://www9.nhk.or.jp/kaigai/ison/" target="_blank">仮面の王 イ・ソン</a>」 王妃　NHKBSプレミアム</li>
-						<li>「<a href="http://www6.nhk.or.jp/anime/topics/detail.html?i=4806" target="_blank">へそまがり昔話</a>」 継母　NHKEテレ 春のアニメセレクション2018</li>
 					</ul>
 
 					<h5>配信</h5>
@@ -82,6 +89,11 @@
 					<ul>
 						<li>「<a href="http://www.nhk.or.jp/audio/html_fm/fm2018012.html" target="_blank">１００億分の１のオトン</a>」オカン役　NHKFMシアター</li>
 						<li>朗読「織田作之助作品集〜夫婦善哉、続 夫婦善哉」NHKラジオ第2</li>
+					</ul>
+
+					<h5>ほか</h5>
+					<ul>
+						<li>「<a href="https://www.fukikaeru.com/?p=9821#nico" target="_blank">デンジャラス・ラン～新録放送吹替え版・放送実況</a>」ニコニコ生放送</li>
 					</ul>
 
 					<hr>
@@ -133,6 +145,8 @@
 						<li>「天獄界～哀しき金糸鳥」（わかぎゑふ作、演出/リリパットアーミー）</li>
 						<li>「ドドンコ、ドドンコ、鬼が来た！」（秋之桜子作/松本祐子演出/椿組２０１７年夏・花園神社野外劇）</li>
 						<li>「オケハザマ」（しりあがり寿作/流山児祥演出/流山児★事務所）</li>
+						<li>はんなり☆夏語り～晴～「あした咲く蕾」（朱川湊人原作/TARAKO脚色・演出/はんなりラヂオ）</li>
+						<li>「吐く」（笹峯愛 作・演出/aibook）</li>
 					</ul>
 
 					<h5>テレビ</h5>
@@ -263,6 +277,8 @@
 						<li>「上海の伯爵夫人」　ソフィア・ベリンスカヤ伯爵夫人（ナターシャ・リチャードソン）</li>
 						<li>「ティンカー・ベル」「ティンカー・ベルと月の石」　cvフェアリー・メアリー</li>
 						<li>「RED/レッド」，「REDリターンズ」　サラ・ロス（メアリー＝ルイーズ・パーカー）</li>
+						<li>「ハン・ソロ／スター・ウォーズ・ストーリー」ヴァル（ダンディ・ニュートン）</li>
+						<li>「デンジャラス・ラン」リンクレイター（ベラ・ファーミガ）新録版</li>
 					</ul>
 
 					<h5>アニメ</h5>

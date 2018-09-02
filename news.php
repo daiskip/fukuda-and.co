@@ -9,7 +9,7 @@
 ?>
 
 	<section id="cover-photo">
-		<img src="/images/news.gif" />
+		<img src="/images/news.gif">
 	</section>
 
 	<!-- Main -->
@@ -20,11 +20,242 @@
 
 					<div class="news">
 					  <p class="date">
+					    2018.08.08
+					  </p>
+					  <h3>山像かおり『デンジャラス・ラン』8.8新録放送＆ニコ生実況</h3>
+					  <p class="icon">
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					  </p>
+					  <p class="text">
+					    映画『デンジャラス・ラン』（2012年公開）の《新録》吹替え版が、BSジャパン／シネマクラッシュにて放送、<br>
+					    山像かおりがリンクレイター（ベラ・ファーミガ）役を担当しています。<br>
+					    放送は、BSジャパンにて8/8（水）21:00〜、<br>
+					    また、「ふきかえる大作戦」の連動企画として、同日時に、吹替え版キャストによるニコニコ生放送の生実況も実施。<br>
+					    山像かおりも登場します。本放送とともにお楽しみください。<br>
+					    <br>
+					    BSジャパン公式 <a href="http://www.bs-j.co.jp/cinema/?p=201808082000" target="_blank">http://www.bs-j.co.jp/cinema/?p=201808082000</a><br>
+					    ふきかえる大作戦 <a href="https://www.fukikaeru.com/?p=9821#nico" target="_blank">https://www.fukikaeru.com/?p=9821#nico</a><br>
+					    ニコニコ生放送 <a href="http://live.nicovideo.jp/gate/lv314784212" target="_blank">http://live.nicovideo.jp/gate/lv314784212</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.08.08
+					  </p>
+					  <h3>村治学「エージェント・オブ・シールド5』8.4スタート</h3>
+					  <p class="icon">
+					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
+					  </p>
+					  <p class="text">
+					    映画『アベンジャーズ』の後の世界を描く、大人気スピンオフアクションドラマの第5シーズン。<br>
+					    『エージェント・オブ・シールド5』いよいよ放送スタートです。<br>
+					    村治学が、主人公フィル・コールソン（クラーク・グレッグ）を担当しています。<br>
+					    WOWOWプライムにて、吹替版は、8/4（土）13:00〜放送。全22話です。<br>
+					    <br>
+					    公式サイト <a href="https://www.wowow.co.jp/detail/113357" target="_blank">https://www.wowow.co.jp/detail/113357</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.08.08
+					  </p>
+					  <h3>菅生隆之『インクレイディブル・ファミリー』8.1公開</h3>
+					  <p class="icon">
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+					  </p>
+					  <p class="text">
+					    「家事！育児！世界の危機！」<br>
+					    ディズニー／ピクサー最新劇場公開作品<br>
+					    『インクレイディブル・ファミリー』がこの夏いよいよ公開です。<br>
+					    菅生隆之が、リック・ディッカーを担当しています。<br>
+					    吹替版でもお楽しみください。<br>
+					    <br>
+					    公式サイト <a href="https://www.disney.co.jp/movie/incredible-family.html" target="_blank">https://www.disney.co.jp/movie/incredible-family.html</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.08.08
+					  </p>
+					  <h3>菅生隆之 ETV特集「シリーズ アメリカと被爆者」8.4放送</h3>
+					  <p class="icon">
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+					  </p>
+					  <p class="text">
+					    ETV特集・今夏のシリーズ「アメリカと被爆者」<br>
+					    その第1回『シュモーさんを探して』に、菅生隆之がシュモー氏の語りで出演します。<br>
+					    初回放送は、Eテレ8/4（土）23:00〜、<br>
+					    再放送は、8/8（水）24:00〜です。<br>
+					    <br>
+					    公式サイト <a href="http://www4.nhk.or.jp/etv21c/x/2018-08-04/31/29579/2259631/" target="_blank">http://www4.nhk.or.jp/etv21c/x/2018-08-04/31/29579/2259631/</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.08.08
+					  </p>
+					  <h3>菅生隆之 『HERE AND NOW ～家族のカタチ～』7.31スタート</h3>
+					  <p class="icon">
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+					  </p>
+					  <p class="text">
+					    ＨＢＯ®が贈る新感覚大人向けファミリードラマ！アイデンティティを模索するある家族の物語。<br>
+					    スターチャンネルの最新海外ドラマ『HERE AND NOW ～家族のカタチ～』<br>
+					    菅生隆之が、主人公グレッグ・ボートライト（ティム・ロビンス）を担当します。<br>
+					    また、村治学（イマム・チャック・ドメール役）が第3話より、佐古真弓（シャロン・チェン役）が第8話より出演します。<br>
+					    吹替版は、7/31（火）22:00〜他、全10話です。<br>
+					    <br>
+					    公式サイト <a href="https://www.star-ch.jp/drama/here-and-now/" target="_blank">https://www.star-ch.jp/drama/here-and-now/</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.08.08
+					  </p>
+					  <h3>菅生隆之 Eテレアニメ『おしりたんてい』に出演</h3>
+					  <p class="icon">
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+					  </p>
+					  <p class="text">
+					    〝どんなじけんもププッとかいけついたします〟<br>
+					    Eテレの大人気アニメ『おしりたんてい』に、菅生隆之がカフェ・ラッキーキャットのマスター役で出演します。<br>
+					    登場は、7/14（土）放送の第4話より、<br>
+					    放送は、8/25（土）までの、毎週（土）朝9:00〜NHK・Eテレです。<br>
+					    公式サイトに、菅生隆之のコメントも掲載されています。<br>
+					    <br>
+					    菅生隆之コメント <a href="http://www.oshiri-tantei.com/news/2018071001.html" target="_blank">http://www.oshiri-tantei.com/news/2018071001.html</a><br>
+					    公式サイト <a href="http://www.oshiri-tantei.com/" target="_blank">http://www.oshiri-tantei.com/</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.07.04
+					  </p>
+					  <h3>山像かおり　『ハン・ソロ／スター・ウォーズ・ストーリー』6.29公開</h3>
+					  <p class="icon">
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					  </p>
+					  <p class="text">
+							「スター・ウォーズ」シリーズ最新作『ハン・ソロ／スター・ウォーズ・ストーリー』<br>
+							山像かおりが、ヴァル役（ダンディ・ニュートン）を担当しています。<br>
+							劇場にて吹替え版でもお楽しみください。<br>
+							<br>
+							▼ディズニー公式サイト<br>
+							<a href="https://starwars.disney.co.jp/movie/hansolo.html" target="_blank">https://starwars.disney.co.jp/movie/hansolo.html</a>
+						</p>
+					</div>
+
+					<div class="news">
+					  <div class="news-photos">
+					    <a href="/images/news/17.jpg"><img src="/images/news/21.jpg"></a>
+					    <a href="/images/news/18.jpg"><img src="/images/news/22.jpg"></a>
+					  </div>
+					  <p class="date">
+					    2018.06.27
+					  </p>
+					  <h3>山像かおり　aibook公演「吐く」8.29～出演</h3>
+					  <p class="icon">
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					  </p>
+					  <p class="text">
+							笹峯愛さんプロデュースによるaibook。<br>
+							山像かおりが最新作となる第4回公演『吐く』に出演いたします。<br>
+							<br>
+							aibookプロデュース第4回公演<br>
+							<br>
+							『吐く』<br>
+							作・演出：笹峯愛<br>
+							上演日程：8/29（水）～9/4（火）<br>
+							会場：下北沢駅前劇場<br>
+							チケット：前売り3,800円（全席自由）＊6/29（金）より発売開始です！<br>
+							<a href="https://www.quartet-online.net/ticket/aibook04" target="_blank">https://www.quartet-online.net/ticket/aibook04</a><br>
+							公式サイト：aibook<br>
+							<a href="http://aibook.trickplan.com/web/aibook04/" target="_blank">http://aibook.trickplan.com/web/aibook04/</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <div class="news-photos">
+					    <a href="/images/news/17.jpg"><img src="/images/news/19.jpg"></a>
+					    <a href="/images/news/18.jpg"><img src="/images/news/20.jpg"></a>
+					  </div>
+					  <p class="date">
+					    2018.06.27
+					  </p>
+					  <h3>山像かおり 「はんなり☆夏語り～晴～」7.12-14出演</h3>
+					  <p class="icon">
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					  </p>
+					  <p class="text">
+							今年も、はんなりラヂオの季節となりました！<br>
+							山像かおりが「はんなり☆夏語り～晴～」に出演します。<br>
+							<br>
+							山像かおり　出演作品<br>
+							「あした咲く蕾」　原作：朱川湊人　脚色・演出：TARAKO<br>
+							～美人だけれどガサツな叔母さん。 でも彼女は、正真正銘の天使だった――。 昭和の東京下町を舞台に紡ぐハートフル・ストーリー～<br>
+							<br>
+							上演日程：7/12(木)～14（土）<br>
+							会場：赤坂RED／THEATER<br>
+							チケット：はんなりラヂオ（予約専用）好評発売中です！<br>
+							<a href="https://www.quartet-online.net/ticket/hannari_hare" target="_blank">https://www.quartet-online.net/ticket/hannari_hare</a><br>
+							公式サイト：はんなりラヂオ<br>
+							<a href="http://hannnariradio.com/" target="_blank">http://hannnariradio.com/</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.05.29
+					  </p>
+					  <h3>菅生隆之　TVアニメ『バキ』今夏配信</h3>
+					  <p class="icon">
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+					  </p>
+					  <p class="text">
+							〝生態系崩壊の肉弾バトル〟開幕！<br>
+							TVアニメ『バキ』に、愚地独歩（オロチドッポ）役で出演します。<br>
+							2018年夏、NETFLIX先行配信（地上波放送予定）です。<br>
+							<br>
+							公式サイト<br>
+							<a href="http://baki-anime.jp/" target="_blank">http://baki-anime.jp/</a><br>
+							「地下闘技場戦士紹介PV」<br>
+							<a href="http://baki-anime.jp/movie/" target="_blank">http://baki-anime.jp/movie/</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
+					    2018.05.28
+					  </p>
+					  <h3>菅生隆之　FMシアター『母ちゃんと王様』6.9放送</h3>
+					  <p class="icon">
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+					  </p>
+					  <p class="text">
+							第46回創作ラジオドラマ大賞佳作受賞<br>
+							NHKFMシアター『母ちゃんと王様』に出演します。<br>
+							主人公の父親、孝役です。<br>
+							放送は、6/9（土）22:00〜NHKFM<br>
+							らじる★らじるの聴き逃し配信は、6/11（月）正午より1週間配信されます。<br>
+							<a href="http://www.nhk.or.jp/audio/html_fm/fm2018019.html" target="_blank">http://www.nhk.or.jp/audio/html_fm/fm2018019.html</a>
+					  </p>
+					</div>
+
+					<div class="news">
+					  <p class="date">
 					    2018.05.07
 					  </p>
 					  <h3>佐古真弓『デッドプール 2』6.1公開</h3>
 					  <p class="icon">
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 							映画『デッドプール』最新作、いよいよ6/1（金）全国ロードショーです。<br>
@@ -42,7 +273,7 @@
 					  </p>
 					  <h3>佐古真弓『Detroit: Become Human』5/25発売</h3>
 					  <p class="icon">
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 							PlayStation4、ソニー・インタラクティブエンタテインメント最新ゲーム、<br>
@@ -145,15 +376,15 @@
 
 					<div class="news">
 					  <div class="news-photos">
-					    <a href="/images/news/17.jpg"><img src="/images/news/17.jpg" /></a>
-					    <a href="/images/news/18.jpg"><img src="/images/news/18.jpg" /></a>
+					    <a href="/images/news/17.jpg"><img src="/images/news/17.jpg"></a>
+					    <a href="/images/news/18.jpg"><img src="/images/news/18.jpg"></a>
 					  </div>
 					  <p class="date">
 					    2018.04.10
 					  </p>
 					  <h3>佐古真弓　舞台『ふたたびの日は 何色に咲く』に出演</h3>
 					  <p class="icon">
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 					  山谷典子脚本、藤井ごう演出の、Ring-Bong 第８回公演『ふたたびの日は 何色に咲く』に出演いたします。<br>
@@ -171,16 +402,16 @@
 
 					<div class="news">
 					  <div class="news-photos">
-					    <a href="/images/news/15.jpg"><img src="/images/news/15.jpg" /></a>
-					    <a href="/images/news/16.jpg"><img src="/images/news/16.jpg" /></a>
+					    <a href="/images/news/15.jpg"><img src="/images/news/15.jpg"></a>
+					    <a href="/images/news/16.jpg"><img src="/images/news/16.jpg"></a>
 					  </div>
 					  <p class="date">
 					    2018.04.10
 					  </p>
 					  <h3>秋之桜子,山像かおり　西瓜糖『レバア』チケット情報</h3>
 					  <p class="icon">
-					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-					    <a href="/akino"><img src="/images/icon/akino.jpg" /></a>
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					    <a href="/akino"><img src="/images/icon/akino.jpg"></a>
 					  </p>
 					  <p class="text">
 					    脚本・秋之桜子、出演・山像かおり主催による演劇集団「西瓜糖」（すいかとう）第六回公演『レバア』、チケット好評発売中です。<br>
@@ -200,8 +431,8 @@
 					  </p>
 					  <h3>山像かおり，佐古真弓　韓国ドラマ『仮面の王 イ・ソン』に出演</h3>
 					  <p class="icon">
-					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 					    NHKBSプレミアム放送の最新韓国ドラマ『仮面の王 イ・ソン』に出演いたします。<br>
@@ -221,8 +452,8 @@
 					  </p>
 					  <h3>山像かおり，村治学　FMシアター『100億分の1のオトン』に出演</h3>
 					  <p class="icon">
-					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 					  </p>
 					  <p class="text">
 					    NHKラジオドラマ、FMシアター『100億分の1のオトン』に出演いたします。<br>
@@ -240,7 +471,7 @@
 					  </p>
 					  <h3>菅生隆之　TVアニメ『ゴールデンカムイ』に出演</h3>
 					  <p class="icon">
-					    <a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 					  </p>
 					  <p class="text">
 					    マンガ大賞2016受賞、野田サトル原作、週刊ヤングジャンプ連載中の大ヒット漫画『ゴールデンカムイ』がいよいよTVアニメ化されます。<br>
@@ -262,8 +493,8 @@
 					  </p>
 					  <h3>菅生隆之,佐古真弓『キングスマン：ゴールデン・サークル』DVD発売</h3>
 					  <p class="icon">
-					    <a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 					    20世紀FOX映画『キングスマン：ゴールデン・サークル』ブルーレイ＆DVDが、4/6（金）リリース開始となります。<br>
@@ -280,7 +511,7 @@
 					  </p>
 					  <h3>佐古真弓　映画『女神の見えざる手』DVD発売</h3>
 					  <p class="icon">
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 					    4/3（火）ブルーレイ＆DVDの発売、レンタル開始です。<br>
@@ -295,7 +526,7 @@
 					  </p>
 					  <h3>佐古真弓　WOWOW『グッド・ドクター 名医の条件』放送開始</h3>
 					  <p class="icon">
-					    <a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+					    <a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 					    WOWOW春の新作海外ドラマ『グッド・ドクター 名医の条件』、<br>
@@ -311,7 +542,7 @@
 					  </p>
 					  <h3>村治学　スターチャンネル『ガンパウダー』放送開始</h3>
 					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 					  </p>
 					  <p class="text">
 					    スターチャンネルの最新海外ドラマ『ガンパウダー』、<br>
@@ -328,7 +559,7 @@
 					  </p>
 					  <h3>山像かおり　NETFLIX『レクイエム：マチルダ・グレイの秘密』配信開始</h3>
 					  <p class="icon">
-					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
 					  </p>
 					  <p class="text">
 					    NETFLIXオリジナル、新作海外ドラマ『レクイエム：マチルダ・グレイの秘密』が配信開始となりました。<br>
@@ -343,7 +574,7 @@
 					  </p>
 					  <h3>山像かおり　Eテレアニメ『へそまがり昔話』放送</h3>
 					  <p class="icon">
-					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
 					  </p>
 					  <p class="text">
 					    恒例のNHK Eテレ春のアニメセレクション2018、今年は『へそまがり昔話』の放送です。<br>
@@ -359,7 +590,7 @@
 					  </p>
 					  <h3>菅生隆之 『モーガン・フリーマンが語る宇宙』第7期、放送</h3>
 					  <p class="icon">
-					    <a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 					  </p>
 					  <p class="text">
 					    ナビケーターのモーガン・フリーマンが宇宙、物理学、知的好奇心あふれるテーマをお届けします。<br>
@@ -375,7 +606,7 @@
 					  </p>
 					  <h3>村治学　スターチャンネル『ミスター・メルセデス』放送開始</h3>
 					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 					  </p>
 					  <p class="text">
 					    スティーブン・キング原作＆製作総指揮、スターチャンネル最新海外ドラマ『ミスター・メルセデス』、<br>
@@ -392,7 +623,7 @@
 						</p>
 						<h3>村治学　『セーフハウス～もう一人の殺人鬼～』2/12（月祝）一挙放送</h3>
 						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							WOWOWプライム・新作海外ドラマ、<br>
@@ -407,15 +638,15 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/13.jpg"><img src="/images/news/13.jpg" /></a>
-							<a href="/images/news/14.jpg"><img src="/images/news/14.jpg" /></a>
+							<a href="/images/news/13.jpg"><img src="/images/news/13.jpg"></a>
+							<a href="/images/news/14.jpg"><img src="/images/news/14.jpg"></a>
 						</div>
 						<p class="date">
 							2018.02.05
 						</p>
 						<h3>佐古真弓　朗読イベント『心接』3/3,4 出演</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							声優の三好りえさんプロデュースの朗読イベント、<br>
@@ -440,16 +671,16 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/11.jpg"><img src="/images/news/11.jpg" /></a>
-							<a href="/images/news/12.jpg"><img src="/images/news/12.jpg" /></a>
+							<a href="/images/news/11.jpg"><img src="/images/news/11.jpg"></a>
+							<a href="/images/news/12.jpg"><img src="/images/news/12.jpg"></a>
 						</div>
 						<p class="date">
 							2018.01.18
 						</p>
 						<h3>山像かおり＆秋之桜子　西瓜糖第6回公演『レバア』上演のお知らせ</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-							<a href="/akino"><img src="/images/icon/akino.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/akino"><img src="/images/icon/akino.jpg"></a>
 						</p>
 						<p class="text">
 							山像かおり/秋之桜子（脚本）＋奥山美代子さん＋松本祐子さん（演出）の女性三人で旗揚げされた演劇集団・西瓜糖（すいかとう）。<br>
@@ -475,7 +706,7 @@
 						</p>
 						<h3>菅生隆之 劇場映画『ジオストーム』1/19公開</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							1/19（金）劇場公開のワーナーブラザーズ映画『ジオストーム』<br>
@@ -492,7 +723,7 @@
 						</p>
 						<h3>村治学 映画『ドリーム』デジタル配信＆BD/DVDリリース開始</h3>
 						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							20世紀フォックス映画、アカデミー賞3部門ノミネートの『ドリーム』が配信、＆リリースされます。<br>
@@ -510,7 +741,7 @@
 						</p>
 						<h3>菅生隆之 TVアニメ『銀の墓守Ⅱ』1/13スタート</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							TVアニメシリーズ『銀の墓守（ガーディアン）』第2期の放送が始まります。<br>
@@ -529,7 +760,7 @@
 						</p>
 						<h3>佐古真弓 『ナイトシフト4 真夜中の救命医 ザ・ファイナル』1/17スタート</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							WOWOWの人気医療ドラマがついに最終シーズンを迎えます。<br>
@@ -548,8 +779,8 @@
 						</p>
 						<h3>山像かおり 村治学 NHKラジオ『朗読　織田作之助作品集』1/8放送開始</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							1/8より放送のNHKラジオ「朗読」は、『織田作之助作品集』です。<br>
@@ -573,8 +804,8 @@
 						</p>
 						<h3>菅生隆之 佐古真弓 『キングスマン：ゴールデン・サークル』1/5公開</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							『キングスマン』の続編『キングスマン：ゴールデン・サークル』が、1/5（金）劇場公開です。<br>
@@ -586,14 +817,14 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/10.jpg"><img src="/images/news/10.jpg" /></a>
+							<a href="/images/news/10.jpg"><img src="/images/news/10.jpg"></a>
 						</div>
 						<p class="date">
 							2017.11.06
 						</p>
 						<h3>山像かおり 流山児★事務所新春公演『オケハザマ』に出演</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
 						</p>
 						<p class="text">
 							漫画家·しりあがり寿さんの新作書き下ろし、流山児★事務所新春公演『オケハザマ』に出演します。<br>
@@ -621,7 +852,7 @@
 						</p>
 						<h3>村治学　12/13より『ホテル ハルシオン』に出演</h3>
 						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							あの『ダウントン・アビー』のITVが送る英国発・最新海外ドラマシリーズ、<br>
@@ -645,7 +876,7 @@
 						</p>
 						<h3>佐古真弓　ザ・シネマ新録版『プロメテウス』12/3放送</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							映画『エイリアン』シリーズ最新作『エイリアン：コヴェナント』公開連動企画にて、その前日譚である『プロメテウス』の新録・吹替え版が放送されます。<br>
@@ -665,15 +896,15 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/08.jpg"><img src="/images/news/08.jpg" /></a>
-							<a href="/images/news/09.jpg"><img src="/images/news/09.jpg" /></a>
+							<a href="/images/news/08.jpg"><img src="/images/news/08.jpg"></a>
+							<a href="/images/news/09.jpg"><img src="/images/news/09.jpg"></a>
 						</div>
 						<p class="date">
 							2017.11.02
 						</p>
 						<h3>佐古真弓  11.28-29 舞台『フィガロの結婚』に出演</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							2016年初演、演劇とオペラの融合で大好評を博した舞台の再演です。<br>
@@ -703,7 +934,7 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/07.jpg"><img src="/images/news/07.jpg" /></a>
+							<a href="/images/news/07.jpg"><img src="/images/news/07.jpg"></a>
 							<span>&copy; Loving Vincent Sp. z o.o/ Loving Vincent ltd.</span>
 						</div>
 						<p class="date">
@@ -711,7 +942,7 @@
 						</p>
 						<h3>村治学　11.3公開『ゴッホ〜最期の手紙〜』に出演</h3>
 						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							《「愛か、狂気か。」世界初、全編が動く油絵で構成される珠玉のアートサスペンス映画》<br>
@@ -732,16 +963,16 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/05.jpg"><img src="/images/news/05.jpg" /></a>
-							<a href="/images/news/06.jpg"><img src="/images/news/06.jpg" /></a>
+							<a href="/images/news/05.jpg"><img src="/images/news/05.jpg"></a>
+							<a href="/images/news/06.jpg"><img src="/images/news/06.jpg"></a>
 						</div>
 						<p class="date">
 							2017.09.15
 						</p>
 						<h3>山像かおり＆秋之桜子　10月公演　羽衣1011「すみれの花、サカセテagain」</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-							<a href="/akino"><img src="/images/icon/akino.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/akino"><img src="/images/icon/akino.jpg"></a>
 						</p>
 						<p class="text">
 							山像かおりの演劇ユニット、羽衣1011（はごろもいちまるいちいち）が8年ぶりに再始動、秋之桜子の脚本家処女作である「すみれの花、サカセテ」を12年ぶりの再演で上演いたします。<br>
@@ -779,7 +1010,7 @@
 						</p>
 						<h3>菅生隆之　9/5（火）「クリミナルマインド12」放送スタート</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							全米大ヒットの犯罪捜査ドラマ「クリミナルマインド FBI行動分析課」の最新、第12シーズンがいよいよWOWOWプライムにて放送開始です。<br>
@@ -797,7 +1028,7 @@
 						</p>
 						<h3>山像かおり　9/6（水）花組芝居「いろは四谷怪談」に出演</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
 						</p>
 						<p class="text">
 							花組芝居30周年公演「いろは四谷怪談」の日替わりゲストで、山像かおりが出演します。<br>
@@ -817,8 +1048,8 @@
 						</p>
 						<h3>菅生隆之　佐古真弓　NHKFM「また、桜の国で」8/28（月）放送スタート</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							NHKFMのラジオドラマ、青春アドベンチャー「また、桜の国で」（全15回）に、菅生隆之、佐古真弓が出演します。<br>
@@ -843,7 +1074,7 @@
 						</p>
 						<h3>菅生隆之　映画「ワンダーウーマン」8/25（金）公開</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							8/25（金）全国公開、映画「ワンダーウーマン」吹替版で、ルーデンドルフ役（ダニー・ヒューストン）を担当しています。<br>
@@ -858,7 +1089,7 @@
 						</p>
 						<h3>佐古真弓　映画「きみの声をとどけたい」8/25（金）公開</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							8/25（金）全国公開の劇場アニメ「きみの声をとどけたい」に、行合みつえ役で出演します。<br>
@@ -877,7 +1108,7 @@
 						</p>
 						<h3>村治学　『エージェント・オブ・シールド4』8/19（土）放送スタート</h3>
 						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							大ヒット映画『アベンジャーズ』の後の世界を描くスピンオフドラマの最新シーズンがいよいよWOWOWプライムにて放送開始です。<br>
@@ -899,7 +1130,7 @@
 						</p>
 						<h3>佐古真弓　8/18（金）夜9時「エクスペンダブルズ3」ニコニコ生放送・実況中継に出演</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							洋画専門チャンネル、ザ・シネマと、ふきカエル大作戦のコラボ企画が実現。<br>
@@ -924,7 +1155,7 @@
 						</p>
 						<h3>山像かおり　『アイ・ラブ・ディック』Amazonプライム配信開始</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
 						</p>
 						<p class="text">
 							ケヴィン・ベーコン主演の最新海外ドラマ『アイ・ラブ・ディック』で、妻のクリス役（キャスリン・ハーン）担当しています。<br>
@@ -939,8 +1170,8 @@
 						</p>
 						<h3>山像かおり　佐古真弓　『トランスペアレント3』Amazonプライム配信中</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							ゴールデン・グローブ賞、エミー賞など数々の賞を受賞している海外ドラマ『トランスペアレント』の最新、第3シーズンがAmazonプライム・ビデオにて好評配信中です。<br>
@@ -955,7 +1186,7 @@
 						</p>
 						<h3>菅生隆之 TVアニメ「ナイツ＆マジック」に出演</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							最新作アニメ「ナイツ＆マジック」にて、国王アンブロシウス役で出演しています。<br>
@@ -969,15 +1200,15 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/03.jpg"><img src="/images/news/03.jpg" /></a>
-							<a href="/images/news/04.jpg"><img src="/images/news/04.jpg" /></a>
+							<a href="/images/news/03.jpg"><img src="/images/news/03.jpg"></a>
+							<a href="/images/news/04.jpg"><img src="/images/news/04.jpg"></a>
 						</div>
 						<p class="date">
 							2017.07.08
 						</p>
 						<h3>佐古真弓　8/17（木）『神楽坂怪奇譚―棲』に出演</h3>
 						<p class="icon">
-							<a href="/saco"><img src="/images/icon/saco.jpg" /></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 						</p>
 						<p class="text">
 							2017年夏、羽佐間道夫さん×朴璐美さん×劇作家の藤沢文翁さんにより結成された“神楽坂怪奇譚”に、佐古真弓が出演します。<br>
@@ -1003,7 +1234,7 @@
 						</p>
 						<h3>菅生隆之　アニメ『地獄少女 宵伽』7/14（金）放送開始</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							「人を呪わば穴二つ。あなたの晴らせぬ恨み、晴らします」<br>
@@ -1020,7 +1251,7 @@
 						</p>
 						<h3>村治学　NHK『SHERLOCK／シャーロック４』7/8（土）放送開始</h3>
 						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg" /></a>
+							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							現代のロンドンを舞台に、名探偵シャーロック・ホームズが活躍する大ヒットドラマ。ついに最新シリーズの放送です。<br>
@@ -1035,7 +1266,7 @@
 						</p>
 						<h3>秋之桜子インタビュー掲載!</h3>
 						<p class="icon">
-							<a href="/akino"><img src="/images/icon/akino.jpg" /></a>
+							<a href="/akino"><img src="/images/icon/akino.jpg"></a>
 						</p>
 						<p class="text">
 							椿組 2017 年夏 花園神社野外劇 『ドドンコ、ドドンコ、⻤が来た!』<br>
@@ -1046,16 +1277,16 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/01.jpg"><img src="/images/news/01.jpg" /></a>
-							<a href="/images/news/02.jpg"><img src="/images/news/02.jpg" /></a>
+							<a href="/images/news/01.jpg"><img src="/images/news/01.jpg"></a>
+							<a href="/images/news/02.jpg"><img src="/images/news/02.jpg"></a>
 						</div>
 						<p class="date">
 							2017.06.09
 						</p>
 						<h3>山像かおり&秋之桜子 公演、チケット情報</h3>
 						<p class="icon">
-							<a href="/yamagata"><img src="/images/icon/yamagata.jpg" /></a>
-							<a href="/akino"><img src="/images/icon/akino.jpg" /></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/akino"><img src="/images/icon/akino.jpg"></a>
 						</p>
 						<p class="text">
 							椿組 2017 年夏 花園神社野外劇 『ドドンコ、ドドンコ、⻤が来た!』<br>
@@ -1080,7 +1311,7 @@
 						</p>
 						<h3>菅生隆之 アニメ『プリンセス・プリンシパル』L(エル)役で出演</h3>
 						<p class="icon">
-							<a href="/sugo"><img src="/images/icon/sugo.jpg" /></a>
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
 						</p>
 						<p class="text">
 							新作TVアニメシリーズ『プリンセス・プリンシパル』で、<br>

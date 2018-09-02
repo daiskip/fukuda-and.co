@@ -19,6 +19,7 @@
 				<div class="inner">
 
 					<h3>佐古 真弓（さこ まゆみ）</h3>
+					<p>Mayumi SACO</p>
 
 					<ul>
 						<li>生年月日：1978年1月13日</li>
@@ -60,6 +61,7 @@
 					<ul>
 						<li>「<a href="http://www9.nhk.or.jp/kaigai/ison/" target="_blank">仮面の王 イ・ソン</a>」 メチャン<イ・チェヨン> NHKBSプレミアム</li>
 						<li>「<a href="http://www.wowow.co.jp/detail/112156" target="_blank">グッド・ドクター 名医の条件</a>」ジェシカ・プレストン　WOWOW</li>
+						<li>「<a href="http://www4.nhk.or.jp/etv21c/x/2018-08-04/31/29579/2259631/" target="_blank">HERE AND NOW ～家族のカタチ～</a>」シャロン・チェン　スターチャンネル</li>
 					</ul>
 
 					<h5>配信</h5>

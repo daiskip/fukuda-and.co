@@ -19,6 +19,7 @@
 				<div class="inner">
 
 					<h3>秋之 桜子（あきの さくらこ）</h3>
+					<p>Sakurako AKINO</p>
 
 					<h4>略歴</h4>
 					<p>
