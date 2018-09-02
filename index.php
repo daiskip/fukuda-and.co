@@ -35,13 +35,6 @@
 				<p>Kaori YAMAGATA</p>
 			</div>
 		</section>
-		<section class="spotlight" id="muraji">
-			<div class="image"><a href="/muraji"><img src="images/company/muraji.jpg" /></a></div>
-			<div class="content">
-				<h2>村治 学</h2>
-				<p>Manabu MURAJI</p>
-			</div>
-		</section>
 		<section class="spotlight" id="saco">
 			<div class="image"><a href="/saco"><img src="images/company/saco.jpg" /></a></div>
 			<div class="content">

@@ -9,7 +9,6 @@ RewriteEngine On
 
 RewriteRule ^sugo/?$ sugo.php [PT]
 RewriteRule ^yamagata/?$ yamagata.php [PT]
-RewriteRule ^muraji/?$ muraji.php [PT]
 RewriteRule ^saco/?$ saco.php [PT]
 RewriteRule ^akino/?$ akino.php [PT]
 

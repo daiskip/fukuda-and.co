@@ -43,24 +43,6 @@
 					  <p class="date">
 					    2018.08.08
 					  </p>
-					  <h3>村治学「エージェント・オブ・シールド5』8.4スタート</h3>
-					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-					  </p>
-					  <p class="text">
-					    映画『アベンジャーズ』の後の世界を描く、大人気スピンオフアクションドラマの第5シーズン。<br>
-					    『エージェント・オブ・シールド5』いよいよ放送スタートです。<br>
-					    村治学が、主人公フィル・コールソン（クラーク・グレッグ）を担当しています。<br>
-					    WOWOWプライムにて、吹替版は、8/4（土）13:00〜放送。全22話です。<br>
-					    <br>
-					    公式サイト <a href="https://www.wowow.co.jp/detail/113357" target="_blank">https://www.wowow.co.jp/detail/113357</a>
-					  </p>
-					</div>
-
-					<div class="news">
-					  <p class="date">
-					    2018.08.08
-					  </p>
 					  <h3>菅生隆之『インクレイディブル・ファミリー』8.1公開</h3>
 					  <p class="icon">
 					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
@@ -101,14 +83,13 @@
 					  <h3>菅生隆之 『HERE AND NOW ～家族のカタチ～』7.31スタート</h3>
 					  <p class="icon">
 					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
 					  </p>
 					  <p class="text">
 					    ＨＢＯ®が贈る新感覚大人向けファミリードラマ！アイデンティティを模索するある家族の物語。<br>
 					    スターチャンネルの最新海外ドラマ『HERE AND NOW ～家族のカタチ～』<br>
 					    菅生隆之が、主人公グレッグ・ボートライト（ティム・ロビンス）を担当します。<br>
-					    また、村治学（イマム・チャック・ドメール役）が第3話より、佐古真弓（シャロン・チェン役）が第8話より出演します。<br>
+					    また、佐古真弓（シャロン・チェン役）が第8話より出演します。<br>
 					    吹替版は、7/31（火）22:00〜他、全10話です。<br>
 					    <br>
 					    公式サイト <a href="https://www.star-ch.jp/drama/here-and-now/" target="_blank">https://www.star-ch.jp/drama/here-and-now/</a>
@@ -308,41 +289,6 @@
 					  <p class="date">
 					    2018.04.30
 					  </p>
-					  <h3>村治学『SHERLOCK／シャーロック』5.5より一挙放送</h3>
-					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-					  </p>
-					  <p class="text">
-							海外ドラマ『SHERLOCK／シャーロック』<br>
-							シーズン1からシーズン4までの全12回が一挙に再放送されます♪<br>
-							村治学がシャーロックの宿敵、ジム・モリアーティ（アンドリュー・スコット）を担当。<br>
-							5/5（土）より、毎週（土）16:30〜NHKBSプレミアムです。<br>
-							<br>
-					  	<a href="http://www4.nhk.or.jp/sherlock4/" target="_blank">http://www4.nhk.or.jp/sherlock4/</a>
-					  </p>
-					</div>
-
-					<div class="news">
-					  <p class="date">
-					    2018.04.30
-					  </p>
-					  <h3>村治学　FMシアター『冬の曳航』5.5放送</h3>
-					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-					  </p>
-					  <p class="text">
-							NHKFMシアター『冬の曳航』が、平成29年度 文化庁芸術祭優秀賞を受賞しました。<br>
-							放送は、5/5（土）22:00〜NHKFMにて。<br>
-							らじる★らじるの聞き逃し配信は、5/7（月）正午より１週間です。<br>
-							<br>
-					  	<a href="http://www.nhk.or.jp/audio/html_fm/fm2017002.html" target="_blank">http://www.nhk.or.jp/audio/html_fm/fm2017002.html</a>
-					  </p>
-					</div>
-
-					<div class="news">
-					  <p class="date">
-					    2018.04.30
-					  </p>
 					  <h3>菅生隆之『さようなら、コダクローム』配信開始</h3>
 					  <p class="icon">
 					    <a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
@@ -353,24 +299,6 @@
 							菅生隆之が、エド・ハリスを担当しています。<br>
 							<br>
 					  	<a href="https://www.netflix.com/title/80216834" target="_blank">https://www.netflix.com/title/80216834</a>
-					  </p>
-					</div>
-
-					<div class="news">
-					  <p class="date">
-					    2018.04.30
-					  </p>
-					  <h3>村治学『エージェント・オブ・シールド4』4.28より放送</h3>
-					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-					  </p>
-					  <p class="text">
-							村治学が主人公フィル・コールソン役を担当する、<br>
-							『エージェント・オブ・シールド』<br>
-							4/28（土）より「シーズン4」が、Dlifeにて放送スタートです。<br>
-							第1話「ゴースト」は21:00〜　放送予定は公式サイトでご確認ください。<br>
-							<br>
-					  	<a href="https://dlife.disney.co.jp/program/drama/agentsofshield_s4.html" target="_blank">https://dlife.disney.co.jp/program/drama/agentsofshield_s4.html</a>
 					  </p>
 					</div>
 
@@ -450,15 +378,13 @@
 					  <p class="date">
 					    2018.04.10
 					  </p>
-					  <h3>山像かおり，村治学　FMシアター『100億分の1のオトン』に出演</h3>
+					  <h3>山像かおり　FMシアター『100億分の1のオトン』に出演</h3>
 					  <p class="icon">
 					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 					  </p>
 					  <p class="text">
 					    NHKラジオドラマ、FMシアター『100億分の1のオトン』に出演いたします。<br>
 					    山像かおり：オカン役<br>
-					    村治学：支店長、校長先生<br>
 					    放送：4/14（土）22:00〜NHKFM<br>
 					    ＊聞き逃し配信：4/16（月）正午〜1週間<br>
 					    <a href="http://www.nhk.or.jp/audio/html_fm/fm2018012.html" target="_blank">http://www.nhk.or.jp/audio/html_fm/fm2018012.html</a>
@@ -540,23 +466,6 @@
 					  <p class="date">
 					    2018.04.10
 					  </p>
-					  <h3>村治学　スターチャンネル『ガンパウダー』放送開始</h3>
-					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-					  </p>
-					  <p class="text">
-					    スターチャンネルの最新海外ドラマ『ガンパウダー』、<br>
-					    村治学が国王・ジェームズ１世役を担当しています。<br>
-					    放送［吹替え版］：3/26（月）23:30〜スターチャンネル3<br>
-					    今後の放送予定は、公式サイトをご覧ください。<br>
-					    <a href="https://www.star-ch.jp/drama/gunpowder/" target="_blank">https://www.star-ch.jp/drama/gunpowder/</a>
-					  </p>
-					</div>
-
-					<div class="news">
-					  <p class="date">
-					    2018.04.10
-					  </p>
 					  <h3>山像かおり　NETFLIX『レクイエム：マチルダ・グレイの秘密』配信開始</h3>
 					  <p class="icon">
 					    <a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
@@ -598,42 +507,6 @@
 					    放送：ディスカバリーチャンネルにて（公式の番組表をご覧ください）<br>
 					    <a href="https://www.discoverychannel.jp/ja/d-news/through-the-wormhole-180214.html" target="_blank">https://www.discoverychannel.jp/ja/d-news/through-the-wormhole-180214.html</a>
 					  </p>
-					</div>
-
-					<div class="news">
-					  <p class="date">
-					    2018.04.10
-					  </p>
-					  <h3>村治学　スターチャンネル『ミスター・メルセデス』放送開始</h3>
-					  <p class="icon">
-					    <a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-					  </p>
-					  <p class="text">
-					    スティーブン・キング原作＆製作総指揮、スターチャンネル最新海外ドラマ『ミスター・メルセデス』、<br>
-					    村治学が、アントニー・ロビー・フロビッシャー役で出演します。<br>
-					    放送［吹替え版］：3/2（金）より〜スターチャンネル3<br>
-					    今後の放送予定は公式サイトをご覧ください。<br>
-					    <a href="https://www.star-ch.jp/drama/mr-mercedes/" target="_blank">https://www.star-ch.jp/drama/mr-mercedes/</a>
-					  </p>
-					</div>
-
-					<div class="news">
-						<p class="date">
-							2018.02.09
-						</p>
-						<h3>村治学　『セーフハウス～もう一人の殺人鬼～』2/12（月祝）一挙放送</h3>
-						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-						</p>
-						<p class="text">
-							WOWOWプライム・新作海外ドラマ、<br>
-							『セーフハウス～もう一人の殺人鬼～』<br>
-							村治学が、サイモン・デューク役を担当しています。<br>
-							全4回の一挙放送(第1話は無料放送)です。<br>
-							是非、ご覧ください。<br>
-							<br>
-							※ 公式サイト：<a href="http://www.wowow.co.jp/detail/107490" target="_blank">http://www.wowow.co.jp/detail/107490</a>
-						</p>
 					</div>
 
 					<div class="news">
@@ -719,24 +592,6 @@
 
 					<div class="news">
 						<p class="date">
-							2018.01.17
-						</p>
-						<h3>村治学 映画『ドリーム』デジタル配信＆BD/DVDリリース開始</h3>
-						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-						</p>
-						<p class="text">
-							20世紀フォックス映画、アカデミー賞3部門ノミネートの『ドリーム』が配信、＆リリースされます。<br>
-							1/17（水）先行デジタル配信。2/2（金）ブルーレイ＆DVDリリース。<br>
-							村治学が、ポール・スタッフォード役（ジム・パーソンズ）を担当しています。<br>
-							どうぞご覧ください。<br>
-							<br>
-							※ 公式サイト：<a href="http://www.foxmovies-jp.com/dreammovie" target="_blank">http://www.foxmovies-jp.com/dreammovie</a>
-						</p>
-					</div>
-
-					<div class="news">
-						<p class="date">
 							2018.01.10
 						</p>
 						<h3>菅生隆之 TVアニメ『銀の墓守Ⅱ』1/13スタート</h3>
@@ -777,14 +632,13 @@
 						<p class="date">
 							2017.12.27
 						</p>
-						<h3>山像かおり 村治学 NHKラジオ『朗読　織田作之助作品集』1/8放送開始</h3>
+						<h3>山像かおり NHKラジオ『朗読　織田作之助作品集』1/8放送開始</h3>
 						<p class="icon">
 							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
 						</p>
 						<p class="text">
 							1/8より放送のNHKラジオ「朗読」は、『織田作之助作品集』です。<br>
-							山像かおりと村治学の朗読で、織田作之助の三作品をお送りします。<br>
+							山像かおりの朗読で、織田作之助の三作品をお送りします。<br>
 							<br>
 							『織田作之助作品集』全20回　NHKラジオ第2<br>
 							放送日時：1/8（月）〜2/4（土）<br>
@@ -792,7 +646,6 @@
 							※ （土）22:25〜24:00（連続5回集中再放送）<br>
 							「夫婦善哉（9回）」朗読：山像かおり　1/8〜1/18 放送<br>
 							「続　夫婦善哉（5回）」朗読：山像かおり　1/19〜1/25 放送<br>
-							「六白金星（6回）」朗読：村治学　1/26〜2/3 放送<br>
 							<br>
 							※ 公式サイト：<a href="http://www4.nhk.or.jp/roudoku/" target="_blank">http://www4.nhk.or.jp/roudoku/</a>
 						</p>
@@ -843,30 +696,6 @@
 							メール mail@ryuzanji.com<br>
 							<br>
 							※ 公式サイト：<a href="http://www.ryuzanji.com/" target="_blank">http://www.ryuzanji.com/</a>
-						</p>
-					</div>
-
-					<div class="news">
-						<p class="date">
-							2017.12.05
-						</p>
-						<h3>村治学　12/13より『ホテル ハルシオン』に出演</h3>
-						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-						</p>
-						<p class="text">
-							あの『ダウントン・アビー』のITVが送る英国発・最新海外ドラマシリーズ、<br>
-							『ホテル ハルシオン』に出演します。<br>
-							<br>
-							村治学 ＝ ルシアン・ダーバヴィル役<br>
-							（第3話「迷惑な宿泊客」より登場）<br>
-							<br>
-							放送日時[吹替え版]<br>
-							第3話　12月13日(水)23:30〜　スターチャンネル3<br>
-							<br>
-							全8話、毎週(水)23:30〜お楽しみください。<br>
-							<br>
-							※ 公式サイト：<a href="https://www.star-ch.jp/drama/hotel-halcyon/sid=1/p=t/" target="_blank">https://www.star-ch.jp/drama/hotel-halcyon/sid=1/p=t/</a>
 						</p>
 					</div>
 
@@ -931,35 +760,6 @@
 							<a href="http://wakaiensouka-project.com" target="_blank">http://wakaiensouka-project.com</a>
 						</p>
 					</div>
-
-					<div class="news">
-						<div class="news-photos">
-							<a href="/images/news/07.jpg"><img src="/images/news/07.jpg"></a>
-							<span>&copy; Loving Vincent Sp. z o.o/ Loving Vincent ltd.</span>
-						</div>
-						<p class="date">
-							2017.09.29
-						</p>
-						<h3>村治学　11.3公開『ゴッホ〜最期の手紙〜』に出演</h3>
-						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-						</p>
-						<p class="text">
-							《「愛か、狂気か。」世界初、全編が動く油絵で構成される珠玉のアートサスペンス映画》<br>
-							<br>
-							2017年アヌシー国際アニメーション映画祭・観客賞受賞の劇場アニメ、<br>
-							『ゴッホ〜最後の手紙〜』で、村治学が、ガシェ医師（ジェローム・フリン）役を担当します。<br>
-							<br>
-							劇場公開は、<br>
-							11月3日(金・祝) TOHOシネマズ六本木ヒルズ、<br>
-							11月4日(土) TOHOシネマズ上野、ほか全国ロードショーです。<br>
-							<br>
-							＊公式サイト　<a href="http://www.gogh-movie.jp/" target="_blank">http://www.gogh-movie.jp/</a><br>
-							＊劇場情報　<a href="http://eigakan.org/theaterpage/schedule.php?t=nWPPELol" target="_blank">http://eigakan.org/theaterpage/schedule.php?t=nWPPELol</a><br>
-							＊キャスト紹介　<a href="http://www.gogh-movie.jp/cast.php" target="_blank">http://www.gogh-movie.jp/cast.php</a>
-						</p>
-					</div>
-
 
 					<div class="news">
 						<div class="news-photos">
@@ -1106,28 +906,6 @@
 						<p class="date">
 							2017.08.11
 						</p>
-						<h3>村治学　『エージェント・オブ・シールド4』8/19（土）放送スタート</h3>
-						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-						</p>
-						<p class="text">
-							大ヒット映画『アベンジャーズ』の後の世界を描くスピンオフドラマの最新シーズンがいよいよWOWOWプライムにて放送開始です。<br>
-							村治学が、主人公のシールドの長官、フィル・コールソン（クラーク・グレッグ）の吹替えを担当しています。<br>
-							<br>
-							放送予定 [吹替え版]<br>
-							8/19（土）13:00〜　第1話〜第5話　＊第1話は無料放送<br>
-							8/26（土）13:00〜　第6話〜第10話<br>
-							9/2（土）13:00〜　第11話〜第16話<br>
-							9/9（土）13:00〜　第17話〜第22話（最終回）<br>
-							＊途中、深夜に再放送もあります。<br>
-							<a href="http://www.wowow.co.jp/detail/110471" target="_blank">http://www.wowow.co.jp/detail/110471</a>
-						</p>
-					</div>
-
-					<div class="news">
-						<p class="date">
-							2017.08.11
-						</p>
 						<h3>佐古真弓　8/18（金）夜9時「エクスペンダブルズ3」ニコニコ生放送・実況中継に出演</h3>
 						<p class="icon">
 							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
@@ -1247,21 +1025,6 @@
 
 					<div class="news">
 						<p class="date">
-							2017.07.08
-						</p>
-						<h3>村治学　NHK『SHERLOCK／シャーロック４』7/8（土）放送開始</h3>
-						<p class="icon">
-							<a href="/muraji"><img src="/images/icon/muraji.jpg"></a>
-						</p>
-						<p class="text">
-							現代のロンドンを舞台に、名探偵シャーロック・ホームズが活躍する大ヒットドラマ。ついに最新シリーズの放送です。<br>
-							吹替え版で、シャーロックの宿敵、ジム・モリアーティ（アンドリュー・スコット）を担当しています。お楽しみに！<br>
-							＊<a href="http://www4.nhk.or.jp/sherlock4/" target="_blank">NHK『SHERLOCK4』公式サイト</a>
-						</p>
-					</div>
-
-					<div class="news">
-						<p class="date">
 							2017.06.09
 						</p>
 						<h3>秋之桜子インタビュー掲載!</h3>
@@ -1344,15 +1107,6 @@
 						<li><span>BD/DVD</span>7.21リリース「<a href="http://tv.foxjapan.com/fox/program/index/prgm_id/20765" target="_blank">24-TWENTY FOUR- レガシー</a>」吹替 レベッカ・イングラム（ミランダ・オットー）</li>
 					</ul>
 
-					<h3>村治 学</h3>
-					<ul>
-						<li><span>海外ドラマ</span>「<a href="http://dlife.disney.co.jp/program/drama/agentsofshield_s3.html" target="_blank">エージェント・オブ・シールド シーズン3</a>」吹替 フィル・コールソン  Dlife(土)13:00/21:00</li>
-						<li><span>海外ドラマ</span>「SHERLOCK/シャーロック シーズン4」吹替 ジム・モリアーティ NHKBSプレミアム7.8(土)22:00~</li>
-						<li><span>海外ドラマ</span>「<a href="https://www.netflix.com/jp/" target="_blank">Sence8 シーズン2</a>」吹替 ジョナス・マリキ NETFLIX 配信中</li>
-						<li><span>劇場</span>「<a href="http://www.passenger-movie.jp/" target="_blank">パッセンジャー</a>」吹替 アーサー（マイケル・シーン）</li>
-					</ul>
-
-
 					<h3>佐古 真弓</h3>
 					<ul>
 						<li><span>海外ドラマ</span>「<a href="http://bd-dvd.sonypictures.jp/theartofmore/" target="_blank">アート・オブ・モア 美と欲望の果て</a>」吹替 ロクサーナ（ケイト・ボスワース） GYAO! 配信中</li>
@@ -1360,7 +1114,6 @@
 						<li><span>海外ドラマ</span>「<a href="https://www.netflix.com/jp/" target="_blank">Sence8 シーズン2</a>」吹替  サン（ペ・ドゥナ）NETFLIX 配信中</li>
 						<li><span>BD/DVD</span>「<a href="http://bd-dvd.sonypictures.jp/inferno-movie/dvd/" target="_blank">インフェルノ</a>」吹替 シエナ・ブルックス（フェリシティ・ジョーンズ）</li>
 					</ul>
-
 
 					<h3>秋之桜子</h3>
 					<ul>
