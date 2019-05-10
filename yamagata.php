@@ -7,6 +7,12 @@
 	include('_header.php');
 
 ?>
+<script src="/assets/js/audiojs/audio.min.js"></script>
+<script>
+	audiojs.events.ready(function() {
+		audiojs.createAll();
+	});
+</script>
 
 	<section id="cover-photo">
 		<img src="/images/company/yamagata_photo.jpg" />
@@ -28,9 +34,39 @@
 						<li>趣味・特技：ウィンドサーフィン</li>
 					</ul>
 
-					<hr>
+					<div class="voice-area cf">
+						<h5>ボイスサンプル</h5>
+						<div class="voice">
+							<p>ナレーション1</p>
+							<audio src="/mp3/yamagata/04.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>2</p>
+							<audio src="/mp3/yamagata/05b.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>3</p>
+							<audio src="/mp3/yamagata/06b.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>セリフ</p>
+							<audio src="/mp3/yamagata/01b.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>関西弁</p>
+							<audio src="/mp3/yamagata/02b.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>ラジオドラマ</p>
+							<audio src="/mp3/yamagata/03b.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>フリートーク</p>
+							<audio src="/mp3/yamagata/07.mp3"></audio>
+						</div>
+					</div>
 
-					<h4>略歴</h4>
+					<h5>略歴</h5>
 					<ul>
 						<li>1983年 文学座研究所入所（第23期生）</li>
 						<li>1985年 舞台「事ありげな夏の夕暮れ」（西川信廣演出/文学座）でデビュー</li>
@@ -65,35 +101,22 @@
 
 					<h5>舞台</h5>
 					<ul>
-						<li>はんなりラヂオ「<a href="http://hannnariradio.com/" target="_blank">はんなり☆夏語り～晴～</a>」7月12日～14日　赤坂RED／THEATER</li>
-						<li>aibook 「<a href="http://aibook.trickplan.com/web/aibook04/" target="_blank">吐く</a>」8月29日～9月4日　下北沢駅前劇場</li>
-					</ul>
-
-					<h5>劇場</h5>
-					<ul>
-						<li>「<a href="https://starwars.disney.co.jp/movie/hansolo.html" target="_blank">ハン・ソロ／スター・ウォーズ・ストーリー</a>」6.29公開　ヴァル</li>
-					</ul>
-
-					<h5>TV</h5>
-					<ul>
-						<li>「<a href="http://www.bs-j.co.jp/cinema/?p=201808082000" target="_blank">デンジャラス・ラン</a>」リンクレイター（ベラ・ファミーガ）BSジャパン新録版</li>
-						<li>「<a href="http://www9.nhk.or.jp/kaigai/ison/" target="_blank">仮面の王 イ・ソン</a>」 王妃　NHKBSプレミアム</li>
+						<li>「<a href="http://suikato.blog.jp/archives/28177373.html" target="_blank">ご馳走</a>」西瓜糖　5/18（土）～26（日）下北沢ザ・スズナリ</li>
+						<li style="margin: 10px 0 0 10px;">
+							◆関連情報
+							<ul>
+								<li>「カンフェティ」インタビュー掲載　<a href="https://www.confetti-web.com/sp/feature/article.php?aid=611" target="_blank">https://www.confetti-web.com/sp/feature/article.php?aid=611</a></li>
+								<li>「ステージナタリー」公演情報掲載　<a href="https://natalie.mu/stage/news/328465" target="_blank">https://natalie.mu/stage/news/328465</a></li>
+								<li>「井上和彦の和っしょい」ニコニコ生放送  ゲスト出演 4/30　<a href="https://ch.nicovideo.jp/inouekazuhiko" target="_blank">https://ch.nicovideo.jp/inouekazuhiko</a></li>
+							</ul>
+						</li>
 					</ul>
 
 					<h5>配信</h5>
 					<ul>
-						<li>「<a href="https://www.netflix.com/title/80184068" target="_blank">レクイエム：マチルダ・グレイの秘密</a>」 ローズ　NETFLIX</li>
-					</ul>
-
-					<h5>ラジオ</h5>
-					<ul>
-						<li>「<a href="http://www.nhk.or.jp/audio/html_fm/fm2018012.html" target="_blank">１００億分の１のオトン</a>」オカン役　NHKFMシアター</li>
-						<li>朗読「織田作之助作品集〜夫婦善哉、続 夫婦善哉」NHKラジオ第2</li>
-					</ul>
-
-					<h5>ほか</h5>
-					<ul>
-						<li>「<a href="https://www.fukikaeru.com/?p=9821#nico" target="_blank">デンジャラス・ラン～新録放送吹替え版・放送実況</a>」ニコニコ生放送</li>
+						<li>「<a href="https://www.netflix.com/title/80219707?s=i&trkid=13747225" target="_blank">デッド・トゥ・ミー 〜さようならの裏に〜</a>」ジェン(クリスティナ・アップルゲイト) Netflix</li>
+						<li>「ホームカミング」（ジュリア・ロバーツ）Amazonプライム</li>
+						<li>「<a href="https://www.netflix.com/search?q=SEX&jbv=80197526&jbp=0&jbr=0" target="_blank">セックス・エデュケーション</a>」 ジーン（ジリアン・アンダーソン）　NETFLIX</li>
 					</ul>
 
 					<hr>
@@ -130,6 +153,7 @@
 						<li>「モデル」</li>
 						<li>「うみ」（以上、松本祐子演出）</li>
 						<li>「レバア」（寺十吾演出）</li>
+						<li>「ご馳走」（加納幸和演出）</li>
 						<li>　</li>
 						<li>その他の公演</li>
 						<li>「かわいやの」「逢うが別れのはじめとは」他（逢坂勉作・演出/ロマン舎）</li>
@@ -147,6 +171,8 @@
 						<li>「オケハザマ」（しりあがり寿作/流山児祥演出/流山児★事務所）</li>
 						<li>はんなり☆夏語り～晴～「あした咲く蕾」（朱川湊人原作/TARAKO脚色・演出/はんなりラヂオ）</li>
 						<li>「吐く」（笹峯愛 作・演出/aibook）</li>
+						<li>演劇×オペラ「コジ・ファン・トゥッテ」（斉藤祐一脚色/高橋正徳演出/若い演奏家の為のプロジェクト）</li>
+						<li>「お正月」（わかぎゑふ作/演出/玉造小劇店）</li>
 					</ul>
 
 					<h5>テレビ</h5>
@@ -185,6 +211,7 @@
 						<li>「翼はいつまでも」</li>
 						<li>「ラジオ・キラー」</li>
 						<li>「ヤッさん」</li>
+						<li>「夜のストーリーボックス」</li>
 						<li>　</li>
 						<li>NHKポップスライブラリー</li>
 						<li>「路地の匂い　町の音」から　</li>
@@ -213,6 +240,8 @@
 						<li>「エージェント・オブ・シールド」　ロザリンド・プライス（コンスタンス・ジマー）</li>
 						<li>「LOST」　リビー（シンシア・ワトロス）</li>
 						<li>「レクイエム：マチルダ・グレイの秘密」　ローズ</li>
+						<li>「セックス・エデュケーション」　ジーン（ジリアン・アンダーソン）</li>
+						<li>「デッド・トゥ・ミー 〜さようならの裏に〜」ジェン（クリスティナ・アップルゲイト）</li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
@@ -248,6 +277,7 @@
 						<li>＜ジュリア・ロバーツ＞</li>
 						<li>「8月の家族たち」　バーバラ・ウェストン</li>
 						<li>「シークレット・アイズ」　ジェシカ</li>
+						<li>「ホームカミング」　※海外ドラマ Amazonプライムビデオ</li>
 						<li>　</li>
 						<li>＜ヘレナ・ボナム＝カーター＞</li>
 						<li>「チャーリーとチョコレート工場」　バケット夫人</li>
@@ -279,6 +309,7 @@
 						<li>「RED/レッド」，「REDリターンズ」　サラ・ロス（メアリー＝ルイーズ・パーカー）</li>
 						<li>「ハン・ソロ／スター・ウォーズ・ストーリー」ヴァル（ダンディ・ニュートン）</li>
 						<li>「デンジャラス・ラン」リンクレイター（ベラ・ファーミガ）新録版</li>
+						<li>「アリータ バトル・エンジェル」チレン（ジェニファー・コネリー）</li>
 					</ul>
 
 					<h5>アニメ</h5>

@@ -50,25 +50,27 @@
 
 					<h5>劇場</h5>
 					<ul>
-						<li>「<a href="https://www.disney.co.jp/movie/incredible-family.html" target="_blank">インクレイディブル・ファミリー</a>」リック・ディッカー　8.1公開</li>
-						<li>「<a href="http://flcl-anime.com/progre/" target="_blank">劇場版 フリクリ プログレ</a>」cvアイパッチ 9.28公開 東宝</li>
+						<li>「<a href="http://www.toei-mangamatsuri.jp/" target="_blank">映画おしりたんてい カレーなるじけん</a>」東映まんがまつり 4/26公開</li>
+						<li>「<a href="http://wwws.warnerbros.co.jp/lego/" target="_blank">レゴムービー２</a>」アルフレッド・ペニーワース 3/29公開</li>
 					</ul>
 
 					<h5>TV</h5>
 					<ul>
-						<li>「<a href="http://www4.nhk.or.jp/etv21c/x/2018-08-04/31/29579/2259631/" target="_blank">HERE AND NOW ～家族のカタチ～</a>」グレッグ（ティム・ロビンス）スターチャンネル</li>
-						<li>ETV特集「<a href="https://www.star-ch.jp/drama/here-and-now/" target="_blank">シリーズ アメリカと被爆者～シュモーさんを探して</a>」シュモー氏語り</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/112530" target="_blank">BBC Earth 2018 ワイルド・マウンテン 荘厳なる俊嶺</a>」ナレーション　WOWOW</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/113406" target="_blank">クリミナルマインド13行動分析課</a>」デヴィッド・ロッシ　WOWOWプライム</li>
 						<li>「<a href="http://www.oshiri-tantei.com/" target="_blank">おしりたんてい</a>」cvマスター Eテレ</li>
-						<li>「<a href="https://www.discoverychannel.jp/ja/d-news.html" target="_blank">モーガン・フリーマンが語る宇宙 S7</a>」モーガン・フリーマン語り ディスカバリーCH</li>
 						<li>「<a href="http://www.tv-tokyo.co.jp/anime/yugioh-vrains/" target="_blank">遊☆戯☆王 VRAINS</a>」cv鴻上博士 TX</li>
 						<li>「<a href="http://www.kamuy-anime.com/" target="_blank">ゴールデンカムイ</a>」cv永倉新八 TOKYOMX</li>
+						<li>「<a href="http://baki-anime.jp/" target="_blank">バキ</a>」cv愚地独歩　TOKYOMX</li>
 					</ul>
 
 					<h5>配信</h5>
 					<ul>
+						<li>「<a href="https://www.netflix.com/title/80221787" target="_blank">バッド・ブラッド：憎しみのマフィア</a>」ヴィト<アンソニー・ラパリア> NETFLIX</li>
+						<li>「<a href="http://heromask.jp/" target="_blank">HERO MASK</a>」cvスティーブン・マートランド NETFLIX</li>
+						<li>「<a href="https://video.foxjapan.com/tv/homeland/s7/" target="_blank">ホームランド７</a>」ソール・ベレンソン　20世紀FOXデジタル配信</li>
 						<li>「<a href="https://www.netflix.com/jp/title/80216834" target="_blank">さようなら、コダクローム</a>」ベン（エド・ハリス） NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/title/80177803" target="_blank">世界の麻薬王：その光と闇</a>」ナレーション NETFLIX</li>
-						<li>アニメ「<a href="http://baki-anime.jp/" target="_blank">バキ</a>」cv愚地独歩　2018年夏NETFLIX</li>
 					</ul>
 
 					<h5>ＣＭ</h5>
@@ -77,12 +79,11 @@
 						<li>山田養蜂場「<a href="http://www.3838.com/" target="_blank">みつばち乳酸菌</a>」</li>
 						<li><a href="https://www.youtube.com/channel/UCkWkCguOlljD8G7LuHDwAew" target="_blank">FDA フジドリームエアラインズ</a></li>
 						<li>北海道新聞社「<a href="http://kk.hokkaido-np.co.jp/doga/" target="_blank">北海道の住人から〜記者編、販売所員編</a>」</li>
-						<li>福岡トヨペット「<a href="https://www.youtube.com/watch?v=LWBTVtMkTtQ" target="_blank">2018年新春初売り</a>」</li>
 					</ul>
 
-					<h5>ラジオ</h5>
+					<h5>ゲーム</h5>
 					<ul>
-						<li>NHKFMシアター「<a href="http://www.nhk.or.jp/audio/html_fm/fm2018019.html" target="_blank">母ちゃんと王様</a>」父・孝役　6.9放送</li>
+						<li>「<a href="https://www.jp.playstation.com/games/marvels-spider-man/" target="_blank">Marvel’s Spider-Man</a>」PS4　J・ジョナ・ジェイムソン</li>
 					</ul>
 
 					<hr>
@@ -126,6 +127,7 @@
 						<li>「ヒューマンズ　シーズン1」ミリカン博士＜ウィリアム・ハート＞</li>
 						<li>「世界の麻薬王：その光と闇」ナレーション</li>
 						<li>「HERE AND NOW ～家族のカタチ～」グレッグ <ティム・ロビンス></li>
+						<li>「バッド・ブラッド：憎しみのマフィア」ヴィト<アンソニー・ラパリア></li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
@@ -172,7 +174,7 @@
 						<li>「インクレイディブル・ファミリー」cvリック・ディッカー</li>
 					</ul>
 
-					<h5>アニメ </h5>
+					<h5>アニメ</h5>
 					<ul>
 						<li>「宇宙戦艦ヤマト２１９９」「宇宙戦艦ヤマト２２０２ 愛の戦士たち」沖田十三</li>
 						<li>「東京喰種トーキョーグール」芳村</li>
@@ -207,6 +209,7 @@
 						<li>「劇場版フリクリ プログレ」アイパッチ</li>
 						<li>「バキ」愚地独歩</li>
 						<li>「おしりたんてい」マスター</li>
+						<li>「HERO MASK」スティーブン・マートランド</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -217,9 +220,10 @@
 						<li>「大逆転裁判-成歩堂龍ノ介の冒険-」語り</li>
 						<li>「スーパーロボット大戦Ｖ」沖田十三</li>
 						<li>「任王」天海</li>
-						<li>「ファイヤーエンブレム Ｅchoes　もうひとりの英雄王」ルドルフ</li>
+						<li>「ファイヤーエンブレム Ｅchoes もうひとりの英雄王」ルドルフ</li>
 						<li>「グランブルーファンタジー」ゼエン</li>
 						<li>「ドラゴンズドグマ　ダークアリズン」エドマン</li>
+						<li>「Marvel’s Spider-Man」J・ジョナ・ジェイムソン</li>
 					</ul>
 
 					<h5>ラジオ</h5>
@@ -240,12 +244,14 @@
 						<li>福岡トヨペット「新春初売り」</li>
 					</ul>
 
-					<h5>番組ＮＡ</h5>
+					<h5>番組ナレーション</h5>
 					<ul>
+						<li>「いた！ヤバイ生き物　キケン生物と大バトル」ＮＴＶ</li>
 						<li>「ニノさん　ニノゴンの怪獣図鑑」ＮＴＶ</li>
 						<li>「超絶　凄ワザ！」ＮＨＫ</li>
 						<li>「超常現象　科学者たちの挑戦」ＮＨＫ</li>
-						<li>ETV特集「シリーズ アメリカと被爆者～シュモーさんを探して」シュモー氏語り Eテレ<br>他、ＮＨＫスペシャル（ボイスオーバー、朗読）多数</li>
+						<li>「シリーズ アメリカと被爆者～シュモーさんを探して」NHK・ETV特集</li>
+						<li>「BBC Earth 2018 ワイルド・マウンテン 荘厳なる俊嶺」WOWOW</li>
 					</ul>
 
 				</div>

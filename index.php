@@ -15,6 +15,7 @@
 		<div class="inner">
 			<h2><img src="images/logo.png" class="logo" alt="株式会社フクダ＆Ｃｏ．" /></h2>
 			<p>プロダクションカンパニー</p>
+			<p style="font-size:11px;"><a href="/info">2018.11.07 事務所移転のお知らせ</a></p>
 		</div>
 		<a href="#one" class="more scrolly">所属俳優</a>
 	</section>
@@ -56,23 +57,23 @@
 		<div class="inner">
 			<header class="major">
 				<h2>会社概要</h2>
-				<p class="company-name">　株式会社フクダ＆Ｃｏ．<br /><small>（読み　フクダ アンド コー）</small></p>
+				<p class="company-name">　株式会社フクダ＆Ｃｏ．<br><small>（読み　フクダ アンド コー）</small></p>
 				<p>代表取締役 福田 洋平</p>
 			</header>
 			<ul class="features">
 				<li class="icon fa-map-marker">
 					<h3>住所</h3>
 					<p>
-						〒180-0012 東京都武蔵野市緑町一丁目2-11<br />
-						TEL 0422-27-8861<br />
-						FAX 0422-55-6550<br />
+						〒101-0003 東京都千代田区一ツ橋2丁目5-3 一ツ橋フォレスター 802<br>
+						TEL 03-6272-8978<br>
+						FAX 03-6272-8979<br>
 						E-mail <a href="mailto:info@fukuda-and.co">info@fukuda-and.co</a>
 					</p>
 				</li>
 				<li class="icon fa-briefcase">
 					<h3>事業内容</h3>
 					<p>
-						俳優・脚本家・演出家・及び関連する専門スタッフのマネージメント業務。<br />
+						俳優・脚本家・演出家・及び関連する専門スタッフのマネージメント業務。<br>
 						テレビ番組・映画・企業ＣＭ・舞台公演に関わるキャスティング業務。
 					</p>
 				</li>

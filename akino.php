@@ -45,6 +45,13 @@
 
 					<hr />
 
+					<h4>最新作</h4>
+					<ul>
+						<li>「<a href="http://suikato.blog.jp/archives/28177373.html" target="_blank">ご馳走</a>」西瓜糖　5/18（土）～26（日）下北沢ザ・スズナリ</li>
+					</ul>
+
+					<hr />
+
 					<h4>主な脚本作品</h4>
 
 					<h5><a href="http://hagoromo1011.pupu.jp/" target="_blank">羽衣1011</a>（全公演）2005年～09年/郷田ほづみ演出</h5>
@@ -63,6 +70,7 @@
 						<li>「モデル」 １５年</li>
 						<li>「うみ」 １６年</li>
 						<li>「レバア」 １８年</li>
+						<li>「ご馳走」 １９年</li>
 					</ul>
 
 					<h5>羽衣1011+iori-apartment＝映像＋演劇</h5>
@@ -107,6 +115,16 @@
 					<h5>わらび座</h5>
 					<ul>
 						<li>ミュージカル「<a href="http://www.warabi.jp/sinbad/index.html" target="_blank">シンドバットの冒険</a>」 脚本・作詞 １６年～/高橋正徳演出 全国巡演</li>
+					</ul>
+
+					<h5>ドラマティック・カンパニー</h5>
+					<ul>
+						<li>「<a href="http://dramaticcompany.sakura.ne.jp/archives/news/amoremeto" target="_blank">Amore Me Too!!</a>」18年/加納幸和演出　シアターサンモール（東京）、一心寺シアター俱楽（大阪）</li>
+					</ul>
+
+					<h5>アプル</h5>
+					<ul>
+						<li>「<a href="http://www.skylimit.info/" target="_blank">SORAは青い The Sky's The Limit</a>」19年/滝井サトル演出　銀座 博品館劇場</li>
 					</ul>
 
 					<h5>WEBドラマ</h5>

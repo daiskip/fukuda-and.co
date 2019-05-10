@@ -7,6 +7,12 @@
 	include('_header.php');
 
 ?>
+<script src="/assets/js/audiojs/audio.min.js"></script>
+<script>
+	audiojs.events.ready(function() {
+		audiojs.createAll();
+	});
+</script>
 
 	<section id="cover-photo">
 		<img src="/images/company/saco_photo.jpg" />
@@ -28,9 +34,43 @@
 						<li>趣味・特技：着物</li>
 					</ul>
 
-					<hr>
+					<div class="voice-area cf">
+						<h5>ボイスサンプル</h5>
+						<div class="voice">
+							<p>セリフ1</p>
+							<audio src="/mp3/saco/05.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>2</p>
+							<audio src="/mp3/saco/09.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>3</p>
+							<audio src="/mp3/saco/07.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>4</p>
+							<audio src="/mp3/saco/08.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>ナレーション1</p>
+							<audio src="/mp3/saco/10.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>2</p>
+							<audio src="/mp3/saco/11.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>3</p>
+							<audio src="/mp3/saco/12.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>フリートーク</p>
+							<audio src="/mp3/saco/13.mp3"></audio>
+						</div>
+					</div>
 
-					<h4>略歴</h4>
+					<h5>略歴</h5>
 					<ul>
 						<li>1997年 文学座研究所入所（第37期生）</li>
 						<li>1998年 舞台「牛乳屋テヴィエ物語」（鵜山仁演出/文学座）でデビュー</li>
@@ -47,32 +87,47 @@
 
 					<h5>舞台</h5>
 					<ul>
-						<li>「<a href="http://www.ring-bong.com/info.html" target="_blank">ふたたびの日は 何色に咲く</a>」藤井ごう演出/Ring-Bong第8回公演 5/30-6/3 座・高円寺</li>
+						<li>「<a href="http://tubakigumi.com/upcoming-stage/" target="_blank">芙蓉咲く路地のサーガ ～熊野にありし男の物語～</a>」椿組2019年夏・花園神社野外劇　7/10〜7/22</li>
 					</ul>
 
 					<h5>映画</h5>
 					<ul>
-						<li>「<a href="http://deadpool.jp/" target="_blank">デッドプール 2</a>」ドミノ＜Zazie Beetz＞6.1公開</li>
+						<li>「<a href="http://www.nbcuni.co.jp/movie/sp/johnnyenglish/" target="_blank">ジョニー・イングリッシュ　アナログの逆襲</a>」オフィーリア<オルガ・キュリレンコ> Blu-ray＆DVD</li>
+						<li>「<a href="http://www.foxmovies-jp.com/battleofthesexes/" target="_blank">バトル・オブ・ザ・セクシーズ</a>」ビリー・ジーン<エマ・ストーン>Blu-ray＆DVD</li>
+						<li>「<a href="http://tonya-movie.jp/" target="_blank">アイ,トーニャ　史上最大のスキャンダル</a>」トーニャ・ハーディング<マーゴット・ロビー>Blu-ray＆DVD</li>
+						<li>「<a href="http://deadpool.jp/" target="_blank">デッドプール２</a>」ドミノ＜ザジー・ビーツ＞デジタル配信、Blu-ray＆DVD</li>
 						<li>「<a href="http://miss-sloane.jp/" target="_blank">女神の見えざる手</a>」エリザベス・スローン<ジェシカ・チャステイン> Blu-ray/DVD</li>
-						<li>「<a href="http://www.foxmovies-jp.com/kingsman/" target="_blank">キングスマン：ゴールデン・サークル</a>」 ティルデ王女<ハンナ・アルストロム>Blu-ray/DVD</li>
+						<li>「<a href="http://www.foxmovies-jp.com/kingsman/" target="_blank">キングスマン：ゴールデン・サークル</a>」ティルデ王女<ハンナ・アルストロム>Blu-ray/DVD</li>
+						<li>「<a href="http://mollysgame.jp/" target="_blank">モリーズ・ゲーム</a>」モリー・ブルーム<ジェシカ・チャステイン>Blu-ray/DVD</li>
 					</ul>
 
 					<h5>TV</h5>
 					<ul>
-						<li>「<a href="http://www9.nhk.or.jp/kaigai/ison/" target="_blank">仮面の王 イ・ソン</a>」 メチャン<イ・チェヨン> NHKBSプレミアム</li>
-						<li>「<a href="http://www.wowow.co.jp/detail/112156" target="_blank">グッド・ドクター 名医の条件</a>」ジェシカ・プレストン　WOWOW</li>
-						<li>「<a href="http://www4.nhk.or.jp/etv21c/x/2018-08-04/31/29579/2259631/" target="_blank">HERE AND NOW ～家族のカタチ～</a>」シャロン・チェン　スターチャンネル</li>
+						<li>「<a href="https://www9.nhk.or.jp/kaigai/fumetsu/" target="_blank">不滅の恋人</a>」ヨギョン<チュ・スヨン> NHKBSプレミアム</li>
+						<li>「<a href="https://www.star-ch.jp/drama/sharp-objects/sid=1/p=t/" target="_blank">KIZU -傷-</a>」カミール・プリーカー＜エイミー・アダムス＞スターチャンネル</li>
 					</ul>
 
 					<h5>配信</h5>
 					<ul>
-						<li>「<a href="https://www.netflix.com/title/80057918" target="_blank">ＬＵＣＩＦＥＲ/ルシファー</a>」 クロエ・デッカー<ローレン・ジャーマン> NETFLIX</li>
-						<li>「<a href="https://www.netflix.com/title/80103417" target="_blank">僕と君と彼女の関係</a>」 エマ<レイチェル・ブランチャード>  NETFLIX</li>
+						<li>「<a href="https://www.netflix.com/title/80057918" target="_blank">ＬＵＣＩＦＥＲ/ルシファー シーズン4</a>」クロエ・デッカー<ローレン・ジャーマン> NETFLIX</li>
+						<li>「<a href="https://www.netflix.com/title/80124522" target="_blank">MANIAC</a>」アニー ＜エマ・ストーン＞ NETFLIX</li>
+						<li>「<a href="https://www.netflix.com/title/80103417" target="_blank">僕と君と彼女の関係</a>」エマ<レイチェル・ブランチャード>  NETFLIX</li>
 					</ul>
 
 					<h5>ゲーム</h5>
 					<ul>
-						<li>「<a href="https://www.jp.playstation.com/games/detroit-become-human/" target="_blank">Detroit: Become Human</a>」カーラ（ヒロイン）PlayStation4 5月発売</li>
+						<li>「<a href="https://www.jp.playstation.com/games/detroit-become-human/" target="_blank">Detroit: Become Human</a>」カーラ（ヒロイン）PlayStation4 発売中</li>
+						<li>「<a href="http://www.capcom.co.jp/onimusha/" target="_blank">鬼武者</a>」（ヘキュバ）PlayStation4 12/20発売</li>
+					</ul>
+
+					<h5>ラジオ</h5>
+					<ul>
+						<li><a href="https://www.nhk.or.jp/audio/html_fm/fm2019012.html" target="_blank">NHKFMシアター「ノスタルジック葉山」4/20放送</a></li>
+					</ul>
+
+					<h5>取材</h5>
+					<ul>
+						<li><a href="https://video.foxjapan.com/library/fukikae/interview/interview65/" target="_blank">映画「プロメテウス」〝吹替の帝王〟ロングインタビュー　20世紀FOX</a></li>
 					</ul>
 
 					<hr>
@@ -104,6 +159,8 @@
 						<li>2017年 「フィガロの結婚」（高橋正徳演出/若い演奏家の為のプロジェクト）</li>
 						<li>2018年　朗読「心接」（河村貴光演出/三好りえプロデュース）</li>
 						<li>2018年 「ふたたびの日は 何色に咲く」（藤井ごう演出/Ring-Bong）</li>
+						<li>2018年 「六月の斬る」（西村太佑演出/グワィニャオン）</li>
+						<li>2019年「芙蓉咲く路地のサーガ ～熊野にありし男の物語～」（青木豪演出/椿組・花園神社野外劇）</li>
 					</ul>
 
 					<h5>テレビ</h5>
@@ -114,56 +171,60 @@
 
 					<h5>吹替え[海外ドラマ,レギュラー作品]</h5>
 					<ul>
-						<li>「ナイトシフト　真夜中の救命医」 ジョーダン<ジル・フリント></li>
-						<li>「救命医ハンク　セレブ診療ファイル」 ジル・ケイシー<ジル・フリント></li>
-						<li>「アート・オブ・モア 美と欲望の果て」 ロクサーナ<ケイト・ボスワース></li>
-						<li>「僕と君と彼女の関係」 エマ<レイチェル・ブランチャード></li>
-						<li>「Ｓｅｎｃｅ８」 サン<ペ・ドゥナ></li>
-						<li>「ナイトメア～血塗られた秘密～」　ブローナ・クロフト<ビリー・パイパー></li>
-						<li>「ハンニバル」　アラーナ・ブルーム<カロリン・タヴァーナス></li>
-						<li>「ＬＵＣＩＦＥＲ/ルシファー」　クロエ・デッカー<ローレン・ジャーマン></li>
-						<li>「戦争と平和」　エレーヌ<タペンス・ミドルトン></li>
-						<li>「そして誰もいなくなった」　ヴェラ・クレイソーン<メイヴ・ダーモディ></li>
-						<li>「トランスペアレント」　アリ<ギャビー・ホフマン></li>
-						<li>「太王四神記」　キハ,カジン<ムン・ソリ></li>
-						<li>「ザ・フォロイング」 エマ・ヒル<ヴァロリー・カリー></li>
-						<li>「ふたりはお年ごろ」　ライリー・カールソン<メアリー=ケイト・オルセン></li>
-						<li>「４４００　未知からの生還者」　イザベル・タイラー<メガリン・エキカンウォーク></li>
-						<li>「火の鳥」　イ・ジウン<イ・ウンジュ></li>
-						<li>「仮面の王 イ・ソン」 メチャン<イ・チェヨン></li>
+						<li>「ナイトシフト　真夜中の救命医」ジョーダン<ジル・フリント></li>
+						<li>「救命医ハンク　セレブ診療ファイル」ジル・ケイシー<ジル・フリント></li>
+						<li>「アート・オブ・モア 美と欲望の果て」ロクサーナ<ケイト・ボスワース></li>
+						<li>「僕と君と彼女の関係」エマ<レイチェル・ブランチャード></li>
+						<li>「Ｓｅｎｃｅ８」サン<ペ・ドゥナ></li>
+						<li>「ナイトメア～血塗られた秘密～」ブローナ・クロフト<ビリー・パイパー></li>
+						<li>「ハンニバル」アラーナ・ブルーム<カロリン・タヴァーナス></li>
+						<li>「ＬＵＣＩＦＥＲ/ルシファー」クロエ・デッカー<ローレン・ジャーマン></li>
+						<li>「戦争と平和」エレーヌ<タペンス・ミドルトン></li>
+						<li>「そして誰もいなくなった」ヴェラ・クレイソーン<メイヴ・ダーモディ></li>
+						<li>「トランスペアレント」アリ<ギャビー・ホフマン></li>
+						<li>「太王四神記」キハ,カジン<ムン・ソリ></li>
+						<li>「ザ・フォロイング」エマ・ヒル<ヴァロリー・カリー></li>
+						<li>「ふたりはお年ごろ」ライリー・カールソン<メアリー=ケイト・オルセン></li>
+						<li>「４４００　未知からの生還者」イザベル・タイラー<メガリン・エキカンウォーク></li>
+						<li>「火の鳥」イ・ジウン<イ・ウンジュ></li>
+						<li>「仮面の王 イ・ソン」メチャン<イ・チェヨン></li>
 						<li>「グッド・ドクター 名医の条件」ジェシカ・プレストン</li>
+						<li>「MANIAC」アニー ＜エマ・ストーン＞ NETFLIX</li>
+						<li>「KIZU -傷-」カミール・プリーカー＜エイミー・アダムス＞</li>
+						<li>「不滅の恋人」ヨギョン<チュ・スヨン></li>
 					</ul>
 
 					<h5>吹替え[洋画]</h5>
 					<ul>
 						<li><スカーレット・ヨハンソン></li>
-						<li>「アイアンマン２」　ブラック・ウィドウ</li>
-						<li>「幸せへのキセキ」　ケリー・フォスター</li>
-						<li>「ドン・ジョン」　バーバラ・シュガーマン</li>
-						<li>「ヘイル、シーザー！」 ディアナ・モラン</li>
-						<li>「ＬＵＣＹ/ルーシー」 ルーシー</li>
+						<li>「アイアンマン２」ブラック・ウィドウ</li>
+						<li>「幸せへのキセキ」ケリー・フォスター</li>
+						<li>「ドン・ジョン」バーバラ・シュガーマン</li>
+						<li>「ヘイル、シーザー！」ディアナ・モラン</li>
+						<li>「ＬＵＣＹ/ルーシー」ルーシー</li>
 						<li>　</li>
 						<li><フェリシティ・ジョーンズ></li>
-						<li>「博士と彼女のセオリー」　ジェーン・ワイルド・ホーキング</li>
-						<li>「インフェルノ」　シエナ・ブルックス</li>
+						<li>「博士と彼女のセオリー」ジェーン・ワイルド・ホーキング</li>
+						<li>「インフェルノ」シエナ・ブルックス</li>
 						<li>　</li>
 						<li><レイチェル・マクアダムス></li>
-						<li>「シャーロック・ホームズ」　アイリーン・アドラー</li>
-						<li>「シャーロック・ホームズ　シャドウゲーム」　アイリーン・アドラー</li>
-						<li>「恋とニュースのつくり方」　ベッキー・フルラー</li>
-						<li>「サウスポー」　モーリン・ホープ</li>
+						<li>「シャーロック・ホームズ」アイリーン・アドラー</li>
+						<li>「シャーロック・ホームズ　シャドウゲーム」アイリーン・アドラー</li>
+						<li>「恋とニュースのつくり方」ベッキー・フルラー</li>
+						<li>「サウスポー」モーリン・ホープ</li>
 						<li>　</li>
 						<li><ノオミ・ラパス></li>
 						<li>「ミレニアム」シリーズ　リスベット・サランデル</li>
 						<li>「パッション」イザベル・ジェームズ</li>
-						<li>「チャイルド４４　森に消えた子供たち」 ライーサ・デミドワ</li>
+						<li>「チャイルド４４　森に消えた子供たち」ライーサ・デミドワ</li>
 						<li>「プロメテウス」エリザベス・ショウ　＊ザ・シネマ版</li>
-						<li>「イミテーション・ゲーム/エニグマと天才数学者の秘密」　ジョーン・クラーク<キーラ・ナイトレイ></li>
+						<li>「イミテーション・ゲーム/エニグマと天才数学者の秘密」ジョーン・クラーク<キーラ・ナイトレイ></li>
 						<li>　</li>
 						<li><ジェシカ・チャステイン></li>
-						<li>「ゼロ・ダーク・サーティ」　マヤ</li>
-						<li>「欲望のバージニア」　マギー・ボーフォード</li>
-						<li>「女神の見えざる手」　エリザベス・スローン</li>
+						<li>「ゼロ・ダーク・サーティ」マヤ</li>
+						<li>「欲望のバージニア」マギー・ボーフォード</li>
+						<li>「女神の見えざる手」エリザベス・スローン</li>
+						<li>「モリーズ・ゲーム」モリー・ブルーム</li>
 						<li>　</li>
 						<li>「ベガスの恋に勝つルール」ジョイ・マクナリー<キャメロン・ディアス></li>
 						<li>「ナイト・ミュージアム２」アメリア・イアハート<エイミー・アダムス></li>
@@ -177,33 +238,38 @@
 						<li>「ザ・ビーチ」フランソワーズ<ヴィルジニー・ルドワイヤン>＊日本テレビ版</li>
 						<li>「キングスマン：ゴールデン・サークル」ティルデ王女（ハンナ・アルストロム）</li>
 						<li>「デッドプール 2」ドミノ＜Zazie Beetz＞</li>
+						<li>「バトル・オブ・ザ・セクシーズ」ビリー・ジーン<エマ・ストーン></li>
+						<li>「アイ,トーニャ　史上最大のスキャンダル」トーニャ・ハーディング<マーゴット・ロビー></li>
+						<li>「ジョニー・イングリッシュ　アナログの逆襲」オフィーリア<オルガ・キュリレンコ></li>
 					</ul>
 
 					<h5>アニメ</h5>
 					<ul>
-						<li>「金田一少年の事件簿Ｒ」　柳愛碧</li>
-						<li>「ＰＥＲＳＯＮＥ -trinity soul-」 橘花沙季,山咲まゆり</li>
-						<li>「ドラゴンクライシス！」　甲斐妃美佳</li>
-						<li>「Ｇｏ！プリンセスプリキュア」　舘響子</li>
-						<li>「遊☆戯☆王ＢＲＡＩＮＳ」　女性教師</li>
+						<li>「金田一少年の事件簿Ｒ」柳愛碧</li>
+						<li>「ＰＥＲＳＯＮＥ -trinity soul-」橘花沙季,山咲まゆり</li>
+						<li>「ドラゴンクライシス！」甲斐妃美佳</li>
+						<li>「Ｇｏ！プリンセスプリキュア」舘響子</li>
+						<li>「遊☆戯☆王ＶＲＡＩＮＳ」女性教師</li>
 						<li>「千と千尋の神隠し」</li>
 					</ul>
 
 					<h5>ゲーム</h5>
 					<ul>
-						<li>「バイオハザード６　Ｓｐｅｃｉａｌ　Ｐａｃｋａｇｅ」　ヘレナ・ハーパー</li>
-						<li>「ザ・キング・オブ・ファイターズ」　バイス</li>
-						<li>「Detroit: Become Human」　カーラ</li>
+						<li>「バイオハザード６　Ｓｐｅｃｉａｌ　Ｐａｃｋａｇｅ」ヘレナ・ハーパー</li>
+						<li>「ザ・キング・オブ・ファイターズ」バイス</li>
+						<li>「Detroit: Become Human」カーラ</li>
+						<li>「鬼武者」ヘキュバ</li>
 					</ul>
 
 					<h5>ラジオ</h5>
 					<ul>
-						<li>「満月の夜」　ＮＨＫＦＭシアター</li>
-						<li>「分身」　ＮＨＫＦＭ青春アドベンチャー</li>
-						<li>「白い虫」　ＮＨＫＦＭ青春アドベンチャー</li>
-						<li>「らせん階段」　ＮＨＫＦＭ青春アドベンチャー</li>
-						<li>「カラーライフ」　ＮＨＫＦＭ青春アドベンチャー</li>
-						<li>「光」　ＮＨＫＦＭ青春アドベンチャー</li>
+						<li>「満月の夜」ＮＨＫＦＭシアター</li>
+						<li>「分身」ＮＨＫＦＭ青春アドベンチャー</li>
+						<li>「白い虫」ＮＨＫＦＭ青春アドベンチャー</li>
+						<li>「らせん階段」ＮＨＫＦＭ青春アドベンチャー</li>
+						<li>「カラーライフ」ＮＨＫＦＭ青春アドベンチャー</li>
+						<li>「光」ＮＨＫＦＭ青春アドベンチャー</li>
+						<li>「ノスタルジック葉山」NHKFMシアター</li>
 					</ul>
 
 					<h5>Webラジオ</h5>
@@ -213,13 +279,18 @@
 
 					<h5>ＣＭ</h5>
 					<ul>
-						<li>「イオン　２０１６クリスマスごちそう会議」　ｃｖローストビーフ妃</li>
+						<li>「イオン　２０１６クリスマスごちそう会議」ｃｖローストビーフ妃</li>
 					</ul>
 
 					<h5>イベント</h5>
 					<ul>
-						<li>「ＷＯＷＯＷ「ナイトシフト　真夜中の救命医」試写イベント」 渋谷ＵＰＬＩＮＫ　</li>
-						<li>「ＷＯＷＯＷ「ザ・フォロイング」第５回ドラ活」 恵比寿ＤｕｏＤｏＭｏ</li>
+						<li>「ＷＯＷＯＷ「ナイトシフト　真夜中の救命医」試写イベント」渋谷ＵＰＬＩＮＫ</li>
+						<li>「ＷＯＷＯＷ「ザ・フォロイング」第５回ドラ活」恵比寿ＤｕｏＤｏＭｏ</li>
+					</ul>
+
+					<h5>取材</h5>
+					<ul>
+						<li><a href="https://video.foxjapan.com/library/fukikae/interview/interview65/" target="_blank">映画「プロメテウス」〝吹替の帝王〟ロングインタビュー　20世紀FOX</a></li>
 					</ul>
 
 				</div>

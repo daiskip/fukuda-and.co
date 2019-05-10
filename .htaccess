@@ -13,3 +13,4 @@ RewriteRule ^saco/?$ saco.php [PT]
 RewriteRule ^akino/?$ akino.php [PT]
 
 RewriteRule ^news/?$ news.php [PT]
+RewriteRule ^info/?$ info.php [PT]

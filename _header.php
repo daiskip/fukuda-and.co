@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="俳優・脚本家・演出家・及び関連する専門スタッフのマネージメント業務。テレビ番組・映画・企業ＣＭ・舞台公演に関わるキャスティング業務。">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/main.css?20180910d" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<link href="https://fonts.googleapis.com/earlyaccess/sawarabimincho.css" rel="stylesheet" />
@@ -41,6 +41,7 @@
 											<li><a href="/yamagata">　山像 かおり</a></li>
 											<li><a href="/saco">　佐古 真弓</a></li>
 											<li><a href="/akino">　秋之 桜子（脚本家）</a></li>
+											<li><a href="/info">お知らせ</a></li>
 											<li><a href="/#three" class="more scrolly">会社概要</a></li>
 										</ul>
 									</div>
