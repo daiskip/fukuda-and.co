@@ -20,6 +20,265 @@
 
 					<div class="news">
 						<p class="date">
+							2019.07.29
+						</p>
+						<h3>菅生隆之 『クリミナル・マインド14』8.20放送開始</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							WOWOWプライムの海外ドラマ『クリミナル・マインド FBI行動分析課』の最新シーズン14がいよいよ放送開始となります。<br>
+							菅生隆之が主人公デヴィッド・ロッシ（ジョー・マンテーニャ）を担当しています。<br>
+							放送は、<br>
+							8/3（土）17:00〜第1話 先行無料放送<br>
+							8/20（火）23:00〜本放送スタート（第1話無料放送です）<br>
+							<br>
+							<a href="https://www.wowow.co.jp/detail/115149" target="_blank">https://www.wowow.co.jp/detail/115149</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.29
+						</p>
+						<h3>菅生隆之　アニメ『ヴィンランド・サガ』に出演</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							TVアニメ『ヴィンランド・サガ』に菅生隆之がスヴェン王役で出演いたします。<br>
+							放送は、<br>
+							7/7（日）24:10〜NHK総合テレビにて<br>
+							Amazonnプライムビデオでは、放送の1時間後に配信されます。<br>
+							どうぞご覧ください。<br>
+							<br>
+							<a href="https://vinlandsaga.jp/" target="_blank">https://vinlandsaga.jp/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.29
+						</p>
+						<h3>佐古真弓　NHK総合テレビ『不滅の恋人』OA情報</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							韓国ドラマ『不滅の恋人』（全20回）がNHK総合テレビで放送となります。<br>
+							佐古真弓が、ヨギョン（チュ・スヒョン）を担当しています。<br>
+							放送は、<br>
+							8/4（日）23:00〜毎週（日）NHK総合テレビにて<br>
+							<br>
+							<a href="https://www9.nhk.or.jp/kaigai/fumetsu/" target="_blank">https://www9.nhk.or.jp/kaigai/fumetsu/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.29
+						</p>
+						<h3>菅生隆之　アニメ『キャロル＆チューズデイ』に出演</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							TVアニメ『キャロル＆チューズデイ』に菅生隆之がシュバルツ役で出演いたします。<br>
+							放送は、<br>
+							フジテレビにて毎週（水）24:55〜<br>
+							NETFLIXでも配信されています。<br>
+							<br>
+							<a href="http://caroleandtuesday.com/" target="_blank">http://caroleandtuesday.com/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.26
+						</p>
+						<h3>山像かおり　NHKラジオ朗読『浮雲』7.29放送開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							NHKラジオ第2で放送のラジオ「朗読」林芙美子著『浮雲』前編（全35回）<br>
+							山像かおりが、朗読を担当します。<br>
+							<br>
+							前編（35回）の放送は、<br>
+							7/29（月）から9/13（金）まで、平日の毎朝、9:45〜10:00、NHKラジオ第2<br>
+							毎週（土）夜21:45〜は、その週の1週間分の放送をまとめた再放送もあります。<br>
+							<br>
+							<a href="https://www4.nhk.or.jp/roudoku/x/2019-07-29/06/75670/4669684/" target="_blank">https://www4.nhk.or.jp/roudoku/x/2019-07-29/06/75670/4669684/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.26
+						</p>
+						<h3>佐古真弓　NETFLIX『アナザー・ライフ』7.25配信開始</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							NETFLIXの最新SFドラマ『アナザー・ライフ』（全10回）が、7/25（木）配信開始となりました。<br>
+							佐古真弓が、キャス役を担当しています。第2話からの出演です。ご覧ください。<br>
+							<br>
+							<a href="https://www.netflix.com/jp/title/80236236" target="_blank">https://www.netflix.com/jp/title/80236236</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<div class="news-photos">
+							<a href="/images/news/31.jpg" target="_blank"><img src="/images/news/31.jpg"></a>
+							<a href="/images/news/32.jpg" target="_blank"><img src="/images/news/32.jpg"></a>
+						</div>
+						<p class="date">
+							2019.07.19
+						</p>
+						<h3>山像かおり/秋之桜子　舞台『赤玉★GANGAN～芥川なんぞ、怖くない～』上演のお知らせ</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/akino"><img src="/images/icon/akino.jpg"></a>
+						</p>
+						<p class="text">
+							秋之桜子の新作脚本、山像かおり出演の舞台『赤玉★GANGAN～芥川なんぞ、怖くない～』が8月21日より下北沢ザ・スズナリにて上演となります。<br>
+							<br>
+							《明治天皇が亡くなり乃木大将が殉死し「力」の時代が終わりを告げた大正時代、関東大震災があなたや私に傷跡を残していったあと、若い作家たちは次に書くものは何かを探していた。芥川龍之介や菊池寛、人気の島田清次郎…偉大な先輩作家の影に抗いながら、自分の中の嫉妬心に恐怖しながら、家族も友人も恋人も巻き込みながら頭の中のネジをギシギシと巻き上げる》<br>
+							「真実って何だ？書きたいものって何だ？生きるってなんだ？」<br>
+							<br>
+							流山児★事務所 創立35周年記念公演第2弾<br>
+							『赤玉★GANGAN～芥川なんぞ、怖くない～』<br>
+							<br>
+							脚本：秋之桜子<br>
+							演出：高橋正徳（文学座）<br>
+							芸術監督：流山児祥<br>
+							<br>
+							日程：2019年8月21日（水）～27日（火）9ステージ<br>
+							会場：下北沢ザ・スズナリ<br>
+							チケット：6月15日より発売開始<br>
+							ご予約は、公式サイトよりお申し込みください。<br>
+							<a href="http://www.ryuzanji.com/2019/r-1908.html" target="_blank">http://www.ryuzanji.com/2019/r-1908.html</a><br>
+							<br>
+							◆関連情報<br>
+							ステージナタリー 7.8掲載<br>
+							《秋之桜子×高橋正徳が大正の文学青年描く、流山児★事務所「赤玉★GANGAN」》<br>
+							<a href="https://natalie.mu/stage/news/338854" target="_blank">https://natalie.mu/stage/news/338854</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.12
+						</p>
+						<h3>佐古真弓 『僕と君と彼女の関係』配信開始7.12</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							Netflixオリジナルドラマ『僕と君と彼女の関係』最新シーズン4が、7/12（金）配信開始となりました。<br>
+							佐古真弓がヒロイン、エマ(レイチェル・ブランチャード)を担当しています。<br>
+							全10回、ご覧下さい。<br>
+							<br>
+							<a href="https://www.netflix.com/title/80103417?s=i&trkid=13747225" target="_blank">https://www.netflix.com/title/80103417?s=i&trkid=13747225</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.07.04
+						</p>
+						<h3>佐古真弓 ニコニコ生放送『たかはし智秋のLADY LUCK CLUB』7.4出演</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							声優のたかはし智秋さんがホストをつとめるニコニコ生放送『たかはし智秋のLADY LUCK CLUB』に、佐古真弓がゲスト出演いたします。<br>
+							吹替えのお話や、7/10初日を迎える舞台『芙蓉咲く路地のサーガ』のお話など盛りだくさん。<br>
+							放送は、7/4（木）22:00〜23:00です。<br>
+							<br>
+							<a href="https://live.nicovideo.jp/watch/lv320788452" target="_blank">https://live.nicovideo.jp/watch/lv320788452</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.06.18
+						</p>
+						<h3>佐古真弓　TX「世界が騒然！本当にあった（秘）︎衝撃ファイル」6.18放送</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							佐古真弓がメインキャストのボイスオーバーで声の出演をしています。<br>
+							テレビ東京「世界が騒然！本当にあった（秘）︎衝撃ファイル　キケンな仰天事件SP」<br>
+							放送は、6/18（火）18:55〜の2時間スペシャルです。<br>
+							<br>
+							<a href="https://www.tv-tokyo.co.jp/tue/" target="_blank">https://www.tv-tokyo.co.jp/tue/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.06.07
+						</p>
+						<h3>菅生隆之 ディズニー映画『アラジン』6.7公開</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							ディズニー映画『アラジン』で、菅生隆之が国王サルタン（ナヴィド・ネガーバン）を担当しています。<br>
+							6/7（金）全国公開、吹替え版でもお楽しみください。<br>
+							〝今なお語り継がれるディズニー不朽の名作をついに実写映画化！〟<br>
+							<br>
+							<a href="https://www.disney.co.jp/movie/aladdin.html" target="_blank">https://www.disney.co.jp/movie/aladdin.html</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.06.07
+						</p>
+						<h3>山像かおり 『メリー・アン・シングルトンの物語』6.7配信開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							NETFLIXオリジナルドラマ『メリー・アン・シングルトンの物語』が、6/7（金）配信開始となりました。<br>
+							山像かおりが、タイトルロールのメリー・アン（ローラ・リニー）を担当しています。<br>
+							全10回、吹替え版でもお楽しみください。<br>
+							<br>
+							<a href="https://www.netflix.com/title/80211563" target="_blank">https://www.netflix.com/title/80211563</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<div class="news-photos">
+							<a href="/images/news/29.jpg" target="_blank"><img src="/images/news/29.jpg"></a>
+							<a href="/images/news/30.jpg" target="_blank"><img src="/images/news/30.jpg"></a>
+						</div>
+						<p class="date">
+							2019.05.31
+						</p>
+						<h3>佐古真弓　舞台『芙蓉咲く路地のサーガ』チケット発売中！</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							椿組2019年夏・花園神社野外劇『芙蓉咲く路地のサーガ』～熊野にありし男の物語～<br>
+							<a href="http://tubakigumi.com/upcoming-stage/" target="_blank">http://tubakigumi.com/upcoming-stage/</a><br>
+							<br>
+							チケットが、5/27（月）発売開始となりました。<br>
+							公演は、7/10（水）〜7/22（月）全13ステージ、連日、19時開演。<br>
+							会場は、新宿花園神社特設ステージです。<br>
+							<br>
+							「佐古真弓扱い」のチケット予約フォームはこちらです。ご予約お待ちしております。<br>
+							<a href="https://ticket.corich.jp/apply/99398/C04/" target="_blank">https://ticket.corich.jp/apply/99398/C04/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
 							2019.05.10
 						</p>
 						<h3>山像かおり＆秋之桜子　西瓜糖公演『ご馳走』インタビュー掲載</h3>
@@ -223,8 +482,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/27.jpg"><img src="/images/news/27.jpg"></a>
-							<a href="/images/news/28.jpg"><img src="/images/news/28.jpg"></a>
+							<a href="/images/news/27.jpg" target="_blank"><img src="/images/news/27.jpg"></a>
+							<a href="/images/news/28.jpg" target="_blank"><img src="/images/news/28.jpg"></a>
 						</div>
 						<p class="date">
 							2019.04.05
@@ -548,7 +807,7 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/26.jpg"><img src="/images/news/26.jpg"></a>
+							<a href="/images/news/26.jpg" target="_blank"><img src="/images/news/26.jpg"></a>
 						</div>
 						<p class="date">
 							2018.11.03
@@ -680,8 +939,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/24.jpg"><img src="/images/news/24.jpg"></a>
-							<a href="/images/news/25.jpg"><img src="/images/news/25.jpg"></a>
+							<a href="/images/news/24.jpg" target="_blank"><img src="/images/news/24.jpg"></a>
+							<a href="/images/news/25.jpg" target="_blank"><img src="/images/news/25.jpg"></a>
 						</div>
 						<p class="date">
 							2018.09.25
@@ -790,7 +1049,7 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/23.jpg"><img src="/images/news/23.jpg"></a>
+							<a href="/images/news/23.jpg" target="_blank"><img src="/images/news/23.jpg"></a>
 						</div>
 						<p class="date">
 							2018.09.09
@@ -1001,8 +1260,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/21.jpg"><img src="/images/news/21.jpg"></a>
-							<a href="/images/news/22.jpg"><img src="/images/news/22.jpg"></a>
+							<a href="/images/news/21.jpg" target="_blank"><img src="/images/news/21.jpg"></a>
+							<a href="/images/news/22.jpg" target="_blank"><img src="/images/news/22.jpg"></a>
 						</div>
 						<p class="date">
 							2018.06.27
@@ -1030,8 +1289,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/19.jpg"><img src="/images/news/19.jpg"></a>
-							<a href="/images/news/20.jpg"><img src="/images/news/20.jpg"></a>
+							<a href="/images/news/19.jpg" target="_blank"><img src="/images/news/19.jpg"></a>
+							<a href="/images/news/20.jpg" target="_blank"><img src="/images/news/20.jpg"></a>
 						</div>
 						<p class="date">
 							2018.06.27
@@ -1169,8 +1428,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/17.jpg"><img src="/images/news/17.jpg"></a>
-							<a href="/images/news/18.jpg"><img src="/images/news/18.jpg"></a>
+							<a href="/images/news/17.jpg" target="_blank"><img src="/images/news/17.jpg"></a>
+							<a href="/images/news/18.jpg" target="_blank"><img src="/images/news/18.jpg"></a>
 						</div>
 						<p class="date">
 							2018.04.10
@@ -1195,8 +1454,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/15.jpg"><img src="/images/news/15.jpg"></a>
-							<a href="/images/news/16.jpg"><img src="/images/news/16.jpg"></a>
+							<a href="/images/news/15.jpg" target="_blank"><img src="/images/news/15.jpg"></a>
+							<a href="/images/news/16.jpg" target="_blank"><img src="/images/news/16.jpg"></a>
 						</div>
 						<p class="date">
 							2018.04.10
@@ -1376,8 +1635,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/13.jpg"><img src="/images/news/13.jpg"></a>
-							<a href="/images/news/14.jpg"><img src="/images/news/14.jpg"></a>
+							<a href="/images/news/13.jpg" target="_blank"><img src="/images/news/13.jpg"></a>
+							<a href="/images/news/14.jpg" target="_blank"><img src="/images/news/14.jpg"></a>
 						</div>
 						<p class="date">
 							2018.02.05
@@ -1409,8 +1668,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/11.jpg"><img src="/images/news/11.jpg"></a>
-							<a href="/images/news/12.jpg"><img src="/images/news/12.jpg"></a>
+							<a href="/images/news/11.jpg" target="_blank"><img src="/images/news/11.jpg"></a>
+							<a href="/images/news/12.jpg" target="_blank"><img src="/images/news/12.jpg"></a>
 						</div>
 						<p class="date">
 							2018.01.18
@@ -1535,7 +1794,7 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/10.jpg"><img src="/images/news/10.jpg"></a>
+							<a href="/images/news/10.jpg" target="_blank"><img src="/images/news/10.jpg"></a>
 						</div>
 						<p class="date">
 							2017.11.06
@@ -1590,8 +1849,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/08.jpg"><img src="/images/news/08.jpg"></a>
-							<a href="/images/news/09.jpg"><img src="/images/news/09.jpg"></a>
+							<a href="/images/news/08.jpg" target="_blank"><img src="/images/news/08.jpg"></a>
+							<a href="/images/news/09.jpg" target="_blank"><img src="/images/news/09.jpg"></a>
 						</div>
 						<p class="date">
 							2017.11.02
@@ -1628,8 +1887,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/05.jpg"><img src="/images/news/05.jpg"></a>
-							<a href="/images/news/06.jpg"><img src="/images/news/06.jpg"></a>
+							<a href="/images/news/05.jpg" target="_blank"><img src="/images/news/05.jpg"></a>
+							<a href="/images/news/06.jpg" target="_blank"><img src="/images/news/06.jpg"></a>
 						</div>
 						<p class="date">
 							2017.09.15
@@ -1843,8 +2102,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/03.jpg"><img src="/images/news/03.jpg"></a>
-							<a href="/images/news/04.jpg"><img src="/images/news/04.jpg"></a>
+							<a href="/images/news/03.jpg" target="_blank"><img src="/images/news/03.jpg"></a>
+							<a href="/images/news/04.jpg" target="_blank"><img src="/images/news/04.jpg"></a>
 						</div>
 						<p class="date">
 							2017.07.08
@@ -1905,8 +2164,8 @@
 
 					<div class="news">
 						<div class="news-photos">
-							<a href="/images/news/01.jpg"><img src="/images/news/01.jpg"></a>
-							<a href="/images/news/02.jpg"><img src="/images/news/02.jpg"></a>
+							<a href="/images/news/01.jpg" target="_blank"><img src="/images/news/01.jpg"></a>
+							<a href="/images/news/02.jpg" target="_blank"><img src="/images/news/02.jpg"></a>
 						</div>
 						<p class="date">
 							2017.06.09

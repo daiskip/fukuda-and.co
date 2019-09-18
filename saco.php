@@ -103,13 +103,14 @@
 
 					<h5>TV</h5>
 					<ul>
-						<li>「<a href="https://www9.nhk.or.jp/kaigai/fumetsu/" target="_blank">不滅の恋人</a>」ヨギョン<チュ・スヨン> NHKBSプレミアム</li>
-						<li>「<a href="https://www.star-ch.jp/drama/sharp-objects/sid=1/p=t/" target="_blank">KIZU -傷-</a>」カミール・プリーカー＜エイミー・アダムス＞スターチャンネル</li>
+						<li>「<a href="https://www9.nhk.or.jp/kaigai/fumetsu/" target="_blank">不滅の恋人</a>」ヨギョン<チュ・スヨン> NHK総合 8/4より放送</li>
+						<li>「<a href="https://www.tv-tokyo.co.jp/tue/" target="_blank">世界が騒然！ 本当にあった（秘）衝撃ファイル キケンな仰天事件SP</a>」TX</li>
 					</ul>
 
 					<h5>配信</h5>
 					<ul>
 						<li>「<a href="https://www.netflix.com/title/80057918" target="_blank">ＬＵＣＩＦＥＲ/ルシファー シーズン4</a>」クロエ・デッカー<ローレン・ジャーマン> NETFLIX</li>
+						<li>「<a href="https://www.netflix.com/jp/title/80236236" target="_blank">アナザー・ライフ</a>」キャス NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/title/80124522" target="_blank">MANIAC</a>」アニー ＜エマ・ストーン＞ NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/title/80103417" target="_blank">僕と君と彼女の関係</a>」エマ<レイチェル・ブランチャード>  NETFLIX</li>
 					</ul>
@@ -120,14 +121,14 @@
 						<li>「<a href="http://www.capcom.co.jp/onimusha/" target="_blank">鬼武者</a>」（ヘキュバ）PlayStation4 12/20発売</li>
 					</ul>
 
-					<h5>ラジオ</h5>
-					<ul>
-						<li><a href="https://www.nhk.or.jp/audio/html_fm/fm2019012.html" target="_blank">NHKFMシアター「ノスタルジック葉山」4/20放送</a></li>
-					</ul>
-
 					<h5>取材</h5>
 					<ul>
 						<li><a href="https://video.foxjapan.com/library/fukikae/interview/interview65/" target="_blank">映画「プロメテウス」〝吹替の帝王〟ロングインタビュー　20世紀FOX</a></li>
+					</ul>
+
+					<h5>ほか</h5>
+					<ul>
+						<li><a href="https://live.nicovideo.jp/watch/lv320788452" target="_blank">『たかはし智秋のLADY LUCK CLUB』7.4 ニコニコ生放送</a></li>
 					</ul>
 
 					<hr>
@@ -163,12 +164,6 @@
 						<li>2019年「芙蓉咲く路地のサーガ ～熊野にありし男の物語～」（青木豪演出/椿組・花園神社野外劇）</li>
 					</ul>
 
-					<h5>テレビ</h5>
-					<ul>
-						<li>「修善寺温泉殺人事件」ＴＸ水曜女と愛とミステリー</li>
-						<li>「作家探偵・山村美紗②」ＴＸ水曜ミステリー９</li>
-					</ul>
-
 					<h5>吹替え[海外ドラマ,レギュラー作品]</h5>
 					<ul>
 						<li>「ナイトシフト　真夜中の救命医」ジョーダン<ジル・フリント></li>
@@ -189,9 +184,10 @@
 						<li>「火の鳥」イ・ジウン<イ・ウンジュ></li>
 						<li>「仮面の王 イ・ソン」メチャン<イ・チェヨン></li>
 						<li>「グッド・ドクター 名医の条件」ジェシカ・プレストン</li>
-						<li>「MANIAC」アニー ＜エマ・ストーン＞ NETFLIX</li>
+						<li>「MANIAC」アニー ＜エマ・ストーン＞</li>
 						<li>「KIZU -傷-」カミール・プリーカー＜エイミー・アダムス＞</li>
 						<li>「不滅の恋人」ヨギョン<チュ・スヨン></li>
+						<li>「アナザー・ライフ」キャス</li>
 					</ul>
 
 					<h5>吹替え[洋画]</h5>
@@ -259,6 +255,13 @@
 						<li>「ザ・キング・オブ・ファイターズ」バイス</li>
 						<li>「Detroit: Become Human」カーラ</li>
 						<li>「鬼武者」ヘキュバ</li>
+					</ul>
+
+					<h5>TV</h5>
+					<ul>
+						<li>「地球ドラマチック」（ボイスオーバー）NHKEテレ</li>
+						<li>「世界が騒然！本当にあった（秘）ミステリー６」（ボイスオーバー）TX</li>
+						<li>「世界が騒然！本当にあった（秘）衝撃ファイル キケンな仰天事件SP」（ボイスオーバー）TX</li>
 					</ul>
 
 					<h5>ラジオ</h5>

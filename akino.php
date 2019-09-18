@@ -9,7 +9,7 @@
 ?>
 
 	<section id="cover-photo">
-		<img src="/images/company/akino_photo.jpg" />
+		<img src="/images/company/akino_photo.jpg">
 	</section>
 
 	<!-- Main -->
@@ -26,7 +26,7 @@
 						1963年大阪府出身。２００５年に文学座の山像かおりと青二プロダクションの渡辺美佐により、「羽衣1011」（はごろもいちまるいちいち）をたちあげ、山像が脚本を担当（このときペンネーム秋之桜子と命名）。ドタバタした中にも哀愁のある女二人芝居は評判を得る。2010年に今までのコメディ路線とは違う、昭和の文士たちをモデルにした作品「猿」にて第16回劇作家協会新人戯曲賞優秀賞受賞。2012年には文学座の松本祐子・奧山美代子と演劇企画集団「西瓜糖」をたちあげ、大正～昭和という時代を背景に男と女の「生と性」、その先にある「欲求」を色濃く描き出す物語を創作している。ほか、他劇団、プロデュース公演、WEBドラマ、映画などの脚本など、あらゆるジャンルに作品を提供。日本劇作家協会所属。
 					</p>
 
-					<hr />
+					<hr>
 
 					<h4>関連サイト</h4>
 					<ul>
@@ -35,7 +35,7 @@
 						<li><a href="http://suikato.web.fc2.com/" target="_blank">西瓜糖 公式サイト</a></li>
 					</ul>
 
-					<hr />
+					<hr>
 
 					<h4>受賞歴</h4>
 					<ul>
@@ -43,34 +43,47 @@
 						<li>2013年 シアターグリーンＢＩＧＴＲＥＥＴＨＥＡＴＥＲ賞 「暗いところで待ち合わせ」の脚色</li>
 					</ul>
 
-					<hr />
+					<hr>
 
 					<h4>最新作</h4>
+
+					<h5>流山児★事務所</h5>
 					<ul>
-						<li>「<a href="http://suikato.blog.jp/archives/28177373.html" target="_blank">ご馳走</a>」西瓜糖　5/18（土）～26（日）下北沢ザ・スズナリ</li>
+						<li>「<a href="http://www.ryuzanji.com/2019/r-1908.html" target="_blank">赤玉★GANGAN～芥川なんぞ、怖くない～</a>」流山児★事務所 8/12〜8/27 下北沢ザ・スズナリ</li>
+						<li style="margin: 10px 0 0 10px;">
+							◆関連情報
+							<ul>
+								<li>
+									ステージナタリー 7.8掲載<br>
+									《秋之桜子×高橋正徳が大正の文学青年描く、流山児★事務所「赤玉★GANGAN」》<br>
+									<a href="https://natalie.mu/stage/news/338854" target="_blank">https://natalie.mu/stage/news/338854</a>
+								</li>
+							</ul>
+						</li>
 					</ul>
 
-					<hr />
+					<hr>
 
 					<h4>主な脚本作品</h4>
 
-					<h5><a href="http://hagoromo1011.pupu.jp/" target="_blank">羽衣1011</a>（全公演）2005年～09年/郷田ほづみ演出</h5>
+					<h5><a href="http://hagoromo1011.pupu.jp/" target="_blank">羽衣1011</a>（全公演）2005年～09年,17年</h5>
 					<ul>
-						<li>「すみれの花、サカセテ」 ０５年</li>
+						<li>「すみれの花、サカセテ」 ０５年/全て、郷田ほづみ演出</li>
 						<li>「他がために、鐘は鳴る？」 ０６年</li>
 						<li>「晴れた空、どこふく風」 ０７年</li>
 						<li>「純情姉妹繁盛記」 ０９年</li>
+						<li>「すみれの花、サカセテ again」17年</li>
 					</ul>
 
-					<h5><a href="http://suikato.web.fc2.com/" target="_blank">西瓜糖</a>（全公演）2012年～現在/松本祐子演出</h5>
+					<h5><a href="http://suikato.web.fc2.com/" target="_blank">西瓜糖</a>（全公演）2012年～現在</h5>
 					<ul>
-						<li>「いんげん」 １２年</li>
+						<li>「いんげん」 １２年/松本祐子演出（16年「うみ」まで）</li>
 						<li>「鉄瓶」 １３年</li>
 						<li>「じゃのめ」 １４年</li>
 						<li>「モデル」 １５年</li>
 						<li>「うみ」 １６年</li>
-						<li>「レバア」 １８年</li>
-						<li>「ご馳走」 １９年</li>
+						<li>「レバア」 １８年/寺十吾演出</li>
+						<li>「ご馳走」 １９年/加納幸和演出</li>
 					</ul>
 
 					<h5>羽衣1011+iori-apartment＝映像＋演劇</h5>
@@ -125,6 +138,11 @@
 					<h5>アプル</h5>
 					<ul>
 						<li>「<a href="http://www.skylimit.info/" target="_blank">SORAは青い The Sky's The Limit</a>」19年/滝井サトル演出　銀座 博品館劇場</li>
+					</ul>
+
+					<h5>流山児★事務所</h5>
+					<ul>
+						<li>「<a href="http://www.ryuzanji.com/2019/r-1908.html" target="_blank">赤玉★GANGAN～芥川なんぞ、怖くない～</a>」19年/高橋正徳演出/流山児★事務所　下北沢ザ・スズナリ</li>
 					</ul>
 
 					<h5>WEBドラマ</h5>

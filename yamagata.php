@@ -15,7 +15,7 @@
 </script>
 
 	<section id="cover-photo">
-		<img src="/images/company/yamagata_photo.jpg" />
+		<img src="/images/company/yamagata_photo.jpg">
 	</section>
 
 	<!-- Main -->
@@ -101,22 +101,30 @@
 
 					<h5>舞台</h5>
 					<ul>
-						<li>「<a href="http://suikato.blog.jp/archives/28177373.html" target="_blank">ご馳走</a>」西瓜糖　5/18（土）～26（日）下北沢ザ・スズナリ</li>
+						<li>「<a href="http://www.ryuzanji.com/2019/r-1908.html" target="_blank">赤玉★GANGAN～芥川なんぞ、怖くない～</a>」流山児★事務所 8/12〜8/27 下北沢ザ・スズナリ</li>
 						<li style="margin: 10px 0 0 10px;">
 							◆関連情報
 							<ul>
-								<li>「カンフェティ」インタビュー掲載　<a href="https://www.confetti-web.com/sp/feature/article.php?aid=611" target="_blank">https://www.confetti-web.com/sp/feature/article.php?aid=611</a></li>
-								<li>「ステージナタリー」公演情報掲載　<a href="https://natalie.mu/stage/news/328465" target="_blank">https://natalie.mu/stage/news/328465</a></li>
-								<li>「井上和彦の和っしょい」ニコニコ生放送  ゲスト出演 4/30　<a href="https://ch.nicovideo.jp/inouekazuhiko" target="_blank">https://ch.nicovideo.jp/inouekazuhiko</a></li>
+								<li>
+									ステージナタリー 7.8掲載<br>
+									《秋之桜子×高橋正徳が大正の文学青年描く、流山児★事務所「赤玉★GANGAN」》<br>
+									<a href="https://natalie.mu/stage/news/338854" target="_blank">https://natalie.mu/stage/news/338854</a>
+								</li>
 							</ul>
 						</li>
 					</ul>
 
 					<h5>配信</h5>
 					<ul>
+						<li>「<a href="https://www.netflix.com/title/80211563" target="_blank">メリー・アン・シングルトンの物語</a>」メリー・アン（ローラ・リニー）NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/title/80219707?s=i&trkid=13747225" target="_blank">デッド・トゥ・ミー 〜さようならの裏に〜</a>」ジェン(クリスティナ・アップルゲイト) Netflix</li>
 						<li>「ホームカミング」（ジュリア・ロバーツ）Amazonプライム</li>
 						<li>「<a href="https://www.netflix.com/search?q=SEX&jbv=80197526&jbp=0&jbr=0" target="_blank">セックス・エデュケーション</a>」 ジーン（ジリアン・アンダーソン）　NETFLIX</li>
+					</ul>
+
+					<h5>ラジオ</h5>
+					<ul>
+						<li>朗読　林芙美子著「<a href="https://www4.nhk.or.jp/roudoku/x/2019-07-29/06/75670/4669684/" target="_blank">浮雲</a>」（全35回）NHKラジオ第2放送　7.29〜9.13放送</li>
 					</ul>
 
 					<hr>
@@ -173,6 +181,7 @@
 						<li>「吐く」（笹峯愛 作・演出/aibook）</li>
 						<li>演劇×オペラ「コジ・ファン・トゥッテ」（斉藤祐一脚色/高橋正徳演出/若い演奏家の為のプロジェクト）</li>
 						<li>「お正月」（わかぎゑふ作/演出/玉造小劇店）</li>
+						<li>「赤玉★GANGAN～芥川なんぞ、怖くない～」（秋之桜子作/高橋正徳演出/流山児★事務所）</li>
 					</ul>
 
 					<h5>テレビ</h5>
@@ -186,7 +195,6 @@
 
 					<h5>ラジオ</h5>
 					<ul>
-						<li>NHKラジオ朗読「織田作之助作品集〜夫婦善哉／続 夫婦善哉」</li>
 						<li>NHKFMシアター</li>
 						<li>「なみだ蟹のムーンライト・チアーズ」</li>
 						<li>「古井戸」</li>
@@ -215,6 +223,10 @@
 						<li>　</li>
 						<li>NHKポップスライブラリー</li>
 						<li>「路地の匂い　町の音」から　</li>
+						<li>　</li>
+						<li>NHKラジオ朗読</li>
+						<li>「織田作之助作品集〜夫婦善哉／続 夫婦善哉」</li>
+						<li>「林芙美子著　浮雲」</li>
 					</ul>
 
 					<h5>吹替え [海外ドラマ,レギュラー作品]</h5>
@@ -273,6 +285,7 @@
 						<li>「ライフ・オブ・デビット・ゲイル」　コンスタンス・ハラウェイ</li>
 						<li>「ミスティック・リバー」　アナベス・マーカム</li>
 						<li>「ラブ・アクチュアリー」　サラ</li>
+						<li>「メリー・アン・シングルトンの物語」　メリー・アン ※海外ドラマNETFLIX</li>
 						<li>　</li>
 						<li>＜ジュリア・ロバーツ＞</li>
 						<li>「8月の家族たち」　バーバラ・ウェストン</li>
