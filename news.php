@@ -20,6 +20,583 @@
 
 					<div class="news">
 						<p class="date">
+							2020.04.04
+						</p>
+						<h3>西瓜糖第8回公演『刺繍』上演中止のお知らせ</h3>
+						<p class="text">
+							山像かおり主催による西瓜糖公演『刺繍』（5月22日〜31日、中野ザ・ポケット）ですが、新型コロナウイルス感染症の感染拡大に伴い、上演を中止することになりました。ご理解のほどよろしくお願いいたします。詳しくは公式サイトをご覧ください。<br>
+							※この公演は2022年秋以降、上演する予定で動いております。<br>
+							<br>
+							<a href="http://suikato.blog.jp/archives/30997679.html" target="_blank">http://suikato.blog.jp/archives/30997679.html</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.04.04
+						</p>
+						<h3>佐古真弓　hulu海外ドラマ『JAILERS/ジェイラーズ』配信開始</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							huluの最新海外ドラマシリーズ『JAILERS/ジェイラーズ』が配信開始となりました。<br>
+							佐古真弓が、主人公アドリアーノの妻ジャナイーナ役を担当しています。<br>
+							全16話、毎週（木）新エピソードが配信されます。お楽しみください。<br>
+							<br>
+							<a href="https://bit.ly/3bOizAx" target="_blank">https://bit.ly/3bOizAx</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.03.14
+						</p>
+						<h3>佐古真弓　AXN新シリーズ『私立探偵マグナム』に出演</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							トム・セレック主演で1980年代に人気を博した往年のテレビドラマ「私立探偵マグナム」がリブート版となって現代に復活！<br>
+							佐古真弓が、元MI6諜報部員のヒロイン、ジュリエット・ヒギンズ（パーディタ・ウィークス）を担当します。<br>
+							放送は、AXNにて、3月15日（日）21:00〜第一話先行放送。<br>
+							本放送は、4月〜となります。お楽しみください。<br>
+							<br>
+							<a href="https://www.axn.co.jp/programs/magnum_pi" target="_blank">https://www.axn.co.jp/programs/magnum_pi</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.02.21
+						</p>
+						<h3>佐古真弓 『ヒーリングっど♡プリキュア』出演決定</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							TVアニメ「プリキュア」最新作・第17作目の『ヒーリングっど♡プリキュア』に、佐古真弓が、沢泉ちゆの母・沢泉なお役で出演いたします。<br>
+							毎週（日）朝8:30～ABCテレビ・テレビ朝日系列にてお楽しみください。<br>
+							佐古真弓のコメントも公開されています。<br>
+							<a href="https://www.animatetimes.com/news/details.php?id=1581701513" target="_blank">https://www.animatetimes.com/news/details.php?id=1581701513</a><br>
+							<br>
+							公式サイト<br>
+							<a href="http://www.toei-anim.co.jp/tv/precure/" target="_blank">http://www.toei-anim.co.jp/tv/precure/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.02.03
+						</p>
+						<h3>佐古真弓 WOWOW『ライアー 交錯する証言』3.18スタート</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							WOWOW新作海外ドラマ『ライアー 交錯する証言』（全6回）、<br>
+							佐古真弓が主人公ローラ（ジョアン・フロガット）を担当します。<br>
+							放送は、3月18日（水）23:00～（初回無料放送）<br>
+							毎週（水）23:00／再放送（水）14:00、WOWOWプライムにてお楽しみください。<br>
+							<br>
+							<a href="https://www.wowow.co.jp/detail/116885" target="_blank">https://www.wowow.co.jp/detail/116885</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.02.03
+						</p>
+						<h3>佐古真弓 Amazon『イン・トゥ・ザ・スカイ～気球で未来を変えたふたり～』配信開始</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							Amazonプライムオリジナル映画『イン・トゥ・ザ・スカイ～気球で未来を変えたふたり～』、<br>
+							佐古真弓が主人公フェリシティ・ジョーンズ（アメリア・レン役）を担当しています。<br>
+							吹替え版でもお楽しみください。<br>
+							<br>
+							<a href="http://urx3.nu/ggnW" target="_blank">http://urx3.nu/ggnW</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.01.31
+						</p>
+						<h3>山像かおり　枚方市の広報誌に寄稿掲載2.1</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							枚方市の広報誌「広報ひらかた」（令和2年2月号）に同市出身の山像かおりの寄稿文が掲載されています。<br>
+							「枚方家族」のコーナーです。<br>
+							市のホームページからもご覧になれます。47ページに掲載されています。<br>
+							<a href="https://www.city.hirakata.osaka.jp/0000027298.html" target="_blank">https://www.city.hirakata.osaka.jp/0000027298.html</a><br>
+							<br>
+							広報ひらかた（PDF版）<br>
+							<a href="https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27298/all.pdf" target="_blank">https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27298/all.pdf</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.01.31
+						</p>
+						<h3>山像かおり　NETFLIX「セックス・エデュケーションS2」配信開始1.21</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							NETFLIXオリジナル海外ドラマ「セックス・エデュケーション」のシーズン2（全8回）が配信開始となりました。<br>
+							山像かおりが主人公オーティスの母・ジーン役（ジリアン・アンダーソン）でレギュラー出演しています。<br>
+							<br>
+							<a href="https://www.netflix.com/title/80197526" target="_blank">https://www.netflix.com/title/80197526</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.01.31
+						</p>
+						<h3>山像かおり　NETFLIX「グレイス-消えゆく幸せ-」配信開始1.18</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							NETFLIXオリジナル映画「グレイス-消えゆく幸せ-」が配信開始となりました。<br>
+							山像かおりが主人公のグレイス役（クリスタル・R・フォックス）を担当しています。<br>
+							<br>
+							<a href="https://www.netflix.com/title/81127902" target="_blank">https://www.netflix.com/title/81127902</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.01.13
+						</p>
+						<h3>山像かおり　NHKラジオ朗読「浮雲」後編放送開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							昨年前編として放送されました、NHKラジオ朗読、林芙美子著「浮雲」の後編35回の放送が始まりました。<br>
+							1月6日（月）〜2月21日（金）までの平日、毎朝9:45〜10:00、NHKラジオ第2放送です。<br>
+							その週の（土）21:45より、（月）〜（金）までの連続再放送もあります。<br>
+							NHK公式サイトから、ストリーミングでもお聴きいただけます。<br>
+							<br>
+							「朗読」公式サイト <a href="https://www4.nhk.or.jp/roudoku/315/" target="_blank">https://www4.nhk.or.jp/roudoku/315/</a><br>
+							「ストリーミングを聴く」 <a href="https://www4.nhk.or.jp/roudoku/316/" target="_blank">https://www4.nhk.or.jp/roudoku/316/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2020.01.01
+						</p>
+						<h3>菅生隆之 『DAYS-2041-松山英樹と進藤大典』元日放送</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							ゴルフネットワークの新春特番『DAYS-2041-松山英樹と進藤大典』で、菅生隆之がナレーターをつとめます。<br>
+							初回放送は、1月1日（水）20:00〜<br>
+							再放送、1/2（木）23:00、1/3（土）12:00、1/6（月）7:00〜、1/9（木）13:30〜<br>
+							ご覧ください。<br>
+							<br>
+							<a href="https://www.golfnetwork.co.jp/documentary/program/days_2041_hideki_matsuyama_daisuke_shindo" target="_blank">公式サイト</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.28
+						</p>
+						<h3>佐古真弓　アニメ『無限の住人-IMMORTAL-』に出演</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							絶賛配信中のアニメシリーズ『無限の住人-IMMORTAL-』<br>
+							後半話数への折り返しとなり、佐古真弓が、くノ一の目黒役でレギュラー出演いたします。<br>
+							Amazonプライムビデオにて毎（木）に最新エピソードが配信。<br>
+							どうぞご覧ください。<br>
+							<br>
+							<a href="https://mugen-immortal.com/" target="_blank">https://mugen-immortal.com/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.28
+						</p>
+						<h3>佐古真弓 『Detroit: Become Human』ファンイベントに出演1.12</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							佐古真弓がヒロイン、カーラ役を担当した、<br>
+							ゲーム『Detroit: Become Human』の最後のファンイベントが開催されます。<br>
+							今回は、メインキャスト3名が登壇します。<br>
+							<br>
+							DETROIT FAN PARTY FINAL -Night of Soul-<br>
+							『デトロイト ビカム ヒューマン』ファン主催オフ会ファイナル -魂の夜-<br>
+							<br>
+							出演：佐古真弓（カーラ役）　花輪英司（コナー役）　内田夕夜（マーカス役）<br>
+							日時：2020年1月12日（日）18:00～21:00<br>
+							会場：東京・渋谷（某所）<br>
+							<br>
+							参加は、主催者サイトからのエントリー＆抽選制になっています。<br>
+							詳細は、公式サイトおよび、公式ツイッターをご覧ください。<br>
+							<br>
+							公式サイト：<a href="https://www.zentai-powered.com/entry/2019/12/27/120433" target="_blank">https://www.zentai-powered.com/entry/2019/12/27/120433</a><br>
+							公式ツイッター：<a href="https://twitter.com/akirashijo/status/1210396819651301378" target="_blank">https://twitter.com/akirashijo/status/1210396819651301378</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<div class="news-photos">
+							<a href="/images/news/33.jpg" target="_blank"><img src="/images/news/33.jpg"></a>
+						</div>
+						<p class="date">
+							2019.12.28
+						</p>
+						<h3>山像かおり　舞台『愛する母、マリの肖像』に出演</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							T-works主催＃3公演『愛する母、マリの肖像』に山像かおりが主演のマリ・キュリー役で出演いたします。<br>
+							<br>
+							『愛する母、マリの肖像』<br>
+							脚本：古川健（劇団チョコレートケーキ）<br>
+							演出：高橋正徳（文学座）<br>
+							出演者：山像かおり　丹下真寿美　阿部丈二　佐藤聖羅　福地教光<br>
+							大塚宣幸　前田友里子　佐藤豪　／　辰巳涿郎<br>
+							東京公演：2020年3/11（木）～15（日）東京・赤坂RED/THEATRE<br>
+							大阪公演：3/27（金）～29（日）大阪・ABCホール<br>
+							前売り開始：2020年1/18（土）より<br>
+							料金：前売5000円　当日5500円（全席指定）<br>
+							チケットぴあ 　TEL：0570-02-9999　Ｐコード：499-510<br>
+							<a href="https://t.pia.jp/pia/artist/artists.do?artistsCd=H8280006" target="_blank">https://t.pia.jp/pia/artist/artists.do?artistsCd=H8280006</a><br>
+							<br>
+							公式サイト：<a href="https://t-works-works.com/" target="_blank">https://t-works-works.com/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.09
+						</p>
+						<h3>秋之桜子＆山像かおり　西瓜糖第八回公演『刺繍』</h3>
+						<p class="icon">
+							<a href="/akino"><img src="/images/icon/akino.jpg"></a>
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							秋之桜子脚本＆山像かおり出演・主催により、毎年公演を重ねる西瓜糖の最新第八回公演のお知らせです。<br>
+							<br>
+							西瓜糖　第八回公演<br>
+							『刺繍』<br>
+							<br>
+							脚本：秋之桜子<br>
+							演出：わかぎゑふ<br>
+							出演者：三津谷亮　八代進一　満田伸明　陰山真寿美　磯部莉菜子　玉木惣一郎　朱夏かほ里　松岡美佳<br>
+							奥山美代子　山像かおり　中尾隆聖<br>
+							日程：2020年5月22日（金）～5月31日（日）16ステージ<br>
+							会場：中野ザ・ポケット（東京）<br>
+							前売り開始：2020年4月15日より＊公式サイトよりご確認ください。<br>
+							<br>
+							<a href="http://no-4.biz/suikato8/" target="_blank">http://no-4.biz/suikato8/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.09
+						</p>
+						<h3>山像かおり 『マリッジ・ストーリー』12.6 NETFLIX配信</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							NETFLIXオリジナル映画『マリッジ・ストーリー』が12月6日配信開始となりました。<br>
+							山像かおりがローラ・ダーン（ノーラ役）を担当しています。<br>
+							吹替え版でもお楽しみください。<br>
+							<br>
+							<a href="https://www.netflix.com/browse?jbv=80223779&jbp=3&jbr=1" target="_blank">https://www.netflix.com/browse?jbv=80223779&jbp=3&jbr=1</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.02
+						</p>
+						<h3>山像かおり NHK海外ドラマ『ライザのサバヨミ大作戦！』1.30放送開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							NHK海外ドラマの新シリーズ『ライザのサバヨミ大作戦！』が2020年1月30日放送開始となります。<br>
+							山像かおりがライザの上司、ダイアナ役でレギュラー出演します。<br>
+							1月31日より毎週（金）23:45～BSプレミアムにて全18回放送です。<br>
+							<br>
+							<a href="https://www4.nhk.or.jp/sabayomi/" target="_blank">https://www4.nhk.or.jp/sabayomi/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.02
+						</p>
+						<h3>佐古真弓 『ヒックとドラゴン 聖地への冒険』12.20劇場公開</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							ドリームワークス大ヒットシリーズの最新作『ヒックとドラゴン 聖地への冒険』が12月20日（金）全国公開となります。<br>
+							佐古真弓がドラゴンハンターの一人、グリゼルダ役を担当しています。<br>
+							吹替え版でお楽しみください。<br>
+							<br>
+							<a href="https://gaga.ne.jp/hicdragon/" target="_blank">https://gaga.ne.jp/hicdragon/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.12.02
+						</p>
+						<h3>佐古真弓 金曜ロードショー『ホーム・アローン3（新録版）』12.6放送</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							大ヒットシリーズ『ホーム・アローン３』が金曜ロードショーで新録されました。<br>
+							佐古真弓が悪役チームの紅一点、アリス役を担当しています。<br>
+							12月6日（金）21:00～日本テレビ系列にて放送です。<br>
+							<br>
+							<a href="https://kinro.ntv.co.jp/lineup/20191206" target="_blank">https://kinro.ntv.co.jp/lineup/20191206</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.11.25
+						</p>
+						<h3>佐古真弓 TVアニメ『虚構推理』出演決定</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							2020年1月11日より放送のTVアニメ『虚構推理』に、<br>
+							佐古真弓が、桜川六花役で出演致します。<br>
+							放送は、テレビ朝日、MBS、BS日テレにて。<br>
+							どうぞお楽しみ下さい。<br>
+							<br>
+							<a href="https://kyokousuiri.jp/" target="_blank">https://kyokousuiri.jp/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.11.17
+						</p>
+						<h3>山像かおり NETFLIX『ザ・クラウン S3』11.17配信開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							エミー賞、ゴールデングローブ賞など数々の賞を受賞したNETFLIXオリジナルドラマ、<br>
+							『ザ・クラウン』の最新シーズン3が配信開始になりました。<br>
+							エリザベス女王の生涯を描く今作は、2シーズンごとに女王役が変わります。<br>
+							シーズン3からの女王役を山像かおり（オリヴィア・コールマン）が担当します。<br>
+							全10回、吹替え版でもお楽しみください。<br>
+							<br>
+							<a href="https://www.netflix.com/title/80025678" target="_blank">https://www.netflix.com/title/80025678</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.11.11
+						</p>
+						<h3>菅生隆之 NHKBS4K『薔薇の名前』12.8スタート</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							ウンベルト・エコー原作の世界的大ベストセラー小説が初のドラマ化です。<br>
+							『薔薇の名前』全8回。<br>
+							菅生隆之が、ドミニコ会修道士、異端審問官のベルナール・ギー役（ルパート・エヴェレット）を担当しています。<br>
+							放送は、12/8（日）より、毎週（日）12:00〜NHK BS4Kにて。ご覧ください。<br>
+							<br>
+							<a href="https://www4.nhk.or.jp/bara-4k/" target="_blank">https://www4.nhk.or.jp/bara-4k/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.11.11
+						</p>
+						<h3>菅生隆之 NTV『いた！ヤバイ生き物 キケン生物と大バトル』11.19放送</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							昨年好評を博した「ヤバイ生き物」第二弾が、今年も放送されます！<br>
+							11/19（火）19:00〜日本テレビ系列にて。<br>
+							菅生隆之が番組ナレーション（カラス・ハリネズミ・ネズミのパート）を担当しています。<br>
+							<br>
+							<a href="http://www.ntv.co.jp/kikenseibutsu/" target="_blank">http://www.ntv.co.jp/kikenseibutsu/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.11.11
+						</p>
+						<h3>菅生隆之 NHKBSプレミアム『ヘチ 王座への道』11.10スタート</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							NHKBSプレミアムの新作韓国ドラマ『ヘチ 王座への道』が11/10（日）放送開始となります。<br>
+							菅生隆之が、老論（ノロン）派の重臣、ミン・ジノン役（イ・ギョンヨン）を担当しています。<br>
+							全24回、毎週（日）21:00〜放送です。<br>
+							<br>
+							<a href="https://www9.nhk.or.jp/kaigai/hechi/" target="_blank">https://www9.nhk.or.jp/kaigai/hechi/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.11.11
+						</p>
+						<h3>佐古真弓 『フォー・オール・マンカインド』11.1配信開始</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							AppleTVオリジナル海外ドラマ『フォー・オール・マンカインド』が配信開始です。<br>
+							佐古真弓が、エレン役（ジョディ・バルフォー）でレギュラー出演します。<br>
+							全10回、毎週（金）に新着エピソードが配信されます。<br>
+							吹替え版でもお楽しみください。<br>
+							<br>
+							<a href="https://tv.apple.com/jp/show/unknown/umc.cmc.6wsi780sz5tdbqcf11k76mkp7" target="_blank">https://tv.apple.com/jp/show/unknown/umc.cmc.6wsi780sz5tdbqcf11k76mkp7</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.10.20
+						</p>
+						<h3>佐古真弓 バウムちゃんねる映画祭『終末のイヴ』10.19公開</h3>
+						<p class="icon">
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							11人の監督による短編映画を上映する「バウムちゃんねる映画祭」（主催：株式会社バウムアンドクーヘン）のシーズン2の上映が始まります。<br>
+							佐古真弓が『終末のイヴ』（中川和博監督）で声の出演をしています。<br>
+							池袋シネマ・ロサにて、10/19（土）〜10/31（木）連日20:15〜のレイトショーです。<br>
+							《佐古真弓　舞台挨拶のお知らせ》<br>
+							10/24（木）の上映後に舞台挨拶がございます。<br>
+							登壇予定：中川和博監督、佐古真弓、照井健仁さん（出演者）<br>
+							<br>
+							<a href="http://baumandkuchen.com/baum_fes2/" target="_blank">http://baumandkuchen.com/baum_fes2/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.10.20
+						</p>
+						<h3>山像かおり 佐古真弓 『トランスペアレントS5』9.27配信開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+							<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+						</p>
+						<p class="text">
+							エミー賞など数々の受賞歴を持つAmazonプライムオリジナルドラマ、<br>
+							『トランスペアレント』の最新シーズン5が配信開始となりました。<br>
+							山像かおりがサラ役、佐古真弓がアリ役、主人公姉妹を担当しています。<br>
+							シーズン5は100分の長編ミュージカルです。<br>
+							歌も日本語版キャストでの吹替えです。ご覧ください。<br>
+							<br>
+							<a href="https://amzn.to/2VYC4zI" target="_blank">https://amzn.to/2VYC4zI</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.10.20
+						</p>
+						<h3>山像かおり Eテレ『奇跡の星』10.1放送開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							ウィル・スミスがホストを務める海外ドキュメンタリー「奇跡の星」<br>
+							山像かおりが、女性宇宙飛行士のペギー・ウィットソン氏のボイスオーバーでレギュラー出演をします。<br>
+							放送はNHKEテレにて、毎週（火）22:50〜<br>
+							BS4Kでは毎週（火） 18:15～ [再放送]（日）11:35～／（火）12:00～<br>
+							<br>
+							<a href="https://www4.nhk.or.jp/P5973/" target="_blank">https://www4.nhk.or.jp/P5973/</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.10.20
+						</p>
+						<h3>山像かおり『SUSPIRIA サスペリア』9.28配信開始</h3>
+						<p class="icon">
+							<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+						</p>
+						<p class="text">
+							2018年公開の『サスペリア』リメイク版の吹替え版が配信されました。<br>
+							吹替えはAmazonnプライムビデオのみの配信です。<br>
+							山像かおりが、マダム・ブラン（ティルダ・スウィントン）役を担当しています。<br>
+							<br>
+							<a href="https://amzn.to/2BoeHGm" target="_blank">https://amzn.to/2BoeHGm</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.09.29
+						</p>
+						<h3>菅生隆之 ゲーム『ドラゴンクエストⅪ 過ぎ去りし時を求めてS』9.27発売</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							『ドラゴンクエストⅪ 過ぎ去りし時を求めて』の任天堂SWITCH版が、9/27（金）発売となりました。<br>
+							菅生隆之が、デルカダール王を担当しています。<br>
+							公式サイトから<a href="https://www.dq11.jp/s/characters/s1_der.html" target="_blank">キャラクターボイス</a>も視聴できます。<br>
+							特典音声で、メインキャストによる<a href="https://www.dq11.jp/s/voicedrama/index.html" target="_blank">ボイスドラマ</a>も公開されています。合わせてお楽しみください。<br>
+							<br>
+							<a href="https://www.dq11.jp/s/index.html" target="_blank">https://www.dq11.jp/s/index.html</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
+							2019.09.29
+						</p>
+						<h3>菅生隆之 ゲーム『デモンエクスマキナ』9.13発売</h3>
+						<p class="icon">
+							<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+						</p>
+						<p class="text">
+							任天堂SWITCHの最新ゲーム『デモンエクスマキナ』に菅生隆之が「准将」役で出演しています。<br>
+							公式サイトから<a href="https://dxm.marv.jp/character/bullet_works/index.html" target="_blank">キャラクターボイス</a>も視聴可能できます。どうぞお楽しみください。<br>
+							<br>
+							<a href="https://dxm.marv.jp" target="_blank">https://dxm.marv.jp</a>
+						</p>
+					</div>
+
+					<div class="news">
+						<p class="date">
 							2019.07.29
 						</p>
 						<h3>菅生隆之 『クリミナル・マインド14』8.20放送開始</h3>

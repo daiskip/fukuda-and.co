@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="俳優・脚本家・演出家・及び関連する専門スタッフのマネージメント業務。テレビ番組・映画・企業ＣＭ・舞台公演に関わるキャスティング業務。">
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css?20180910d" />
+		<link rel="stylesheet" href="assets/css/main.css?20220105" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<link href="https://fonts.googleapis.com/earlyaccess/sawarabimincho.css" rel="stylesheet" />
@@ -36,13 +36,16 @@
 									<div id="menu">
 										<ul>
 											<li><a href="/"><img src="images/logo.png" class="logo" alt="フクダ＆Ｃｏ．" /></a></li>
+											<li><a href="/about">ご挨拶・会社概要</a></li>
 											<li><a href="/news">最新情報</a></li>
 											<li><a href="/sugo">　菅生 隆之</a></li>
 											<li><a href="/yamagata">　山像 かおり</a></li>
 											<li><a href="/saco">　佐古 真弓</a></li>
-											<li><a href="/akino">　秋之 桜子（脚本家）</a></li>
+											<li><a href="/sasaki" style="font-family: serif;">　佐々木 勝彦<span style="font-size:70%;">（業務提携）</span></a></li>
+											<li><a href="/akino">　秋之 桜子<span style="font-size:70%;">（脚本家）</span></a></li>
+											<li><a href="/voice">ボイスサンプル</a></li>
+											<li><a href="/join">所属声優オーディション</a></li>
 											<li><a href="/info">お知らせ</a></li>
-											<li><a href="/#three" class="more scrolly">会社概要</a></li>
 										</ul>
 									</div>
 								</li>

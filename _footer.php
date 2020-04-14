@@ -10,7 +10,7 @@
 			<li>ヘアメイク：<a href="https://ja-jp.facebook.com/hatanakakayoko" target="_blank">畑中嘉代子</a></li>
 		</ul>
 		<ul class="copyright">
-			<li>Copyright 2017 fukuda and.co,inc.  All Rights Reserved.</li>
+			<li>Copyright <?php echo date('Y'); ?> fukuda and.co,inc.  All Rights Reserved.</li>
 		</ul>
 	</footer>
 

@@ -2050,8 +2050,6 @@
 		line-height: 12px;
 	}
 
-
-
 .news {
 	clear: both;
 	margin-bottom: 100px;
@@ -2059,15 +2057,9 @@
 	.news .date {
 		margin-bottom: 5px;
 	}
-	.news h3 {
+	.news p.icon a {
+		border: none;
 	}
-	.news p.icon {
-	}
-		.news p.icon img {
-		}
-		.news p.icon a {
-			border: none;
-		}
 	.news p.text {
 		font-size: 14px !important;
 		line-height: 30px !important;
@@ -2098,7 +2090,6 @@
 			}
 
 	}
-
 
 /* Sample Voice */
 .voice-area {
@@ -2167,3 +2158,221 @@
 		.audiojs .time strong {
 			color: #fff;
 		}
+
+
+/* Voice */
+#voice .wrapper section {
+	width: 800px;
+	margin: 0 auto 80px auto;
+}
+
+#voice .wrapper section .image {
+	float: left;
+	margin: 0 40px 0 0;
+}
+#voice .wrapper section .image img {
+	width: 200px;
+	border-radius: 50%;
+	float: left;
+}
+#voice .wrapper section .content {
+	padding-top: 20px;
+}
+#voice .wrapper section .content h2 {
+	margin-bottom: 0;
+}
+#voice .wrapper section .content h2 a {
+	border-bottom: none;
+}
+#voice .wrapper section .content p {
+	font-size: 11px;
+	margin-bottom: 10px;
+}
+#voice .wrapper section .content ul {
+	clear: none;
+	margin-bottom: 10px;
+}
+#voice .wrapper section .content ul li {
+	font-size: 11px;
+	list-style-type: none;
+}
+
+#voice .wrapper section .content .voice-area {
+	margin-top: 0px;
+}
+
+#voice .audiojs .play-pause p {
+	top: -4px;
+}
+
+@media screen and (max-width: 800px) {
+	#voice .wrapper section {
+		width: 100%;
+		margin: 0 auto 40px auto;
+	}
+	#voice .wrapper section .image {
+		margin: 0 20px 0 0;
+	}
+	#voice .wrapper section .image img {
+		width: 100px;
+	}
+	#voice .wrapper section .content {
+		padding: 10px 0 0 120px;
+	}
+	#voice .wrapper section .content ul {
+		margin-left: -10px;
+		padding-left: 0;
+	}
+	#voice .wrapper section .content ul li {
+		font-size: 10px;
+	}
+}
+
+li strong {
+	font-weight: 800;
+	color: #000;
+}
+
+
+body#about .wrapper {
+	width: 100%;
+	margin: 0 0 80px 0;
+	padding: 0;
+}
+	@media screen and (max-width: 800px) {
+		body#about .wrapper {
+			width: 100%;
+			margin-bottom: 20px;
+			padding: 0;
+		}
+		body#about .wrapper p {
+			margin: 0 20px;
+		}
+		body#about .message p {
+			text-align: left;
+			margin: 0 40px 40px 40px;
+		}
+		body#about .about h3 {
+		}
+		body#about .about p {
+			margin: 0 40px 40px 40px;
+		}
+	}
+body#about header.major {
+	background: #ccc;
+	margin-bottom: 80px;
+	padding: 20px 0;
+}
+	@media screen and (max-width: 800px) {
+		body#about header.major {
+			margin-bottom: 40px;
+		}
+	}
+body#about header.major h2 {
+	border-bottom: none;
+	margin: 0 !important;
+	padding: 0 !important;
+}
+body#about .wrapper h3 {
+	font-size: 14px;
+}
+body#about .wrapper p {
+	font-size: 14px;
+}
+@media screen and (max-width: 800px) {
+	body#about .wrapper h3 {
+		font-size: 12px;
+	}
+	body#about .wrapper p {
+		font-size: 12px;
+	}
+}
+
+
+body#join .wrapper {
+	width: 600px;
+	margin: 40px auto;
+	padding: 0;
+	font-size: 12px;
+}
+@media screen and (max-width: 800px) {
+	body#join .wrapper {
+		width: 90%;
+		margin: 40px auto;
+	}
+}
+body#join .strong {
+	font-weight: bolder;
+	text-decoration: underline;
+}
+
+body#join .wrapper .major {
+	text-align: center;
+	margin: 40px 0 0 0;
+}
+body#join .wrapper .major p {
+	font-size: 18px;
+}
+body#join .wrapper .major h2 {
+	font-size: 24px;
+	border-bottom: none;
+	padding-bottom: 0;
+}
+body#join .wrapper p.lead br {
+	display: none;
+}
+
+body#join .wrapper h3,
+body#join .wrapper h4,
+body#join .wrapper h5,
+body#join .wrapper h6 {
+	font-size: 12px;
+}
+
+body#join .wrapper dl {
+}
+body#join .wrapper dl dt {
+}
+body#join .wrapper dl dd {
+	margin-bottom: 20px;
+}
+body#join .wrapper dl dd .flow {
+	margin-top: 20px;
+}
+body#join .wrapper dl dd .flow section {
+	margin-bottom: 20px;
+}
+
+body#join .wrapper ul {
+	margin: 0 0 40px 0;
+	padding: 0;
+}
+body#join .wrapper ul li {
+	list-style-type: none;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+body#join .wrapper section.button-area {
+	margin: 80px 0;
+	text-align: center;
+}
+body#join .wrapper section.button-area a {
+	background: #e74c3c;
+	padding: 20px 40px;
+	color: #fff;
+}
+
+.profile-photo {
+	width: 40%;
+	max-width: 300px;
+	float: left;
+	margin: 0 40px 40px 0;
+}
+@media screen and (max-width: 400px) {
+	.profile-photo {
+		width: 100%;
+		max-width: 200px;
+		float: none;
+		margin: 0 0 20px 0;
+	}
+}

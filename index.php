@@ -15,11 +15,16 @@
 		<div class="inner">
 			<h2><img src="images/logo.png" class="logo" alt="株式会社フクダ＆Ｃｏ．" /></h2>
 			<p>プロダクションカンパニー</p>
-			<p style="font-size:11px;"><a href="/info">2018.11.07 事務所移転のお知らせ</a></p>
+			<?
+				if (date('Y-m-d') < '2020-02-22'):
+			?>
+				<p style="font-size:11px;"><a href="/join">2019.12.20 所属声優オーディション開催のお知らせ</a></p>
+			<?
+				endif;
+			?>
 		</div>
 		<a href="#one" class="more scrolly">所属俳優</a>
 	</section>
-
 
 	<section id="one" class="wrapper">
 		<section class="spotlight" id="sugo">

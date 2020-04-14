@@ -7,6 +7,12 @@
 	include('_header.php');
 
 ?>
+<script src="/assets/js/audiojs/audio.min.js"></script>
+<script>
+	audiojs.events.ready(function() {
+		audiojs.createAll();
+	});
+</script>
 
 	<section id="cover-photo">
 		<img src="/images/company/sugo_photo.jpg" />
@@ -28,7 +34,33 @@
 						<li>資格免許：普通自動車</li>
 					</ul>
 
-					<hr>
+					<div class="voice-area cf">
+						<h5>ボイスサンプル</h5>
+						<div class="voice">
+							<p>ナレーション1</p>
+							<audio src="/mp3/sugo/01.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>2</p>
+							<audio src="/mp3/sugo/02.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>3</p>
+							<audio src="/mp3/sugo/03.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>セリフ1</p>
+							<audio src="/mp3/sugo/04.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>2</p>
+							<audio src="/mp3/sugo/05.mp3"></audio>
+						</div>
+						<div class="voice">
+							<p>朗読</p>
+							<audio src="/mp3/sugo/06.mp3"></audio>
+						</div>
+					</div>
 
 					<h4>略歴</h4>
 					<ul>
@@ -48,28 +80,27 @@
 
 					<h4>最新作</h4>
 
-					<h5>劇場</h5>
+					<h5>アニメ</h5>
 					<ul>
-						<li>「<a href="http://www.toei-mangamatsuri.jp/" target="_blank">映画おしりたんてい カレーなるじけん</a>」東映まんがまつり 4/26公開</li>
-						<li>「<a href="http://wwws.warnerbros.co.jp/lego/" target="_blank">レゴムービー２</a>」アルフレッド・ペニーワース 3/29公開</li>
-					</ul>
-
-					<h5>TV</h5>
-					<ul>
-						<li>「<a href="https://www.wowow.co.jp/detail/112530" target="_blank">BBC Earth 2018 ワイルド・マウンテン 荘厳なる俊嶺</a>」ナレーション　WOWOW</li>
-						<li>「<a href="https://www.wowow.co.jp/detail/113406" target="_blank">クリミナルマインド13行動分析課</a>」デヴィッド・ロッシ　WOWOWプライム</li>
+						<li>「<a href="https://vinlandsaga.jp/" target="_blank">ヴィンランド・サガ</a>」cvスヴェン王　NHK総合テレビ/Amazonプライムビデオ</li>
+						<li>「<a href="http://caroleandtuesday.com/" target="_blank">キャロル＆チューズデイ</a>」cvシュバルツ  CX/NETFLIX</li>
 						<li>「<a href="http://www.oshiri-tantei.com/" target="_blank">おしりたんてい</a>」cvマスター Eテレ</li>
-						<li>「<a href="http://www.tv-tokyo.co.jp/anime/yugioh-vrains/" target="_blank">遊☆戯☆王 VRAINS</a>」cv鴻上博士 TX</li>
-						<li>「<a href="http://www.kamuy-anime.com/" target="_blank">ゴールデンカムイ</a>」cv永倉新八 TOKYOMX</li>
-						<li>「<a href="http://baki-anime.jp/" target="_blank">バキ</a>」cv愚地独歩　TOKYOMX</li>
+						<li>「<a href="http://heromask.jp/" target="_blank">HERO MASK</a>」cvスティーブン・マートランド  NETFLIX</li>
 					</ul>
 
-					<h5>配信</h5>
+					<h5>海外ドラマ</h5>
 					<ul>
-						<li>「<a href="https://www.netflix.com/title/80221787" target="_blank">バッド・ブラッド：憎しみのマフィア</a>」ヴィト<アンソニー・ラパリア> NETFLIX</li>
-						<li>「<a href="http://heromask.jp/" target="_blank">HERO MASK</a>」cvスティーブン・マートランド NETFLIX</li>
+						<li>「<a href="https://www9.nhk.or.jp/kaigai/hechi/" target="_blank">ヘチ 王座への道</a>」ミン・ジノン役　11.10スタート　毎週（日）21時〜NHKBSプレミアム</li>
+						<li>「<a href="https://www4.nhk.or.jp/bara-4k/" target="_blank">薔薇の名前</a>」ベルナール・ギー役　12.8スタート　毎週（日）12時〜NHK BS4K</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/115149" target="_blank">クリミナルマインド14行動分析課</a>」デヴィッド・ロッシ　WOWOWプライム　<strong>主役</strong></li>
+						<li>「<a href="https://www.netflix.com/title/80221787" target="_blank">バッド・ブラッド：憎しみのマフィア</a>」ヴィト<アンソニー・ラパリア> NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://video.foxjapan.com/tv/homeland/s7/" target="_blank">ホームランド７</a>」ソール・ベレンソン　20世紀FOXデジタル配信</li>
-						<li>「<a href="https://www.netflix.com/jp/title/80216834" target="_blank">さようなら、コダクローム</a>」ベン（エド・ハリス） NETFLIX</li>
+					</ul>
+
+					<h5>ナレーション</h5>
+					<ul>
+						<li>「<a href="https://www.golfnetwork.co.jp/documentary/program/days_2041_hideki_matsuyama_daisuke_shindo" target="_blank">DAYS-2041-松山英樹と進藤大典</a>」ゴルフネットワーク　元日放送</li>
+						<li>「<a href="http://www.ntv.co.jp/kikenseibutsu/" target="_blank">いた！ヤバイ生き物 キケン生物と大バトル</a>」NTV  11.19放送</li>
 						<li>「<a href="https://www.netflix.com/title/80177803" target="_blank">世界の麻薬王：その光と闇</a>」ナレーション NETFLIX</li>
 					</ul>
 
@@ -84,6 +115,8 @@
 					<h5>ゲーム</h5>
 					<ul>
 						<li>「<a href="https://www.jp.playstation.com/games/marvels-spider-man/" target="_blank">Marvel’s Spider-Man</a>」PS4　J・ジョナ・ジェイムソン</li>
+						<li>「<a href="https://www.dq11.jp/s/" target="_blank">ドラゴンクエストXI 過ぎ去りし時を求めてS</a>」デルカダール王　9.27発売</li>
+						<li>「<a href="https://dxm.marv.jp/" target="_blank">デモンエクスマキナ</a>」准将役 9.13発売</li>
 					</ul>
 
 					<hr>
@@ -113,42 +146,46 @@
 
 					<h5>吹替え [海外ドラマ,レギュラー作品]</h5>
 					<ul>
-						<li>「クリミナル・マインド　ＦＢＩ行動分析課」　デヴィッド・ロッシ<ジョー・マンテーニャ></li>
-						<li>「モーガン・フリーマン　時空を超えて」＊ドキュメンタリーＮＡ<モーガン・フリーマン></li>
+						<li>「クリミナル・マインド　ＦＢＩ行動分析課」　デヴィッド・ロッシ<ジョー・マンテーニャ>　<strong>主役</strong></li>
+						<li>「モーガン・フリーマン　時空を超えて」＊ドキュメンタリーＮＡ<モーガン・フリーマン>　<strong>主役</strong></li>
 						<li>「ＨＯＭＥＬＡＮＤ」　ソール・ベレンソン<マンディ・パティンキン></li>
 						<li>「ＦＲＩＮＧＥ/フリンジ」　ウォルター・ビショップ<ジョン・ノーブル></li>
 						<li>「エレメンタリー　ホームズ＆ワトソン in ＮＹ」　モーランド・ホームズ<ジョン・ノーブル></li>
-						<li>「ハンド・オブ・ゴッド」　パーネル・ハリス<ロン・パールマン></li>
+						<li>「ハンド・オブ・ゴッド」　パーネル・ハリス<ロン・パールマン>　<strong>主役</strong></li>
 						<li>「ゲーム・オブ・スローンズ」　マンス・レイダー<キーラン・ハインズ></li>
-						<li>「ＶＥＧＡＳ/ベガス」　ラルフ・ラム<デニス・クエイド></li>
+						<li>「ＶＥＧＡＳ/ベガス」　ラルフ・ラム<デニス・クエイド>　<strong>主役</strong></li>
 						<li>「２４ -TWENTY FOUR- シーズン３」　ラモン・サラザール<ジョアキム・デ・アルメイダ></li>
 						<li>「宮廷女官チャングムの誓い」　中宗<イム・ホ></li>
 						<li>「イニョプの道」　キム・チグゥン<キム・ガプス></li>
 						<li>「ヒューマンズ　シーズン1」ミリカン博士＜ウィリアム・ハート＞</li>
 						<li>「世界の麻薬王：その光と闇」ナレーション</li>
-						<li>「HERE AND NOW ～家族のカタチ～」グレッグ <ティム・ロビンス></li>
-						<li>「バッド・ブラッド：憎しみのマフィア」ヴィト<アンソニー・ラパリア></li>
+						<li>「HERE AND NOW ～家族のカタチ～」グレッグ <ティム・ロビンス>　<strong>主役</strong></li>
+						<li>「バッド・ブラッド：憎しみのマフィア」ヴィト<アンソニー・ラパリア>　<strong>主役</strong></li>
+						<li>「ヘチ 王座への道」ミン・ジノン<イ・ギョンヨン></li>
+						<li>「薔薇の名前」ベルナール・ギー<ルパート・エヴェレット></li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
 					<ul>
 						<li><トミー・リー・ジョーンズ></li>
 						<li>「逃亡者」　サム・ジェラード＊ソフト版</li>
-						<li>「メン・イン・ブラック」　エージェントＫ　＊日本テレビ版</li>
-						<li>「ノーカントリー」　エド・トム・ベル</li>
+						<li>「メン・イン・ブラック」　エージェントＫ　＊日本テレビ版　<strong>主役</strong></li>
+						<li>「ノーカントリー」　エド・トム・ベル　<strong>主役</strong></li>
 						<li>「リンカーン」　タデヴス・スティーヴンス</li>
 						<li>　</li>
 						<li><アル・パチーノ></li>
-						<li>「ヒート」　ヴィンセント・ハナ＊テレビ朝日版　</li>
-						<li>「エニイ・ギブン・サンデー」　トニー・ダマト＊日本テレビ版</li>
+						<li>「ヒート」　ヴィンセント・ハナ＊テレビ朝日版　<strong>主役</strong></li>
+						<li>「エニイ・ギブン・サンデー」　トニー・ダマト＊日本テレビ版　<strong>主役</strong></li>
 						<li><ジャン・レノ></li>
-						<li>「レオン」　レオン＊テレビ朝日版</li>
-						<li>「クリムゾン・リバー」　ピエール・ニーマンス</li>
+						<li>「レオン」　レオン＊テレビ朝日版　<strong>主役</strong></li>
+						<li>「クリムゾン・リバー」　ピエール・ニーマンス　<strong>主役</strong></li>
+						<li>「GODZILLA」＊ソフト版　フィリップ・ローシェ</li>
+						<li>「シェフ! 〜三ツ星レストランの舞台裏へようこそ〜」アレクサンドル・ラガルド　<strong>主役</strong></li>
 						<li>　</li>
 						<li><エド・ハリス></li>
 						<li>「アナーキー」　シンベリン</li>
 						<li>「ジオストーム」　レナード・デッコム</li>
-						<li>「さようなら、コダクローム」　ベン</li>
+						<li>「さようなら、コダクローム」　ベン　<strong>主役</strong></li>
 						<li>　</li>
 						<li>＜ウィリアム・ハート＞サディアス・“サンダーボルト”・ロス</li>
 						<li>「インクレイディブル・ハルク」</li>
@@ -156,27 +193,29 @@
 						<li>「アベンジャーズ／インフィニティ・ウォー」</li>
 						<li>　</li>
 						<li>「スタートレック」シリーズ　ミスター・スポック<レナード・ニモイ></li>
-						<li>「レ・ミゼラブル」　ジャン・バルジャン<リーアム・ニーソン></li>
-						<li>「特攻野郎Ａチーム THE MOVIE」　ハンニバル<リーアム・ニーソン></li>
+						<li>「レ・ミゼラブル」　ジャン・バルジャン<リーアム・ニーソン>　<strong>主役</strong></li>
+						<li>「特攻野郎Ａチーム THE MOVIE」　ハンニバル<リーアム・ニーソン>　<strong>主役</strong></li>
 						<li>「ロード・オブ・ザ・リング」「ホビット」三部作　エルロンド<ヒューゴ・ウィービング></li>
-						<li>「パトリオット・ゲーム」「今そこにある危機」　ジャック・ライアン<ハリソン・フォード>＊ソフト版</li>
+						<li>「パトリオット・ゲーム」「今そこにある危機」　ジャック・ライアン<ハリソン・フォード>＊ソフト版　<strong>主役</strong></li>
 						<li>「アイアンマン２」　ウィップラッシュ<ミッキー・ローク></li>
 						<li>「ハリー・ポッターと死の秘宝PART２」　ダンブルドア<キーラン・ハインズ></li>
 						<li>「００７カジノ・ロワイヤル」「慰めの報酬」ルネ・マティス<ジャンカルロ・ジャンニーニ>＊ソフト版</li>
-						<li>「リベンジ・マッチ」　ビリー・“ザ・キッド”マクドネン<ロバート・デ・ニーロ></li>
+						<li>「リベンジ・マッチ」　ビリー・“ザ・キッド”マクドネン<ロバート・デ・ニーロ>　<strong>主役</strong></li>
 						<li>「アバター」　マイルズ・クオリッチ大佐<スティーヴン・ラング></li>
-						<li>「オセロ」　イアーゴ<ケネス・ブラナー></li>
-						<li>「シラノ・ド・ベルジュラック」　シラノ<ジェラール・ドバルデュー></li>
+						<li>「オセロ」　イアーゴ<ケネス・ブラナー>　<strong>主役</strong></li>
+						<li>「シラノ・ド・ベルジュラック」　シラノ<ジェラール・ドバルデュー>　<strong>主役</strong></li>
+						<li>「デス・プルーフ in グラインドハウス」　スタントマン・マイク・マッケイ<カート・ラッセル>　<strong>主役</strong></li>
 						<li>「ヘイトフル・エイト」　ジョン・ルース<カート・ラッセル></li>
 						<li>「レゴバットマン ザ・ムービー」　ｃｖアルフレッド</li>
 						<li>「ワンダーウーマン」　ルーデンドルフ<ダニー・ヒューストン></li>
 						<li>「キングスマン：ゴールデン・サークル」シャンパン（ジェフ・ブリッジス）</li>
 						<li>「インクレイディブル・ファミリー」cvリック・ディッカー</li>
+						<li>「アラジン」国王・サルタン<ナヴィド・ネガーバン></li>
 					</ul>
 
 					<h5>アニメ</h5>
 					<ul>
-						<li>「宇宙戦艦ヤマト２１９９」「宇宙戦艦ヤマト２２０２ 愛の戦士たち」沖田十三</li>
+						<li>「宇宙戦艦ヤマト２１９９」「宇宙戦艦ヤマト２２０２ 愛の戦士たち」沖田十三　<strong>主役</strong></li>
 						<li>「東京喰種トーキョーグール」芳村</li>
 						<li>「アルスラーン戦記」アンドラゴラス三世</li>
 						<li>「文豪ストレイドッグス」ハーマン・Ｍ</li>
@@ -184,7 +223,7 @@
 						<li>「幽☆遊☆白書」雷禅</li>
 						<li>「ＮＡＲＵＴＯ-ナルト-疾風伝」千手柱間</li>
 						<li>「ＢＬＥＡＣＨ」斬月</li>
-						<li>「ヒートガイジェイ」ジェイ</li>
+						<li>「ヒートガイジェイ」ジェイ　<strong>主役</strong></li>
 						<li>「機動戦士ガンダムＵＣ」カーディアス・ビスト </li>
 						<li>「テイルズ オブ ゼスティリア ザ クロス」ヘルダルフ</li>
 						<li>「ＯＮＥ ＰＩＥＣＥ」シリュウ</li>
@@ -210,6 +249,8 @@
 						<li>「バキ」愚地独歩</li>
 						<li>「おしりたんてい」マスター</li>
 						<li>「HERO MASK」スティーブン・マートランド</li>
+						<li>「キャロル＆チューズデイ」シュバルツ</li>
+						<li>「ヴィンランド・サガ」スヴェン王</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -224,6 +265,8 @@
 						<li>「グランブルーファンタジー」ゼエン</li>
 						<li>「ドラゴンズドグマ　ダークアリズン」エドマン</li>
 						<li>「Marvel’s Spider-Man」J・ジョナ・ジェイムソン</li>
+						<li>「ドラゴンクエストXI 過ぎ去りし時を求めて」デルカダール王</li>
+						<li>「デモンエクスマキナ」准将役</li>
 					</ul>
 
 					<h5>ラジオ</h5>
@@ -233,19 +276,20 @@
 						<li>「母ちゃんと王様」NHKFMシアター</li>
 					</ul>
 
-					<h5>ＣＭ</h5>
+					<h5>ＣＭナレーション</h5>
 					<ul>
 						<li>サントリー「缶コーヒーＢＯＳＳ」宇宙人ジョーンズ</li>
-						<li>山田養蜂場　ＮＡ</li>
-						<li>フジドリームエアラインズ　ＮＡ</li>
-						<li>北海道新聞社「北海道の住人から」ＮＡ</li>
-						<li>パナソニック「炊飯器Ｗおどり炊き」ＮＡ</li>
+						<li>山田養蜂場</li>
+						<li>フジドリームエアラインズ</li>
+						<li>北海道新聞社「北海道の住人から」</li>
+						<li>パナソニック「炊飯器Ｗおどり炊き」</li>
 						<li>デアゴスティーニ「必殺仕事人　DVDコレクション」</li>
 						<li>福岡トヨペット「新春初売り」</li>
 					</ul>
 
 					<h5>番組ナレーション</h5>
 					<ul>
+						<li>「DAYS-2041-松山英樹と進藤大典」ゴルフネットワーク</li>
 						<li>「いた！ヤバイ生き物　キケン生物と大バトル」ＮＴＶ</li>
 						<li>「ニノさん　ニノゴンの怪獣図鑑」ＮＴＶ</li>
 						<li>「超絶　凄ワザ！」ＮＨＫ</li>

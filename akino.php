@@ -31,7 +31,6 @@
 					<h4>関連サイト</h4>
 					<ul>
 						<li><a href="http://kaoriokaki.exblog.jp/" target="_blank">山像かおり&秋之桜子ブログ「エル・カエル・デル・アンヘル」</a></li>
-						<li><a href="http://hagoromo1011.pupu.jp/" target="_blank">羽衣1011 公式サイト</a></li>
 						<li><a href="http://suikato.web.fc2.com/" target="_blank">西瓜糖 公式サイト</a></li>
 					</ul>
 
@@ -47,19 +46,9 @@
 
 					<h4>最新作</h4>
 
-					<h5>流山児★事務所</h5>
+					<h5>西瓜糖</h5>
 					<ul>
-						<li>「<a href="http://www.ryuzanji.com/2019/r-1908.html" target="_blank">赤玉★GANGAN～芥川なんぞ、怖くない～</a>」流山児★事務所 8/12〜8/27 下北沢ザ・スズナリ</li>
-						<li style="margin: 10px 0 0 10px;">
-							◆関連情報
-							<ul>
-								<li>
-									ステージナタリー 7.8掲載<br>
-									《秋之桜子×高橋正徳が大正の文学青年描く、流山児★事務所「赤玉★GANGAN」》<br>
-									<a href="https://natalie.mu/stage/news/338854" target="_blank">https://natalie.mu/stage/news/338854</a>
-								</li>
-							</ul>
-						</li>
+						<li>「<a href="http://no-4.biz/suikato8/" target="_blank">刺繍</a>」　演出：わかぎゑふ　2020年5/22～5/31　中野ザ・ポケット</li>
 					</ul>
 
 					<hr>
@@ -84,6 +73,7 @@
 						<li>「うみ」 １６年</li>
 						<li>「レバア」 １８年/寺十吾演出</li>
 						<li>「ご馳走」 １９年/加納幸和演出</li>
+						<li>「刺繍」20年/わかぎゑふ演出</li>
 					</ul>
 
 					<h5>羽衣1011+iori-apartment＝映像＋演劇</h5>
