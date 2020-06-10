@@ -2,22 +2,20 @@
 
 	$pagetitle = "所属声優オーディション - 株式会社フクダ＆Ｃｏ．";
 	$ogp = "ogp.gif";
-	$url = "";
-
+	$url = "join";
 	$bodyid = "join";
 
 	include('_header.php');
 
 ?>
-<section id="cover-photo">
-	<img src="/images/join.png">
-</section>
+
 
 <section class="wrapper">
 	<div class="inner">
+
 		<header class="major">
 			<p>フクダ＆Co.の新たな仲間を募集します</p>
-			<h2>所属声優オーディション開催</h2>
+			<h3>所属声優オーディション開催</h3>
 		</header>
 		<section>
 			<p class="lead">

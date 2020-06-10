@@ -7,10 +7,28 @@ AddHandler php5-script .php
 
 RewriteEngine On
 
-RewriteRule ^sugo/?$ sugo.php [PT]
-RewriteRule ^yamagata/?$ yamagata.php [PT]
-RewriteRule ^saco/?$ saco.php [PT]
-RewriteRule ^akino/?$ akino.php [PT]
+RewriteRule ^sugo/?$ /profile/sugo.php [PT]
+RewriteRule ^yamagata/?$ /profile/yamagata.php [PT]
+RewriteRule ^saco/?$ /profile/saco.php [PT]
+RewriteRule ^akino/?$ /profile/akino.php [PT]
+RewriteRule ^sasaki/?$ /profile/sasaki.php [PT]
+
+RewriteRule ^kubota/?$ /profile/kubota.php [PT]
+RewriteRule ^mi-ke/?$ /profile/mi-ke.php [PT]
+RewriteRule ^kubo/?$ /profile/kubo.php [PT]
+RewriteRule ^shiozaki/?$ /profile/shiozaki.php [PT]
+RewriteRule ^aoyagi/?$ /profile/aoyagi.php [PT]
+RewriteRule ^katafuchi/?$ /profile/katafuchi.php [PT]
+RewriteRule ^kobayashi/?$ /profile/kobayashi.php [PT]
+RewriteRule ^sakai/?$ /profile/sakai.php [PT]
+RewriteRule ^tamura/?$ /profile/tamura.php [PT]
+RewriteRule ^toishi/?$ /profile/toishi.php [PT]
+RewriteRule ^nasu/?$ /profile/nasu.php [PT]
+RewriteRule ^yanai/?$ /profile/yanai.php [PT]
 
 RewriteRule ^news/?$ news.php [PT]
 RewriteRule ^info/?$ info.php [PT]
+RewriteRule ^voice/?$ voice.php [PT]
+RewriteRule ^about/?$ about.php [PT]
+RewriteRule ^artist/?$ artist.php [PT]
+RewriteRule ^join/?$ join.php [PT]
