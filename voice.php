@@ -1,5 +1,5 @@
 <?
-
+	// hoge
 	$pagetitle = "ボイスサンプル - 株式会社フクダ＆Ｃｏ．";
 	$ogp = "ogp/voice.gif";
 	$url = "voice";
