@@ -74,8 +74,6 @@
 
 	body, input, select, textarea {
 		color: #333333;
-		/*font-family: "Open Sans", Helvetica, sans-serif;*/
-		/*font-family: "Sawarabi Mincho";*/
 		font-family: 'Noto Serif JP', sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
@@ -138,7 +136,6 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #333333;
 		font-weight: 800;
-		letter-spacing: 0.225em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 	}
@@ -210,40 +207,8 @@
 		border-bottom: solid 2px #fff;
 		margin: 3em 0;
 	}
-
 		hr.major {
 			margin: 4.5em 0;
-		}
-
-	blockquote {
-		border-left: solid 4px #fff;
-		font-style: italic;
-		margin: 0 0 2em 0;
-		padding: 0.5em 0 0.5em 2em;
-	}
-
-	code {
-		background: rgba(144, 144, 144, 0.25);
-		border-radius: 3px;
-		font-family: "Courier New", monospace;
-		font-size: 0.9em;
-		letter-spacing: 0;
-		margin: 0 0.25em;
-		padding: 0.25em 0.65em;
-	}
-
-	pre {
-		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
-		font-size: 0.9em;
-		margin: 0 0 2em 0;
-	}
-
-		pre code {
-			display: block;
-			line-height: 1.75em;
-			padding: 1em 1.5em;
-			overflow-x: auto;
 		}
 
 	.align-left {

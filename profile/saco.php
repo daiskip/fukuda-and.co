@@ -96,6 +96,7 @@
 
 					<h5>アニメ</h5>
 					<ul>
+						<li>「<a href="https://www.netflix.com/title/81220435?locale=ja-JP" target="_blank">GREAT PRETENDER（グレートプリテンダー）</a>」cvイザベル・ミューラー NETFLIX 7.8CX放送開始</li>
 						<li>「<a href="http://www.toei-anim.co.jp/tv/precure/" target="_blank">ヒーリングっど♡プリキュア</a>」cv沢泉なお　毎週（日）8:30～ABCテレビ・テレビ朝日系列</li>
 						<li>「<a href="https://kyokousuiri.jp/" target="_blank">虚構推理</a>」cv桜川六花　毎（土）25:30～ テレビ朝日ほか</li>
 						<li>「<a href="https://mugen-immortal.com/" target="_blank">無限の住人-IMMORTAL-</a>」cv目黒　Amazonプライムビデオ 毎（木）配信</li>
@@ -103,31 +104,18 @@
 
 					<h5>海外ドラマ</h5>
 					<ul>
+						<li>「<a href="https://www.netflix.com/title/80057918" target="_blank">ＬＵＣＩＦＥＲ/ルシファー シーズン5</a>」クロエ・デッカー<ローレン・ジャーマン> NETFLIX　<strong>ヒロイン</strong></li>
 						<li>「<a href="https://wowow.co.jp/detail/116885" target="_blank">ライアー 交錯する証言</a>」ローラ<ジョアン・フロガット>WOWOW　<strong>主役</strong>　3.18放送開始</li>
 						<li>「<a href="https://bit.ly/3bOizAx" target="_blank">JAILERS/ジェイラーズ</a>」ジャナイーナ　hulu配信　<strong>ヒロイン</strong></li>
 						<li>「<a href="https://www.axn.co.jp/programs/magnum_pi" target="_blank">私立探偵マグナム（リブート版）</a>」ジュリエット・ヒギンズ<パーディタ・ウィークス> AXN　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://tv.apple.com/jp/show/unknown/umc.cmc.6wsi780sz5tdbqcf11k76mkp7" target="_blank">フォー・オール・マンカインド</a>」エレン <ジョディ・バルフォー> AppleTV</li>
 						<li>「<a href="https://amzn.to/2VYC4zI" target="_blank">トランスペアレント シーズン5　ミュージカル・フィナーレ</a>」アリ<ギャビー・ホフマン>　Amazonプライム　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://www.netflix.com/title/80057918" target="_blank">ＬＵＣＩＦＥＲ/ルシファー シーズン4</a>」クロエ・デッカー<ローレン・ジャーマン> NETFLIX　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://www.netflix.com/jp/title/80236236" target="_blank">アナザー・ライフ</a>」キャス NETFLIX</li>
-						<li>「<a href="https://www.netflix.com/title/80124522" target="_blank">MANIAC</a>」アニー ＜エマ・ストーン＞ NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80103417" target="_blank">僕と君と彼女の関係</a>」エマ<レイチェル・ブランチャード>  NETFLIX　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://www9.nhk.or.jp/kaigai/fumetsu/" target="_blank">不滅の恋人</a>」ヨギョン<チュ・スヨン> NHK総合</li>
 					</ul>
 
 					<h5>映画</h5>
 					<ul>
+						<li>「<a href="https://www.netflix.com/title/80244088" target="_blank">ユーロビジョン歌合戦〜ファイア・サーガ物語〜</a>」シグリット<レイチェル・マクアダムス>NETFLIX <strong>ヒロイン</strong></li>
 						<li>「<a href="http://urx3.nu/ggnW" target="_blank">イン・トゥ・ザ・スカイ～気球で未来を変えたふたり～</a>」フェリシティ・ジョーンズ　Amazonプライム　<strong>主役</strong></li>
-						<li>「<a href="https://gaga.ne.jp/hicdragon/" target="_blank">ヒックとドラゴン 聖地への冒険</a>」cvグリゼルダ　12.20劇場公開</li>
-						<li>「<a href="https://kinro.ntv.co.jp/lineup/20191206" target="_blank">ホーム・アローン3</a>」アリス　金曜ロードショー（新録版） 12.6放送</li>
-						<li>「<a href="http://www.nbcuni.co.jp/movie/sp/johnnyenglish/" target="_blank">ジョニー・イングリッシュ　アナログの逆襲</a>」オフィーリア<オルガ・キュリレンコ> Blu-ray＆DVD　<strong>ヒロイン</strong></li>
-						<li>「<a href="http://www.foxmovies-jp.com/battleofthesexes/" target="_blank">バトル・オブ・ザ・セクシーズ</a>」ビリー・ジーン<エマ・ストーン>Blu-ray＆DVD　<strong>主役</strong></li>
-						<li>「<a href="http://tonya-movie.jp/" target="_blank">アイ,トーニャ　史上最大のスキャンダル</a>」トーニャ・ハーディング<マーゴット・ロビー>Blu-ray＆DVD　<strong>主役</strong></li>
-						<li>「<a href="http://deadpool.jp/" target="_blank">デッドプール２</a>」ドミノ＜ザジー・ビーツ＞デジタル配信、Blu-ray＆DVD　<strong>ヒロイン</strong></li>
-						<li>「<a href="http://miss-sloane.jp/" target="_blank">女神の見えざる手</a>」エリザベス・スローン<ジェシカ・チャステイン> Blu-ray/DVD　<strong>主役</strong></li>
-						<li>「<a href="http://www.foxmovies-jp.com/kingsman/" target="_blank">キングスマン：ゴールデン・サークル</a>」ティルデ王女<ハンナ・アルストロム>Blu-ray/DVD</li>
-						<li>「<a href="http://mollysgame.jp/" target="_blank">モリーズ・ゲーム</a>」モリー・ブルーム<ジェシカ・チャステイン>Blu-ray/DVD　<strong>主役</strong></li>
-						<li>「<a href="http://baumandkuchen.com/baum_fes2/" target="_blank">終末のイヴ</a>」（中川和博監督）バウムちゃんねる映画祭/バウムアンドクーヘン</li>
 					</ul>
 
 					<h5>TV</h5>
@@ -137,6 +125,7 @@
 
 					<h5>ゲーム</h5>
 					<ul>
+						<li>「<a href="https://www.playstation.com/ja-jp/games/ghost-of-tsushima-ps4/" target="_blank">Ghost of Tsushima</a>」巴役　PlayStation4 発売中</li>
 						<li>「<a href="https://www.jp.playstation.com/games/detroit-become-human/" target="_blank">Detroit: Become Human</a>」カーラ（ヒロイン）PlayStation4 発売中　<strong>主役</strong></li>
 						<li>「<a href="http://www.capcom.co.jp/onimusha/" target="_blank">鬼武者</a>」（ヘキュバ）PlayStation4 12/20発売</li>
 					</ul>
@@ -232,6 +221,7 @@
 						<li>「恋とニュースのつくり方」ベッキー・フルラー　<strong>主役</strong></li>
 						<li>「サウスポー」モーリン・ホープ　<strong>ヒロイン</strong></li>
 						<li>「誰よりも狙われた男」アナベル・リヒター　<strong>ヒロイン</strong></li>
+						<li>「ユーロビジョン歌合戦〜ファイア・サーガ物語〜」シグリット　<strong>ヒロイン</strong></li>
 						<li>　</li>
 
 						<li><ノオミ・ラパス></li>
@@ -286,6 +276,7 @@
 						<li>「虚構推理」桜川六花</li>
 						<li>「無限の住人-IMMORTAL-」目黒</li>
 						<li>「ヒーリングっど♡プリキュア」cv沢泉なお</li>
+						<li>「GREAT PRETENDER（グレートプリテンダー）」cvイザベル・ミューラー</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -294,6 +285,7 @@
 						<li>「ザ・キング・オブ・ファイターズ」バイス</li>
 						<li>「Detroit: Become Human」カーラ　<strong>主役</strong></li>
 						<li>「鬼武者」ヘキュバ</li>
+						<li>「Ghost of Tsushima」巴</li>
 					</ul>
 
 					<h5>TVナレーション、ボイスオーバー</h5>

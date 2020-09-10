@@ -46,9 +46,34 @@
 
 					<h4>最新作</h4>
 
-					<h5>西瓜糖</h5>
+					<h5>舞台</h5>
 					<ul>
-						<li>「<a href="http://no-4.biz/suikato8/" target="_blank">刺繍</a>」　演出：わかぎゑふ　2020年5/22～5/31　中野ザ・ポケット</li>
+						<li>
+							西瓜糖特別公演<br>
+							「MOON」<br>
+							演出：高橋正徳<br>
+							10月7日（水）、8日（木）絵空箱（東京）<br>
+							<a href="http://suikato.blog.jp/archives/33094761.html" target="_blank">http://suikato.blog.jp/archives/33094761.html</a>
+						</li>
+						<li><br></li>
+						<li>
+							あうるすぽっと主催公演<br>
+							「その男、ピッグテイル」<br>
+							演出：寺十吾<br>
+							11月22日（日） 〜 11月29日（日）あうるすぽっと（東京）<br>
+							<a href="https://www.owlspot.jp/events/performance/post_187.html" target="_blank">https://www.owlspot.jp/events/performance/post_187.html</a>
+						</li>
+					</ul>
+
+					<h5>映画</h5>
+					<ul>
+						<li>
+							流山児★事務所×コラボニクス自主製作映画企画<br>
+							「ジャパンデミック〜13人のイカれる作家たち〜」<br>
+							『サインボール』2020年秋公開予定<br>
+							<a href="https://www.japandemic13stories.com/" target="_blank">https://www.japandemic13stories.com/</a><br>
+							<a href="https://www.youtube.com/watch?v=meFGSsgFJ9k" target="_blank">https://www.youtube.com/watch?v=meFGSsgFJ9k</a>
+						</li>
 					</ul>
 
 					<hr>
@@ -74,6 +99,7 @@
 						<li>「レバア」 １８年/寺十吾演出</li>
 						<li>「ご馳走」 １９年/加納幸和演出</li>
 						<li>「刺繍」20年/わかぎゑふ演出</li>
+						<li>「MOON」21年/高橋正徳演出/西瓜糖特別公演</li>
 					</ul>
 
 					<h5>羽衣1011+iori-apartment＝映像＋演劇</h5>
@@ -133,6 +159,11 @@
 					<h5>流山児★事務所</h5>
 					<ul>
 						<li>「<a href="http://www.ryuzanji.com/2019/r-1908.html" target="_blank">赤玉★GANGAN～芥川なんぞ、怖くない～</a>」19年/高橋正徳演出/流山児★事務所　下北沢ザ・スズナリ</li>
+					</ul>
+
+					<h5>あうるすぽっと</h5>
+					<ul>
+						<li>「<a href="https://www.owlspot.jp/events/performance/post_187.html" target="_blank">その男、ピッグテイル</a>」20年/寺十吾 演出　あうるすぽっと</li>
 					</ul>
 
 					<h5>WEBドラマ</h5>

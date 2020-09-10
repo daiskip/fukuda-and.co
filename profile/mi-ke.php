@@ -79,6 +79,24 @@
 
 					<h4>最新作</h4>
 
+					<h5>舞台</h5>
+					<ul>
+						<li>
+							豊岡演劇祭2020<br>
+							<a href="https://toyooka-theaterfestival.jp/" target="_blank">Cigars「庭にはニワトリ二羽にワニ」「キニサクハナノナ」</a><br>
+							作：小川未玲　演出：志賀廣太郎<br>
+							9/12（土）12:00／19:30 ｜ 9/13（日）19:30<br>
+							豊岡市民プラザ
+						</li>
+					</ul>
+
+					<h5>取材</h5>
+					<ul>
+						<li>
+							「<a href="http://enbu.shop21.makeshop.jp/shopdetail/000000010598" target="_blank">えんぶ</a>」2020年10月号（9/9発売）-CLOSE to my HEART-
+						</li>
+					</ul>
+
 					<h5>TVCM</h5>
 					<ul>
 						<li>「<a href="https://youtu.be/EONZKa_AqFY" target="_blank">花王 メリーズ</a>」2011年よりウサギのキャラクターとして担当</li>
@@ -163,6 +181,7 @@
 					  <li>　</li>
 					  <li>2020年</li>
 					  <li>「東京ノート　インターナショナルバージョン」「東京ノート」青年団（作・演出：平田オリザ）</li>
+						<li>「庭にはニワトリ二羽にワニ」「キニサクハナノナ」Cigars（作：小川未玲、演出：志賀廣太郎）豊岡演劇祭2020</li>
 					</ul>
 
 					<h5>作・演出</h5>

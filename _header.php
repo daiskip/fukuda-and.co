@@ -10,9 +10,7 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css"><![endif]-->
 		<!-- <link href="https://fonts.googleapis.com/earlyaccess/sawarabimincho.css" rel="stylesheet"> -->
 		<link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
-
-		<link rel="stylesheet" href="assets/css/new.css">
-
+		<link rel="stylesheet" href="assets/css/new.css?20200611">
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@fukudaandco">
 		<meta name="twitter:image" content="http://fukuda-and.co/images/<?=$ogp;?>">

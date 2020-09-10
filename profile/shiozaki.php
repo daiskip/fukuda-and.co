@@ -89,7 +89,9 @@
 
 					<h5>アニメ</h5>
 					<ul>
+						<li>「<a href="https://www.tv-tokyo.co.jp/anime/yugioh-sevens/" target="_blank">遊☆戯☆王SEVENS</a>」cv八木ニック（レギュラー）TX</li>
 						<li>「<a href="https://www.netflix.com/title/80224581" target="_blank">虫籠のカガステル</a>」cvハディ（レギュラー）全12回 NETFLIX</li>
+						<li>「<a href="https://gibiate.com/jp/" target="_blank">ジビエート</a>」TOKYOMX、AT-X、BSフジ</li>
 					</ul>
 
 					<hr>
@@ -112,9 +114,11 @@
 
 					<h5>アニメ</h5>
 					<ul>
+						<li>「遊☆戯☆王SEVENS」cv八木ニック（レギュラー）TX</li>
 					  <li>「虫籠のカガステル」cvハディ（レギュラー）NETFLIX </li>
 					  <li>「コップクラフト」cvロドリゴ</li>
 					  <li>「悪偶－天才人形－」</li>
+						<li>「ジビエート」</li>
 					</ul>
 
 				</div>

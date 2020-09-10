@@ -103,8 +103,19 @@
 
 					<h5>舞台</h5>
 					<ul>
-					  <li>新国立劇場2020/2021シーズン人を思うちから 其の壱</li>
-					  <li>「<a href="https://www.nntt.jac.go.jp/play/kirarenosenta/" target="_blank">斬られの仙太</a>」（作：三好十郎　演出：上村聡史）</li>
+						<li>
+							KAKUTA「ひとよ」（作・演出：桑原裕子）<br>
+							9.3（木）～ 13（日）本多劇場（東京）<br>
+							10.3（土）～ 4（日）穂の国とよはし芸術劇場（愛知）<br>
+							<a href="http://www.kakuta.tv/hitoyo2020/" target="_blank">http://www.kakuta.tv/hitoyo2020/</a>
+						</li>
+						<li><br></li>
+						<li>
+							新国立劇場2020/2021シーズン人を思うちから 其の壱<br>
+							「斬られの仙太」（作：三好十郎　演出：上村聡史）<br>
+							2021年4月　新国立劇場・小劇場<br>
+							<a href="https://www.nntt.jac.go.jp/play/kirarenosenta/" target="_blank">https://www.nntt.jac.go.jp/play/kirarenosenta/</a>
+						</li>
 					</ul>
 
 					<h5>CM</h5>

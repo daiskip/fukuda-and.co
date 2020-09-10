@@ -15,6 +15,654 @@
 		<h2>最新情報</h2>
 
 		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/41.jpg" target="_blank"><img src="/images/news/41.jpg"></a>
+			</div>
+			<p class="date">
+				2020.09.12
+			</p>
+			<h3>藤谷みき（みけ） 豊岡演劇祭2020　公演情報</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				cigars<br>
+				「庭にはニワトリ二羽にワニ」「キニサクハナノナ」<br>
+				作：小川未玲　演出：志賀廣太郎<br>
+				日時：9/12（土）12:00／19:30 ｜ 9/13（日）19:30<br>
+				会場：豊岡市民プラザ<br>
+				詳細は公式サイトをご覧ください。<br>
+				<br>
+				<a href="https://toyooka-theaterfestival.jp/" target="_blank">https://toyooka-theaterfestival.jp/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.10
+			</p>
+			<h3>那須有　WOWOW「ザ・ルーキー 40歳の新米ポリス！？」出演</h3>
+			<p class="icon">
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+			</p>
+			<p class="text">
+				9/10（木）放送の第2話「運転にご用心」で、那須有が、花嫁役を担当しています。<br>
+				23:00〜WOWOWプライムにて、どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/170592" target="_blank">https://www.wowow.co.jp/detail/170592</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/40.jpg" target="_blank"><img src="/images/news/40.jpg"></a>
+			</div>
+			<p class="date">
+				2020.09.10
+			</p>
+			<h3>秋之桜子、山像かおり　西瓜糖特別公演「MOON」</h3>
+			<p class="icon">
+				<a href="/akino"><img src="/images/icon/akino.jpg"></a>
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				西瓜糖、初の二人芝居、初のコメディ！？<br>
+				特別公演「MOON」の上演が決まりました。<br>
+				<br>
+				西瓜糖特別公演<br>
+				「MOON」<br>
+				作：秋之桜子　演出：高橋正徳<br>
+				出演：山像かおり　奥山美代子<br>
+				日時：10/7（水）19:00 ｜ 10/8（木）14:00／18:00<br>
+				会場：絵空箱（東京・江戸川橋駅、神楽坂駅最寄り）<br>
+				詳細は公式サイトをご覧ください。<br>
+				<br>
+				<a href="http://suikato.blog.jp/archives/33094761.html" target="_blank">http://suikato.blog.jp/archives/33094761.html</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.09
+			</p>
+			<h3>藤谷みき（みけ）「えんぶ」10月号インタビュー掲載</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				藤谷みき（みけ）のインタビュー記事が掲載されています。<br>
+				「えんぶ」2020年10月号（9/9発売）-CLOSE to my HEART-<br>
+				どうぞご覧ください。<br>
+				<br>
+				<a href="http://enbu.shop21.makeshop.jp/shopdetail/000000010598" target="_blank">http://enbu.shop21.makeshop.jp/shopdetail/000000010598</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.05
+			</p>
+			<h3>青耶木まゆ　Eテレ「おさるのジョージ」出演</h3>
+			<p class="icon">
+				<a href="/aoyagi"><img src="/images/icon/aoyagi.jpg"></a>
+			</p>
+			<p class="text">
+				NHK Eテレの海外アニメ「おさるのジョージ」、<br>
+				「ド根性、雪だるま」の回に、青耶木まゆが飼育員のお姉さん役で出演します。<br>
+				9/5（土）朝8:35より放送です。ご覧ください。<br>
+				<br>
+				<a href="https://www6.nhk.or.jp/anime/program/detail.html?i=george" target="_blank">https://www6.nhk.or.jp/anime/program/detail.html?i=george</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.04
+			</p>
+			<h3>秋之桜子　新作舞台「その男、ピッグテイル」</h3>
+			<p class="icon">
+				<a href="/akino"><img src="/images/icon/akino.jpg"></a>
+			</p>
+			<p class="text">
+				あうるすぽっと11月主催公演に、秋之桜子が新作脚本を提供いたします。<br>
+				<br>
+				「その男、ピッグテイル」<br>
+				演出：寺十吾<br>
+				脚本：秋之桜子<br>
+				上演日程：2020年11月22日（日） 〜 11月29日（日）<br>
+				前売：10月4日（日）チケット発売開始<br>
+				どうぞご期待ください。<br>
+				<br>
+				<a href="https://www.owlspot.jp/events/performance/post_187.html" target="_blank">https://www.owlspot.jp/events/performance/post_187.html</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.04
+			</p>
+			<h3>久保田民絵　NETFLIX「AWAY -遠く離れて-」配信開始</h3>
+			<p class="icon">
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+			</p>
+			<p class="text">
+				NETFLIXオリジナルドラマ「AWAY -遠く離れて-」<br>
+				久保田民絵が、ダーリーン役でレギュラー出演しています。<br>
+				全10回、吹替え版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.netflix.com/jp/title/80214512" target="_blank">https://www.netflix.com/jp/title/80214512</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.04
+			</p>
+			<h3>田村真央　SBC信越放送ラジオ「もっとまつもと！」ゲスト出演</h3>
+			<p class="icon">
+				<a href="/tamura"><img src="/images/icon/tamura.jpg"></a>
+			</p>
+			<p class="text">
+				9/4（金）13:15〜13:35　生放送、<br>
+				田村真央が、「もっとまつもと！」にゲスト出演いたします。<br>
+				10月出演の舞台「そよ風と魔女たちとマクベスと」のお話をいたします。<br>
+				<br>
+				<a href="https://sbc21.co.jp/blogwp/matsumoto/" target="_blank">https://sbc21.co.jp/blogwp/matsumoto/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.03
+			</p>
+			<h3>菅生隆之　アニメ「ドラゴンズドグマ」情報解禁</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				Netflixオリジナルアニメシリーズ「ドラゴンズドグマ」<br>
+				菅生隆之が、ドラゴン役で出演いたします。<br>
+				9/17（木）全世界独占配信です。<br>
+				<br>
+				<a href="https://www.youtube.com/watch?v=-TxzSchpdFc" target="_blank">https://www.youtube.com/watch?v=-TxzSchpdFc</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.01
+			</p>
+			<h3>菅生隆之 「クリミナル・マインド15 FBI行動分析課 ザ・ファイナル」放送開始</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				WOWOW海外ドラマ「クリミナル・マインド FBI行動分析課」<br>
+				ファイナルシーズン15が、いよいよ明日開始です。<br>
+				菅生隆之が、BAUメンバーのリーダー、デヴィッド・ロッシを担当します。<br>
+				BAUの最後の闘い、全10回どうぞご期待ください。<br>
+				吹替え版：毎週（火）23:00〜WOWOWプライム<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/116473/002/01" target="_blank">https://www.wowow.co.jp/detail/116473/002/01</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/38.jpg" target="_blank"><img src="/images/news/38.jpg"></a>
+				<a href="/images/news/39.jpg" target="_blank"><img src="/images/news/39.jpg"></a>
+			</div>
+			<p class="date">
+				2020.08.22
+			</p>
+			<h3>山像かおり	鴨リンピック2020「青木さん家の奥さんⅡ」</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				山像かおりが、出場（出演）します。<br>
+				<br>
+				鴨リンピック2020「青木さん家の奥さんⅡ」<br>
+				作：内藤裕敬　演出：新谷清水<br>
+				<br>
+				鴨リンピックTOKYO（東京公演）<br>
+				11月12日（木）〜15日（日）雑遊（新宿）<br>
+				<br>
+				<a href="http://banzai-ichiza.com/?p=1065" target="_blank">http://banzai-ichiza.com/?p=1065</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.22
+			</p>
+			<h3>山像かおり　NETFLIX「プロジェクト・パワー」配信</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				山像かおりが、ガードナー（エイミー・ランデッカー）を担当しています。<br>
+				吹替え版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.netflix.com/jp/title/80204465" target="_blank">https://www.netflix.com/jp/title/80204465</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.22
+			</p>
+			<h3>山像かおり	NETFLIX「ステートレス-彷徨の行方-」配信</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				NETFLIXリミテッドシリーズ「ステートレス-彷徨の行方-」（全6回）<br>
+				山像かおりが、クレア役を担当しています。<br>
+				吹替え版でもご覧ください。<br>
+				<br>
+				<a href="https://www.netflix.com/jp/title/81206211" target="_blank">https://www.netflix.com/jp/title/81206211</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.22
+			</p>
+			<h3>山像かおり	NETFLIX「シットコム大運動会」配信</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				第3回の「アシュリー・ガルシア：パサデナ2020」で、<br>
+				山像かおりが、ジア役を担当しています。<br>
+				ぜひご覧ください。<br>
+				<br>
+				<a href="https://www.netflix.com/jp/title/81223007" target="_blank">https://www.netflix.com/jp/title/81223007</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.21
+			</p>
+			<h3>佐古真弓 「LUCIFER/ルシファー」シーズン5配信</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				NETFLIXオリジナルドラマ「LUCIFER/ルシファー」最新の第5シーズン（パート1、8話）が配信開始となりました。<br>
+				佐古真弓がヒロインのクロエ・デッカー（ローレン・ジャーマン）を担当しています。<br>
+				吹替え版でもお楽しみください！<br>
+				<br>
+				<a href="https://www.netflix.com/title/80057918" target="_blank">https://www.netflix.com/title/80057918</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/36.jpg" target="_blank"><img src="/images/news/36.jpg"></a>
+			</div>
+			<p class="date">
+				2020.08.16
+			</p>
+			<h3>秋之桜子 「Japandemic ジャパンデミック～13人のイカれる作家たち～ 」</h3>
+			<p class="icon">
+				<a href="/akino"><img src="/images/icon/akino.jpg"></a>
+			</p>
+			<p class="text">
+				流山児★事務所×コラボニクス自主製作映画企画<br>
+				「ジャパンデミック〜13人のイカれる作家たち〜」に、秋之桜子が脚本参加いたします。<br>
+				13人のイカレる作家たちの一人として、新作「サインボール」を提供しました。<br>
+				2020年の秋の公開予定です。ご期待ください。<br>
+				<br>
+				予告動画「CM Episode1 ザッピング」<br>
+				<a href="https://www.youtube.com/watch?v=meFGSsgFJ9k" target="_blank">https://www.youtube.com/watch?v=meFGSsgFJ9k</a><br>
+				<br>
+				公式サイト<br>
+				<a href="https://www.japandemic13stories.com/" target="_blank">https://www.japandemic13stories.com/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/37.jpg" target="_blank"><img src="/images/news/37.jpg"></a>
+			</div>
+			<p class="date">
+				2020.08.16
+			</p>
+			<h3>田村真央　舞台「そよ風と魔女たちとマクベスと」出演</h3>
+			<p class="icon">
+				<a href="/tamura"><img src="/images/icon/tamura.jpg"></a>
+			</p>
+			<p class="text">
+				長野県芸術監督団事業主催、串田和美新作書き下ろし舞台<br>
+				「そよ風と魔女たちとマクベスと」に、田村真央が出演いたします。<br>
+				<br>
+				原作：W・シェイクスピア「マクベス」より<br>
+				脚色・演出：串田和美<br>
+				<br>
+				2020年10月（長野公演のみ）<br>
+				上田市交流文化芸術センター 大スタジオ　10/2（金）〜4（日）<br>
+				まつもと市民芸術館 特設会場　10/8（木）〜11（日）<br>
+				茅野市民会館　10/18（日）<br>
+				<br>
+				<a href="https://www.mpac.jp/event/35054/" target="_blank">https://www.mpac.jp/event/35054/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.16
+			</p>
+			<h3>柳井景伊 ドラマティック・カンパニー「ぷーねこぷーにゃん」配信</h3>
+			<p class="icon">
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				ドラマティック・カンパニー、夏のアトリエ親子劇場ですが、今年は新型コロナウィルス感染拡大防止の観点から、動画配信で上演することとなりました。<br>
+				柳井景伊が「ぷーねこぷーにゃん」第2話「ぷーにゃん空をとぶ」に出演しています。<br>
+				8月31日までの期間限定配信です。ご自宅でお楽しみください。<br>
+				<br>
+				配信サイト　<a href="https://www.youtube.com/watch?v=oprMKN0l0yE" target="_blank">https://www.youtube.com/watch?v=oprMKN0l0yE</a><br>
+				公式サイト　<a href="https://bit.ly/342Wu0n" target="_blank">https://bit.ly/342Wu0n</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.15
+			</p>
+			<h3>久保田民絵　Eテレ特番「アンネ・フランク 時を越えるストーリー」</h3>
+			<p class="icon">
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+			</p>
+			<p class="text">
+				8/15（土）18:00〜19:30、NHK Eテレにて放送です。<br>
+				久保田民絵がアリアンナ・セレーニ役で声の出演をいたします。<br>
+				ご覧ください。<br>
+				<br>
+				<a href="https://www.nhk.jp/p/ts/5M8YX9KKK6/" target="_blank">https://www.nhk.jp/p/ts/5M8YX9KKK6/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.15
+			</p>
+			<h3>塩崎智弘　アニメ「遊☆戯☆王SEVENS」レギュラー出演</h3>
+			<p class="icon">
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+			</p>
+			<p class="text">
+				8/15（土）朝7:30〜放送の第11話より、<br>
+				塩崎智弘が、八木ニック役でレギュラー出演いたします。<br>
+				毎週（土）朝7:30〜放送、テレビ東京にて。ご覧ください。<br>
+				<br>
+				<a href="https://www.tv-tokyo.co.jp/anime/yugioh-sevens/" target="_blank">https://www.tv-tokyo.co.jp/anime/yugioh-sevens/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.05
+			</p>
+			<h3>菅生隆之　NHKスペシャル「証言と映像でつづる原爆投下・全記録」</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				8/6（木）22:00〜NHK総合にて放送です。<br>
+				菅生隆之が番組のキーマン・ファレル准将の手記を語ります。<br>
+				ぜひご覧ください。<br>
+				<br>
+				<a href="https://www.nhk.jp/p/special/ts/2NY2QQLPM3/schedule/" target="_blank">https://www.nhk.jp/p/special/ts/2NY2QQLPM3/schedule/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.05
+			</p>
+			<h3>山像かおり 「オルデンハイム〜12の悲劇〜」連続放送</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				WOWOWプライム、欧州ミステリー「オルデンハイム～12の悲劇～」（全12話）<br>
+				8月5日（水）6日（木）の2日間、連続集中放送されます。<br>
+				山像かおりが、エマ役でレギュラー出演しています。<br>
+				8/5（水）10:50〜お楽しみください！<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/114326" target="_blank">https://www.wowow.co.jp/detail/114326</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.08.05
+			</p>
+			<h3>山像かおり FM世田谷「劇ナビ！！」ゲスト出演</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				FM世田谷「劇ナビ‼︎」に山像かおり（秋之桜子）ゲスト出演いたします。<br>
+				8月5日（水）22:00〜放送です。<br>
+				番組公式サイトからもお聴きになれます。<br>
+				<br>
+				<a href="https://fmsetagaya.com/archives/4288" target="_blank">https://fmsetagaya.com/archives/4288</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.07.23
+			</p>
+			<h3>片渕真子　WOWOW「BBC Earth2020」声の出演</h3>
+			<p class="icon">
+				<a href="/katafuchi"><img src="/images/icon/katafuchi.jpg"></a>
+			</p>
+			<p class="text">
+				WOWOW「トロピカル・アイランド　常夏の楽園」全3回シリーズが、7月23日（木・祝）放送になります。<br>
+				片渕真子が、第3回「ハワイ」でボイスオーバーの出演をしています。<br>
+				第3回は、13:00〜WOWOWプライムにて放送です。ご覧ください。<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/170232" target="_blank">https://www.wowow.co.jp/detail/170232</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.07.17
+			</p>
+			<h3>佐古真弓　PS4ゲーム「Ghost of Tsushima」発売開始</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				PlayStation4新作ゲーム「Ghost of Tsushima」が7月17日発売開始となりました。<br>
+				佐古真弓が、巴（ともえ）役を担当しています。<br>
+				お楽しみください！<br>
+				<br>
+				<a href="https://www.playstation.com/ja-jp/games/ghost-of-tsushima-ps4/" target="_blank">https://www.playstation.com/ja-jp/games/ghost-of-tsushima-ps4/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.07.15
+			</p>
+			<h3>塩崎智弘　アニメ「ジビエート」レギュラー出演</h3>
+			<p class="icon">
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+			</p>
+			<p class="text">
+				新作TVアニメ「ジビエート」に塩崎智弘がレギュラー出演いたします。<br>
+				ジビエになる男性、複数役、演じております。<br>
+				<br>
+				7月15日より、毎週（水）TOKYOMX 22:00〜／AT-X 23:00〜<br>
+				7月16日より、毎週（木）BSフジ 24:00〜放送です。<br>
+				<br>
+				<a href="https://gibiate.com/jp/" target="_blank">https://gibiate.com/jp/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.07.11
+			</p>
+			<h3>田村真央　舞台「じゃり」インタビュー記事掲載</h3>
+			<p class="icon">
+				<a href="/tamura"><img src="/images/icon/tamura.jpg"></a>
+			</p>
+			<p class="text">
+				TCアルプ、まつもと市民芸術館の舞台「じゃり」（7/16初日）<br>
+				田村真央のインタビュー記事が掲載されました。<br>
+				<br>
+				●市民タイムス「塩尻出身の俳優・田村真央さん ＴＣアルプ新作に出演へ」7/8掲載<br>
+				<a href="https://bit.ly/3exKnKx" target="_blank">https://bit.ly/3exKnKx</a><br>
+				<br>
+				●MGプレス「市民参加型演劇 松本の良さ実感」7/11掲載<br>
+				<a href="https://bit.ly/38Sszsj" target="_blank">https://bit.ly/38Sszsj</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.06.26
+			</p>
+			<h3>佐古真弓 「ユーロビジョン歌合戦〜ファイア・サーガ物語〜」配信開始</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				NETFLIXオリジナル映画「ユーロビジョン歌合戦〜ファイア・サーガ物語〜」<br>
+				佐古真弓がヒロイン・シグリット役（レイチェル・マクアダムス）を担当しています。<br>
+				吹替え版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.netflix.com/title/80244088" target="_blank">https://www.netflix.com/title/80244088</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.06.26
+			</p>
+			<h3>外石咲 「ブレイクスルー 奇跡の生還」配信開始</h3>
+			<p class="icon">
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+			</p>
+			<p class="text">
+				映画「ブレイクスルー 奇跡の生還」がAmazonプライムビデオで配信開始となりました。<br>
+				外石咲が、ウェンディ役を担当しています。<br>
+				吹替え版でもご覧ください。<br>
+				<br>
+				<a href="http://u0u1.net/Z73I" target="_blank">http://u0u1.net/Z73I</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.06.11
+			</p>
+			<h3>菅生隆之　アトレ竹芝　6.17（水）グランドオープン</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				緊急事態宣言発令に伴い、開業が延期となっておりましたが、<br>
+				6.17（水）午前11時にグランドオープンとなりました。<br>
+				菅生隆之が、館内のご案内アナウンスを担当しています。<br>
+				菅生のアナウンスで、皆様をお出迎えいたします。<br>
+				<br>
+				アトレ竹芝　プレスリリース<br>
+				<a href="https://prtimes.jp/main/html/rd/p/000000030.000018189.html" target="_blank">https://prtimes.jp/main/html/rd/p/000000030.000018189.html</a><br>
+				<a href="https://atre-takeshiba.jp/" target="_blank">https://atre-takeshiba.jp/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.06.11
+			</p>
+			<h3>佐古真弓　アニメ「GREAT PRETENDER」Netflix先行配信</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				アニメ「GREAT PRETENDER（グレートプリテンダー）」<br>
+				Case2の「シンガポールエアレース編」が、Netflixで独占先行配信となりました。<br>
+				佐古真弓が、イザベル・ミューラー役を担当しています。<br>
+				地上波放送は7.8（水）よりフジテレビ他にて放送開始です。<br>
+				<br>
+				<a href="https://netflix.com/jp/title/81220435" target="_blank">https://netflix.com/jp/title/81220435</a><br>
+				<a href="http://www.greatpretender.jp/" target="_blank">http://www.greatpretender.jp/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/34.jpg" target="_blank"><img src="/images/news/34.jpg"></a><br>
+				<a href="/images/news/35.jpg" target="_blank"><img src="/images/news/35.jpg"></a>
+			</div>
+			<p class="date">
+				2020.06.11
+			</p>
+			<h3>久保貫太郎　KAKUTA公演「ひとよ」9-10月出演</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+			</p>
+			<p class="text">
+				KAKUTA第29回公演「ひとよ」<br>
+				（作・演出：桑原裕子）<br>
+				東京公演　9/3（木）～ 13（日）本多劇場<br>
+				豊橋公演　10/3（土）～ 4（日）穂の国とよはし芸術劇場<br>
+				チケットは、6/27劇団先行予約開始です。<br>
+				<br>
+				<a href="http://news.kakuta.tv/?eid=149" target="_blank">http://news.kakuta.tv/?eid=149</a><br>
+				<a href="http://www.kakuta.tv/" target="_blank">http://www.kakuta.tv/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.06.11
+			</p>
+			<h3>柳井景伊　舞台「shuffle! 7」7月出演</h3>
+			<p class="icon">
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				劇団FREE SIZE「shuffle! 7」<br>
+				（作・演出：いよく直人）<br>
+				7/2（木）〜7/5（日）日暮里d-倉庫（東京）<br>
+				柳井景伊扱いチケットは、こちらよりお願いいたします。<br>
+				<br>
+				<a href="https://www.quartet-online.net/ticket/zxltna6?m=0pieeee" target="_blank">https://www.quartet-online.net/ticket/zxltna6?m=0pieeee</a><br>
+				公式サイト：<a href="http://officefreesize.com/index.html/shuffle7/" target="_blank">http://officefreesize.com/index.html/shuffle7/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.06.11
+			</p>
+			<h3>久保貫太郎「悪い芝居のおうちでもなんかおもろそうvol.2」6.13生配信</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+			</p>
+			<p class="text">
+				悪い芝居プレゼンツ、昨年12月上演の舞台「ミー・アット・ザ・ズー」を観ながら、<br>
+				出演者が生でオーディオコメンタリーいたします。<br>
+				6/13（土）18:00〜生配信。<br>
+				チケット事前購入制です。公式サイトよりお願いします。<br>
+				<br>
+				<a href="http://waruishibai.jp/omoroso2020/ouchidemo.html" target="_blank">http://waruishibai.jp/omoroso2020/ouchidemo.html</a>
+			</p>
+		</div>
+
+		<div class="news">
 			<p class="date">
 				2020.06.01
 			</p>
@@ -173,8 +821,7 @@
 				市のホームページからもご覧になれます。47ページに掲載されています。<br>
 				<a href="https://www.city.hirakata.osaka.jp/0000027298.html" target="_blank">https://www.city.hirakata.osaka.jp/0000027298.html</a><br>
 				<br>
-				広報ひらかた（PDF版）<br>
-				<a href="https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27298/all.pdf" target="_blank">https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27298/all.pdf</a>
+				<a href="https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27298/all.pdf" target="_blank">広報ひらかた（PDF版）</a>
 			</p>
 		</div>
 

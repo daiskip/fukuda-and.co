@@ -83,6 +83,7 @@
 
 					<h5>アニメ</h5>
 					<ul>
+						<li>「<a href="https://www.youtube.com/watch?v=-TxzSchpdFc" target="_blank">ドラゴンズドグマ</a>」cvドラゴン　NETFLIX  9.17（木）全世界独占配信</li>
 						<li>「<a href="https://vinlandsaga.jp/" target="_blank">ヴィンランド・サガ</a>」cvスヴェン王　NHK総合テレビ/Amazonプライムビデオ</li>
 						<li>「<a href="http://caroleandtuesday.com/" target="_blank">キャロル＆チューズデイ</a>」cvシュバルツ  CX/NETFLIX</li>
 						<li>「<a href="http://www.oshiri-tantei.com/" target="_blank">おしりたんてい</a>」cvマスター Eテレ</li>
@@ -91,9 +92,9 @@
 
 					<h5>海外ドラマ</h5>
 					<ul>
+						<li>「<a href="https://www.wowow.co.jp/detail/116473/002/01" target="_blank">クリミナル・マインド15 FBI行動分析課 ザ・ファイナル</a>」デヴィッド・ロッシ　毎週（火）23時〜WOWOWプライム　主役</li>
 						<li>「<a href="https://www9.nhk.or.jp/kaigai/hechi/" target="_blank">ヘチ 王座への道</a>」ミン・ジノン役　11.10スタート　毎週（日）21時〜NHKBSプレミアム</li>
 						<li>「<a href="https://www4.nhk.or.jp/bara-4k/" target="_blank">薔薇の名前</a>」ベルナール・ギー役　12.8スタート　毎週（日）12時〜NHK BS4K</li>
-						<li>「<a href="https://www.wowow.co.jp/detail/115149" target="_blank">クリミナルマインド14行動分析課</a>」デヴィッド・ロッシ　WOWOWプライム　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80221787" target="_blank">バッド・ブラッド：憎しみのマフィア</a>」ヴィト<アンソニー・ラパリア> NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://video.foxjapan.com/tv/homeland/s7/" target="_blank">ホームランド７</a>」ソール・ベレンソン　20世紀FOXデジタル配信</li>
 					</ul>
@@ -118,6 +119,11 @@
 						<li>「<a href="https://www.jp.playstation.com/games/marvels-spider-man/" target="_blank">Marvel’s Spider-Man</a>」PS4　J・ジョナ・ジェイムソン</li>
 						<li>「<a href="https://www.dq11.jp/s/" target="_blank">ドラゴンクエストXI 過ぎ去りし時を求めてS</a>」デルカダール王　9.27発売</li>
 						<li>「<a href="https://dxm.marv.jp/" target="_blank">デモンエクスマキナ</a>」准将役 9.13発売</li>
+					</ul>
+
+					<h5>TV</h5>
+					<ul>
+						<li>NHKスペシャル「<a href="https://www.nhk.jp/p/special/ts/2NY2QQLPM3/schedule/" target="_blank">証言と映像でつづる原爆投下・全記録</a>」</li>
 					</ul>
 
 					<hr>
@@ -252,6 +258,7 @@
 						<li>「HERO MASK」スティーブン・マートランド</li>
 						<li>「キャロル＆チューズデイ」シュバルツ</li>
 						<li>「ヴィンランド・サガ」スヴェン王</li>
+						<li>「ドラゴンズドグマ」cvドラゴン</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -297,6 +304,7 @@
 						<li>「超常現象　科学者たちの挑戦」ＮＨＫ</li>
 						<li>「シリーズ アメリカと被爆者～シュモーさんを探して」NHK・ETV特集</li>
 						<li>「BBC Earth 2018 ワイルド・マウンテン 荘厳なる俊嶺」WOWOW</li>
+						<li>NHKスペシャル「証言と映像でつづる原爆投下・全記録」（手記朗読）</li>
 					</ul>
 
 				</div>

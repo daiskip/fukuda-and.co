@@ -86,6 +86,23 @@
 
 					<hr>
 
+					<h4>最新作</h4>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>海外アニメ「<a href="https://www6.nhk.or.jp/anime/program/detail.html?i=george" target="_blank">おさるのジョージ</a>」NHK Eテレ　「ド根性、雪だるま」cv飼育員のお姉さん 9.5（土）朝8:35〜放送
+						</li>
+					</ul>
+
+					<hr>
+
+					<h4>主な出演作品</h4>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>海外アニメ「おさるのジョージ」NHK Eテレ　「ド根性、雪だるま」cv飼育員のお姉さん</li>
+					</ul>
+
 				</div>
 			</section>
 		</article>

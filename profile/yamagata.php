@@ -103,10 +103,18 @@
 					<h5>舞台</h5>
 					<ul>
 						<li>
-							「<a href="http://no-4.biz/suikato8/" target="_blank">刺繍</a>」西瓜糖第八回公演　脚本：秋之桜子　演出：わかぎゑふ　2020.5.22～31　中野ザ・ポケット<br>
-							（＊）こちらの公演は、新型コロナウィルス感染症の感染拡大に伴い、上演中止となりました。<br>
-							詳しくは公式サイトをご覧ください。<br>
-							<a href="http://suikato.blog.jp/archives/30997679.html" target="_blank">http://suikato.blog.jp/archives/30997679.html</a>
+							西瓜糖特別公演「MOON」<br>
+							作：秋之桜子　演出：高橋正徳<br>
+							10月7日（水）、8日（木）絵空箱（東京）<br>
+							<a href="http://suikato.blog.jp/archives/33094761.html" target="_blank">http://suikato.blog.jp/archives/33094761.html</a>
+						</li>
+						<li><br></li>
+						<li>
+							鴨リンピック2020「青木さん家の奥さんⅡ」<br>
+							作：内藤裕敬　演出：新谷清水<br>
+							鴨リンピックTOKYO（東京公演）<br>
+							11月12日（木）〜15日（日）雑遊（新宿）<br>
+							<a href="http://banzai-ichiza.com/?p=1065" target="_blank">http://banzai-ichiza.com/?p=1065</a>
 						</li>
 					</ul>
 
@@ -114,6 +122,8 @@
 					<ul>
 						<li>「<a href="https://www.netflix.com/title/80219707?s=i&trkid=13747225" target="_blank">デッド・トゥ・ミー 〜さようならの裏に〜 S2</a>」ジェン(クリスティナ・アップルゲイト) NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80025678" target="_blank">ザ・クラウン S3</a>」エリザベス女王（オリヴィア・コールマン）NETFLIX　<strong>主役</strong></li>
+						<li>「<a href="https://www.netflix.com/jp/title/81206211" target="_blank">ステートレス-彷徨の行方-</a>」クレア　NETFLIXリミテッドシリーズ</li>
+						<li>「<a href="https://www.netflix.com/jp/title/81223007" target="_blank">シットコム大運動会　アシュリー・ガルシア：パサデナ2020</a>」ジア　NETFLIX</li>
 						<li>「<a href="https://www4.nhk.or.jp/sabayomi/" target="_blank">ライザのサバヨミ大作戦！</a>」ダイアナ　NHKBSプレミアム 1.31より毎週（金）23:45</li>
 						<li>「トランスペアレント シーズン5　ミュージカル・フィナーレ」サラ（エイミー・ランデッカー）Amazonプライム　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80211563" target="_blank">メリー・アン・シングルトンの物語</a>」メリー・アン（ローラ・リニー）NETFLIX　<strong>主役</strong></li>
@@ -124,6 +134,7 @@
 					<h5>映画</h5>
 					<ul>
 						<li>「<a href="https://www.netflix.com/title/81127902" target="_blank">グレイス-消えゆく幸せ-</a>」NETFLIX　<strong>主役</strong></li>
+						<li>「<a href="https://www.netflix.com/jp/title/80204465" target="_blank">プロジェクト・パワー</a>」ガードナー（エイミー・ランデッカー）NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/browse?jbv=80223779&jbp=3&jbr=1" target="_blank">マリッジ・ストーリー</a>」ノーラ（ローラ・ダーン） NETFLIX</li>
 						<li>「<a href="https://amzn.to/2BoeHGm" target="_blank">サスペリア</a>」（ティルンダ・スウィントン）Amazonプライム</li>
 					</ul>
@@ -178,6 +189,7 @@
 						<li>「うみ」（以上、松本祐子演出）</li>
 						<li>「レバア」（寺十吾演出）</li>
 						<li>「ご馳走」（加納幸和演出）</li>
+						<li>「MOON」（高橋正徳演出）</li>
 						<li>　</li>
 						<li>その他の公演</li>
 						<li>「かわいやの」「逢うが別れのはじめとは」他（逢坂勉作・演出/ロマン舎）</li>
@@ -199,6 +211,7 @@
 						<li>「お正月」（わかぎゑふ作/演出/玉造小劇店）</li>
 						<li>「赤玉★GANGAN～芥川なんぞ、怖くない～」（秋之桜子作/高橋正徳演出/流山児★事務所）</li>
 						<li>「愛する母、マリの肖像」（古川健 作／高橋正徳 演出／T-WORKS）</li>
+						<li>「青木さん家の奥さんⅡ」鴨リンピック2020（内藤裕敬 作/新谷清水 演出/鴨リンピック実行委員会）</li>
 					</ul>
 
 					<h5>テレビ</h5>
@@ -274,6 +287,8 @@
 						<li>「メリー・アン・シングルトンの物語」メリー・アン（ローラ・リニー）　<strong>主役</strong></li>
 						<li>「ザ・クラウン」エリザベス女王（オリヴィア・コールマン）　<strong>主役</strong></li>
 						<li>「ライザのサバヨミ大作戦！」ダイアナ（ミリアム・ショア）</li>
+						<li>「シットコム大運動会　アシュリー・ガルシア：パサデナ2020」ジア</li>
+						<li>「ステートレス-彷徨の行方-」クレア</li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
@@ -344,6 +359,7 @@
 						<li>「アリータ バトル・エンジェル」チレン（ジェニファー・コネリー）</li>
 						<li>「マリッジ・ストーリー」ノーラ（ローラ・ダーン）</li>
 						<li>「グレイス-消えゆく幸せ-」グレイス（クリスタル・R・フォックス）　<strong>主役</strong></li>
+						<li>「プロジェクト・パワー」ガードナー（エイミー・ランデッカー）</li>
 					</ul>
 
 					<h5>アニメ</h5>

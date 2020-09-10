@@ -89,6 +89,16 @@
 
 					<h4>最新作</h4>
 
+					<h5>海外ドラマ</h5>
+					<ul>
+						<li><a href="https://www.netflix.com/jp/title/80214512" target="_blank">「AWAY -遠く離れて-」</a> 全10回　ダーリーン役　レギュラー　NETFLIX</li>
+					</ul>
+
+					<h5>TV</h5>
+					<ul>
+						<li><a href="https://www.nhk.jp/p/ts/5M8YX9KKK6/" target="_blank">「アンネ・フランク 時を越えるストーリー」</a> Eテレ特番（ボイスオーバー）</li>
+					</ul>
+
 					<h5>TVCM</h5>
 					<ul>
 						<li><a href="https://www.harada-tea.co.jp/products/yabukita-blend/" target="_blank">ハラダ製茶「やぶ北ブレンド」「水出し煎茶」</a> 姑・おかあさま役 放送中</li>
@@ -116,12 +126,11 @@
 
 					<h5>映画</h5>
 					<ul>
-					  <li>「盆栽フラワーズ」（監督：山田篤宏）</li>
 					  <li>「審理」（監督：原田昌樹）</li>
 					  <li>「卓球温泉」（監督：山川元）</li>
 					</ul>
 
-					<h5>TVドラマ </h5>
+					<h5>TVドラマ</h5>
 					<ul>
 					  <li>EX「緊急取調室」</li>
 					  <li>TX「落としの鬼 刑事 澤千夏」水曜ミステリー9</li>
@@ -227,6 +236,8 @@
 					  <li>「ミス・マープル」</li>
 					  <li>「名探偵ポワロ」</li>
 					  <li>「名探偵モンク」</li>
+						<li>「アンネ・フランク 時を越えるストーリー」（ボイスオーバー）</li>
+						<li>「AWAY -遠く離れて-」全10回　ダーリーン役　レギュラー　NETFLIX</li>
 					</ul>
 
 					<h5>吹替え 海外アニメ</h5>
