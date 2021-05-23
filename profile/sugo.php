@@ -90,20 +90,21 @@
 						<li>「<a href="http://heromask.jp/" target="_blank">HERO MASK</a>」cvスティーブン・マートランド  NETFLIX</li>
 					</ul>
 
+					<h5>映画</h5>
+					<ul>
+						<li>「<a href="https://www.netflix.com/jp/title/81117189" target="_blank">Mank/マンク</a>」ウィリアム・ランドルフ・ハースト（チャールズ・ダンス）NETFLIX</li>
+					</ul>
+
 					<h5>海外ドラマ</h5>
 					<ul>
-						<li>「<a href="https://www.wowow.co.jp/detail/116473/002/01" target="_blank">クリミナル・マインド15 FBI行動分析課 ザ・ファイナル</a>」デヴィッド・ロッシ　毎週（火）23時〜WOWOWプライム　主役</li>
-						<li>「<a href="https://www9.nhk.or.jp/kaigai/hechi/" target="_blank">ヘチ 王座への道</a>」ミン・ジノン役　11.10スタート　毎週（日）21時〜NHKBSプレミアム</li>
-						<li>「<a href="https://www4.nhk.or.jp/bara-4k/" target="_blank">薔薇の名前</a>」ベルナール・ギー役　12.8スタート　毎週（日）12時〜NHK BS4K</li>
-						<li>「<a href="https://www.netflix.com/title/80221787" target="_blank">バッド・ブラッド：憎しみのマフィア</a>」ヴィト<アンソニー・ラパリア> NETFLIX　<strong>主役</strong></li>
-						<li>「<a href="https://video.foxjapan.com/tv/homeland/s7/" target="_blank">ホームランド７</a>」ソール・ベレンソン　20世紀FOXデジタル配信</li>
+						<li>「<a href="https://www.video.unext.jp/lp/your_honor" target="_blank">YourHonor／追い詰められた判事</a>」主演、マイケル・デジアート役（ブライアン·クランストン）U-NEXT　毎週（金）配信</li>
+						<li>「<a href="https://www9.nhk.or.jp/kaigai/hechi/" target="_blank">ヘチ 王座への道</a>」ミン・ジノン役　　2/14（日）放送開始　毎週（日）23:00〜NHK総合</li>
+						<li>「<a href="https://video.foxjapan.com/tv/homeland/s7/" target="_blank">ホームランド8</a>」ソール・ベレンソン　20世紀FOXデジタル配信、DVD</li>
 					</ul>
 
 					<h5>ナレーション</h5>
 					<ul>
-						<li>「<a href="https://www.golfnetwork.co.jp/documentary/program/days_2041_hideki_matsuyama_daisuke_shindo" target="_blank">DAYS-2041-松山英樹と進藤大典</a>」ゴルフネットワーク　元日放送</li>
-						<li>「<a href="http://www.ntv.co.jp/kikenseibutsu/" target="_blank">いた！ヤバイ生き物 キケン生物と大バトル</a>」NTV  11.19放送</li>
-						<li>「<a href="https://www.netflix.com/title/80177803" target="_blank">世界の麻薬王：その光と闇</a>」ナレーション NETFLIX</li>
+						<li>「<a href="https://www.youtube.com/watch?v=eEWtbDGUoqE" target="_blank">旭市飯岡しおさいマラソン大会</a>」PRムービー</li>
 					</ul>
 
 					<h5>ＣＭ</h5>
@@ -116,14 +117,24 @@
 
 					<h5>ゲーム</h5>
 					<ul>
-						<li>「<a href="https://www.jp.playstation.com/games/marvels-spider-man/" target="_blank">Marvel’s Spider-Man</a>」PS4　J・ジョナ・ジェイムソン</li>
-						<li>「<a href="https://www.dq11.jp/s/" target="_blank">ドラゴンクエストXI 過ぎ去りし時を求めてS</a>」デルカダール王　9.27発売</li>
-						<li>「<a href="https://dxm.marv.jp/" target="_blank">デモンエクスマキナ</a>」准将役 9.13発売</li>
+						<li>「<a href="https://www.playstation.com/ja-jp/games/marvels-spider-man-miles-morales/" target="_blank">Marvel’s Spider-Man: Miles Morales</a>」PS4,PS5　J・ジョナ・ジェイムソン</li>
+						<li>「<a href="https://www.dq11.jp/s/" target="_blank">ドラゴンクエストXI 過ぎ去りし時を求めてS</a>」デルカダール王</li>
+						<li>「<a href="https://dxm.marv.jp/" target="_blank">デモンエクスマキナ</a>」准将</li>
 					</ul>
 
 					<h5>TV</h5>
 					<ul>
 						<li>NHKスペシャル「<a href="https://www.nhk.jp/p/special/ts/2NY2QQLPM3/schedule/" target="_blank">証言と映像でつづる原爆投下・全記録</a>」</li>
+					</ul>
+
+					<h5>舞台（声の出演）</h5>
+					<ul>
+						<li>
+							「井上芳雄 by MYSELF スペシャルライブ配信 20th Anniversary Festival!<br>
+							～急遽生配信！裏切らない芳雄4時間フェス～」<br>
+							5月8日（土）14:30〜　東京国際フォーラムより生配信<br>
+							<a href="https://liveviewing.jp/yoshioinoue20th/" target="_blank">https://liveviewing.jp/yoshioinoue20th/</a>
+						</li>
 					</ul>
 
 					<hr>
@@ -149,6 +160,7 @@
 						<li>2006年 「マクベス」（栗田芳宏演出/新潟りゅーとぴあ）</li>
 						<li>2008年 「日陰者に照る月」（西川信廣演出/文学座）</li>
 						<li>2013年 「闇の花道　天切り松　闇語り」（栗田芳宏演出/青年座スタジオ公演）</li>
+						<li>2021年「井上芳雄 by MYSELF スペシャルライブ配信 20th Anniversary Festival!」声の出演</li>
 					</ul>
 
 					<h5>吹替え [海外ドラマ,レギュラー作品]</h5>
@@ -170,6 +182,8 @@
 						<li>「バッド・ブラッド：憎しみのマフィア」ヴィト<アンソニー・ラパリア>　<strong>主役</strong></li>
 						<li>「ヘチ 王座への道」ミン・ジノン<イ・ギョンヨン></li>
 						<li>「薔薇の名前」ベルナール・ギー<ルパート・エヴェレット></li>
+						<li>「ホワイトハウス・ファームの惨劇～バンバー家殺人事件～」スタン・ジョーンズ巡査部長<マーク・アディ></li>
+						<li>「YourHonor／追い詰められた判事」マイケル・デジアート<ブライアン·クランストン>　<strong>主役</strong></li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
@@ -218,6 +232,7 @@
 						<li>「キングスマン：ゴールデン・サークル」シャンパン（ジェフ・ブリッジス）</li>
 						<li>「インクレイディブル・ファミリー」cvリック・ディッカー</li>
 						<li>「アラジン」国王・サルタン<ナヴィド・ネガーバン></li>
+						<li>「Mank/マンク」ウィリアム・ランドルフ・ハースト（チャールズ・ダンス）</li>
 					</ul>
 
 					<h5>アニメ</h5>
@@ -274,7 +289,8 @@
 						<li>「ドラゴンズドグマ　ダークアリズン」エドマン</li>
 						<li>「Marvel’s Spider-Man」J・ジョナ・ジェイムソン</li>
 						<li>「ドラゴンクエストXI 過ぎ去りし時を求めて」デルカダール王</li>
-						<li>「デモンエクスマキナ」准将役</li>
+						<li>「デモンエクスマキナ」准将</li>
+						<li>「Marvel’s Spider-Man: Miles Morales」J・ジョナ・ジェイムソン</li>
 					</ul>
 
 					<h5>ラジオ</h5>
@@ -282,6 +298,7 @@
 						<li>「ツングース特命隊」NHKFM青春アドベンチャー</li>
 						<li>「また、桜の国で」NHKFM青春アドベンチャー</li>
 						<li>「母ちゃんと王様」NHKFMシアター</li>
+						<li>「シンクホール〜救世主」NHK FM青春アドベンチャー</li>
 					</ul>
 
 					<h5>ＣＭナレーション</h5>
@@ -305,6 +322,7 @@
 						<li>「シリーズ アメリカと被爆者～シュモーさんを探して」NHK・ETV特集</li>
 						<li>「BBC Earth 2018 ワイルド・マウンテン 荘厳なる俊嶺」WOWOW</li>
 						<li>NHKスペシャル「証言と映像でつづる原爆投下・全記録」（手記朗読）</li>
+						<li>「旭市飯岡しおさいマラソン大会」PRムービー</li>
 					</ul>
 
 				</div>

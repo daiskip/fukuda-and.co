@@ -96,31 +96,42 @@
 
 					<h5>アニメ</h5>
 					<ul>
-						<li>「<a href="https://www.netflix.com/title/81220435?locale=ja-JP" target="_blank">GREAT PRETENDER（グレートプリテンダー）</a>」cvイザベル・ミューラー NETFLIX 7.8CX放送開始</li>
-						<li>「<a href="http://www.toei-anim.co.jp/tv/precure/" target="_blank">ヒーリングっど♡プリキュア</a>」cv沢泉なお　毎週（日）8:30～ABCテレビ・テレビ朝日系列</li>
-						<li>「<a href="https://kyokousuiri.jp/" target="_blank">虚構推理</a>」cv桜川六花　毎（土）25:30～ テレビ朝日ほか</li>
-						<li>「<a href="https://mugen-immortal.com/" target="_blank">無限の住人-IMMORTAL-</a>」cv目黒　Amazonプライムビデオ 毎（木）配信</li>
+						<li>「<a href="http://www.toei-anim.co.jp/tv/precure/" target="_blank">ヒーリングっど♡プリキュア</a>」沢泉なお　毎週（日）8:30～ABCテレビ・テレビ朝日系列</li>
+						<li>「<a href="https://kyokousuiri.jp/" target="_blank">虚構推理</a>」桜川六花　毎（土）25:30～ テレビ朝日ほか</li>
+						<li>「<a href="https://mugen-immortal.com/" target="_blank">無限の住人-IMMORTAL-</a>」目黒　Amazonプライムビデオ 毎（木）配信</li>
+						<li>「<a href="https://taiso-samurai.com/bddvd/" target="_blank">体操ザムライ</a>」スカーレット　テレビ朝日系列ほか　DVD 3/17（水）発売</li>
+						<li>「<a href="https://www.netflix.com/title/81220435?locale=ja-JP" target="_blank">GREAT PRETENDER（グレートプリテンダー）</a>」イザベル・ミューラー NETFLIX 7.8CX放送開始</li>
 					</ul>
 
 					<h5>海外ドラマ</h5>
 					<ul>
+						<li>「<a href="https://www.wowow.co.jp/detail/171261" target="_blank">ライアー2 交錯する証言</a>」ローラ・ニールソン（ジョアンヌ・フロガット）WOWOWプライム　4/15（木）放送開始　<strong>主役</strong></li>
+						<li>「<a href="https://www.axn.co.jp/programs/magnum_pi" target="_blank">私立探偵マグナム S2</a>」ジュリエット・ヒギンズ（パーディタ・ウィークス）AXN　4/20（火）放送開始　<strong>ヒロイン</strong></li>
+						<li>「<a href="https://tv.apple.com/jp/show/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%9E%E3%83%B3%E3%82%AB%E3%82%A4%E3%83%B3%E3%83%88/umc.cmc.6wsi780sz5tdbqcf11k76mkp7" target="_blank">フォー·オール·マンカインド S2</a>」エレン・ウィルソン　Apple TV＋</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/171577" target="_blank">ミセス・アメリカ～時代に挑んだ女たち～</a>」グロリア・スタイネム（ローズ・バーン）2/6,13（土）放送　WOWOWプライム</li>
+						<li>「<a href="https://www.hulu.jp/creepshow" target="_blank">CREEPSHOW／クリープショー</a>」＃5「手の夜／マスキーホラーの暗黒時代」アンジェラ　Hulu　<strong>ヒロイン</strong></li>
+						<li>「<a href="https://www.netflix.com/title/80103417" target="_blank">僕と君と彼女の関係 シーズン5</a>」エマ<レイチェル・ブランチャード>  NETFLIX　<strong>ヒロイン</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80057918" target="_blank">ＬＵＣＩＦＥＲ/ルシファー シーズン5</a>」クロエ・デッカー<ローレン・ジャーマン> NETFLIX　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://wowow.co.jp/detail/116885" target="_blank">ライアー 交錯する証言</a>」ローラ<ジョアン・フロガット>WOWOW　<strong>主役</strong>　3.18放送開始</li>
+
 						<li>「<a href="https://bit.ly/3bOizAx" target="_blank">JAILERS/ジェイラーズ</a>」ジャナイーナ　hulu配信　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://www.axn.co.jp/programs/magnum_pi" target="_blank">私立探偵マグナム（リブート版）</a>」ジュリエット・ヒギンズ<パーディタ・ウィークス> AXN　<strong>ヒロイン</strong></li>
 						<li>「<a href="https://amzn.to/2VYC4zI" target="_blank">トランスペアレント シーズン5　ミュージカル・フィナーレ</a>」アリ<ギャビー・ホフマン>　Amazonプライム　<strong>ヒロイン</strong></li>
-						<li>「<a href="https://www.netflix.com/title/80103417" target="_blank">僕と君と彼女の関係</a>」エマ<レイチェル・ブランチャード>  NETFLIX　<strong>ヒロイン</strong></li>
 					</ul>
 
 					<h5>映画</h5>
 					<ul>
+						<li>「<a href="https://www.netflix.com/title/81074110" target="_blank">デンジャー・ゾーン</a>」ソフィヤ（エミリー・ビーチャム）NETFLIX <strong>ヒロイン</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80244088" target="_blank">ユーロビジョン歌合戦〜ファイア・サーガ物語〜</a>」シグリット<レイチェル・マクアダムス>NETFLIX <strong>ヒロイン</strong></li>
 						<li>「<a href="http://urx3.nu/ggnW" target="_blank">イン・トゥ・ザ・スカイ～気球で未来を変えたふたり～</a>」フェリシティ・ジョーンズ　Amazonプライム　<strong>主役</strong></li>
 					</ul>
 
 					<h5>TV</h5>
 					<ul>
-						<li>「<a href="https://www.tv-tokyo.co.jp/tue/" target="_blank">世界が騒然！ 本当にあった（秘）衝撃ファイル キケンな仰天事件SP</a>」TX</li>
+						<li>地球ドラマチック「<a href="https://www.nhk.jp/p/dramatic/ts/QJ6V6KJ3VZ/episode/te/K71W7XM6YR/" target="_blank">ミイラは語る！古代エジプト女王の真実</a>」NHKEテレ 5/8（土）放送</li>
+					</ul>
+
+					<h5>ラジオ</h5>
+					<ul>
+						<li>「<a href="https://www.nhk.or.jp/audio/html_se/se2021002.html" target="_blank">シンクホール〜わかれ道、その先／そこにあるもの</a>」 1/22（金）〜27（水）NHK FM青春アドベンチャー</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -196,6 +207,8 @@
 						<li>「ライアー 交錯する証言」ローラ<ジョアン・フロガット>　<strong>主役</strong></li>
 						<li>「私立探偵マグナム（リブート版）」ジュリエット・ヒギンズ<パーディタ・ウィークス>  <strong>ヒロイン</strong></li>
 						<li>「JAILERS/ジェイラーズ」ジャナイーナ  <strong>ヒロイン</strong></li>
+						<li>「ミセス・アメリカ～時代に挑んだ女たち～」グロリア・スタイネム（ローズ・バーン）</li>
+						<li>「CREEPSHOW／クリープショー」＃5「手の夜／マスキーホラーの暗黒時代」アンジェラ  <strong>ヒロイン</strong></li>
 					</ul>
 
 					<h5>吹替え[洋画]</h5>
@@ -261,8 +274,9 @@
 						<li>「キングスマン：ゴールデン・サークル」ティルデ王女（ハンナ・アルストロム）</li>
 						<li>「デッドプール 2」ドミノ＜ザジー・ビーツ＞　<strong>ヒロイン</strong></li>
 						<li>「アイ,トーニャ　史上最大のスキャンダル」トーニャ・ハーディング<マーゴット・ロビー>　<strong>主役</strong></li>
-						<li>「ヒックとドラゴン 聖地への冒険」cvグリゼルダ</li>
+						<li>「ヒックとドラゴン 聖地への冒険」グリゼルダ</li>
 						<li>「ホーム・アローン3」アリス　＊金曜ロードショー2019年新録版</li>
+						<li>「デンジャー・ゾーン」ソフィヤ（エミリー・ビーチャム）　<strong>ヒロイン</strong></li>
 					</ul>
 
 					<h5>アニメ</h5>
@@ -275,8 +289,9 @@
 						<li>「千と千尋の神隠し」</li>
 						<li>「虚構推理」桜川六花</li>
 						<li>「無限の住人-IMMORTAL-」目黒</li>
-						<li>「ヒーリングっど♡プリキュア」cv沢泉なお</li>
-						<li>「GREAT PRETENDER（グレートプリテンダー）」cvイザベル・ミューラー</li>
+						<li>「ヒーリングっど♡プリキュア」沢泉なお</li>
+						<li>「GREAT PRETENDER（グレートプリテンダー）」イザベル・ミューラー</li>
+						<li>「体操ザムライ」スカーレット</li>
 					</ul>
 
 					<h5>ゲーム</h5>
@@ -309,6 +324,7 @@
 						<li>「カラーライフ」ＮＨＫＦＭ青春アドベンチャー</li>
 						<li>「光」ＮＨＫＦＭ青春アドベンチャー</li>
 						<li>「ノスタルジック葉山」NHKFMシアター</li>
+						<li>「シンクホール〜わかれ道、その先／そこにあるもの」NHK FM青春アドベンチャー</li>
 					</ul>
 
 					<h5>Webラジオ</h5>

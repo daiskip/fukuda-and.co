@@ -88,7 +88,36 @@
 
 					<hr>
 
+					<h4>最新作</h4>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「<a href="https://apple.co/3ysqhg1" target="_blank">ザ・スタンド</a>」#3  ゲスト　AppleTV＋</li>
+						<li>「<a href="https://amzn.to/2LiFImQ" target="_blank">ノスフェラトゥ　シーズン2</a>」#7　オスカー役　Amazonプライム</li>
+					</ul>
+
+					<h5>舞台</h5>
+					<ul>
+						<li>
+							10・Quatre×PocketSheepS合併記念公演<br>
+							「紙片の王国」<br>
+							脚本・演出：太田友和<br>
+							2021年6月17日（木）～6月20日（日）下落合TACCS1179<br>
+							<a href="https://pocketsheeps.stage.corich.jp/" target="_blank">https://pocketsheeps.stage.corich.jp/</a>
+						</li>
+					</ul>
+
+					<hr>
+
 					<h4>主な出演作品</h4>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>「工場ケンガク！～たべものが出来るまで」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「ザ・スタンド」#3  ゲスト　AppleTV＋</li>
+						<li>「ノスフェラトゥ　シーズン2」#7　オスカー役　Amazonプライム</li>
+					</ul>
 
 					<h5>舞台</h5>
 					<ul>
@@ -104,6 +133,10 @@
 						<li>　</li>
 						<li>2020年</li>
 						<li>「七つの鐘がなる前に」KENプロデュース（作・演出：加納健詞）</li>
+						<li>朗読「名残の三日月〜ふじおか屋採日禄〜」「トロッコ」WIPリーディングシアター（配信）</li>
+						<li>　</li>
+						<li>2021年</li>
+						<li>「紙片の王国」10・Quatre×PocketSheepS合併記念公演（脚本・演出：太田友和）下落合TACCS1179</li>
 					</ul>
 
 					<h5>ゲーム</h5>

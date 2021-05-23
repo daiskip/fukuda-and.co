@@ -1,6 +1,6 @@
 <?
 
-	$pagetitle = "⻘耶木 まゆ - 株式会社フクダ＆Ｃｏ．";
+	$pagetitle = "青耶木 まゆ - 株式会社フクダ＆Ｃｏ．";
 	$ogp = "profile/aoyagi/01.jpg";
 	$url = "aoyagi";
 
@@ -90,8 +90,16 @@
 
 					<h5>吹替え</h5>
 					<ul>
-						<li>海外アニメ「<a href="https://www6.nhk.or.jp/anime/program/detail.html?i=george" target="_blank">おさるのジョージ</a>」NHK Eテレ　「ド根性、雪だるま」cv飼育員のお姉さん 9.5（土）朝8:35〜放送
-						</li>
+						<li>「<a href="https://osarunogeorge.jp/" target="_blank">おさるのジョージ</a>」#134「ド根性、雪だるま」飼育員のお姉さん役　NHKEテレ、DVD発売中</li>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/170592" target="_blank">ザ・ルーキー 40歳の新米ポリス！？</a>」#7　ティファニー役　WOWOWプライム</li>
+						<li>「<a href="https://amzn.to/2LiFImQ" target="_blank">ノスフェラトゥ　シーズン2</a>」＃9,10　ホゼ役　Amazonプライム</li>
+						<li>「<a href="https://www.netflix.com/jp/title/81117189" target="_blank">Mank/マンク</a>」女優役ほか　NETFLIXオリジナル映画</li>
+					</ul>
+
+					<h5>ラジオ</h5>
+					<ul>
+						<li>渋谷のラジオ「<a href="https://shiburadi.com/" target="_blank">渋谷でわくわくラジオインターン</a>」ゲスト 9.20（日）朝8:00〜生放送</li>
 					</ul>
 
 					<hr>
@@ -100,7 +108,11 @@
 
 					<h5>吹替え</h5>
 					<ul>
-						<li>海外アニメ「おさるのジョージ」NHK Eテレ　「ド根性、雪だるま」cv飼育員のお姉さん</li>
+						<li>「おさるのジョージ」#134「ド根性、雪だるま」飼育員のお姉さん役　NHKEテレ</li>
+						<li>「工場ケンガク！～たべものが出来るまで」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「ザ・ルーキー 40歳の新米ポリス！？」#7　ティファニー役　WOWOWプライム</li>
+						<li>「ノスフェラトゥ　シーズン2」＃9,10　ホゼ役　Amazonプライム</li>
+						<li>「Mank/マンク」女優役ほか　NETFLIXオリジナル映画</li>
 					</ul>
 
 				</div>

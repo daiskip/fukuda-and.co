@@ -104,22 +104,31 @@
 					<h5>舞台</h5>
 					<ul>
 						<li>
-							KAKUTA「ひとよ」（作・演出：桑原裕子）<br>
-							9.3（木）～ 13（日）本多劇場（東京）<br>
-							10.3（土）～ 4（日）穂の国とよはし芸術劇場（愛知）<br>
-							<a href="http://www.kakuta.tv/hitoyo2020/" target="_blank">http://www.kakuta.tv/hitoyo2020/</a>
-						</li>
-						<li><br></li>
-						<li>
 							新国立劇場2020/2021シーズン人を思うちから 其の壱<br>
 							「斬られの仙太」（作：三好十郎　演出：上村聡史）<br>
 							2021年4月　新国立劇場・小劇場<br>
-							<a href="https://www.nntt.jac.go.jp/play/kirarenosenta/" target="_blank">https://www.nntt.jac.go.jp/play/kirarenosenta/</a>
+							<a href="https://www.nntt.jac.go.jp/play/kirarenosenta/" target="_blank">https://www.nntt.jac.go.jp/play/kirarenosenta/</a><br>
+							<br>
+							舞台中継<br>
+							NHK BSプレミアム「プレミアムステージ」6/6（日）23:20～放送<br>
+							<a href="https://www4.nhk.or.jp/p-stage/" target="_blank">https://www4.nhk.or.jp/p-stage/</a>
 						</li>
+					</ul>
+
+					<h5>ナレーション</h5>
+					<ul>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」全26回　ナショナルジオグラフィックTV、Hulu</li>
+					</ul>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>「<a href="https://www.netflix.com/title/80116922" target="_blank">潜入! 世界の危険な刑務所 シーズン5〜南アフリカ:ナンバーギャング</a>」（ボイスオーバー）NETFLIX</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/171409/001/01" target="_blank">風味巡礼2～中国から世界を味わう～</a>」#3（ボイスオーバー）WOWOWプライム</li>
 					</ul>
 
 					<h5>CM</h5>
 					<ul>
+						<li>「<a href="https://www.youtube.com/watch?v=e3LigU8qDr8" target="_blank">やる気スイッチグループ</a>」企業CMナレーション</li>
 						<li>「バスクリン」企業名ナレーション</li>
 						<li>王子ネピア「ネピア鼻セレブティシュ」ナレーション</li>
 					</ul>
@@ -227,6 +236,13 @@
 					  <li>NHKワンセグ2「ただいま会議中」議題 5 </li>
 					</ul>
 
+					<h5>吹替え</h5>
+					<ul>
+						<li>「工場ケンガク！～たべものが出来るまで」レギュラー（ナレーター）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「潜入! 世界の危険な刑務所 シーズン5〜南アフリカ:ナンバーギャング」（ボイスオーバー）NETFLIX</li>
+						<li>「風味巡礼2～中国から世界を味わう～」#3（ボイスオーバー）WOWOWプライム</li>
+					</ul>
+
 					<h5>ラジオ</h5>
 					<ul>
 					  <li>調布FM「ラジオボンバー」内「森下亮・久保貫太郎の死ぬまでにしゃべりたい7万のこと」毎週（土）10:00頃〜OA中</li>
@@ -245,12 +261,12 @@
 						<li>ECC</li>
 						<li>ナムコ ダイハツ「NEW アトレーワゴン」</li>
 						<li>キリン「のどごし＜生＞」</li>
-						<li>アメリカンホーム保険会社「愛のムチ篇」</li> 
+						<li>アメリカンホーム保険会社「愛のムチ篇」</li>
 						<li>資生堂「エリクシールシュペリエル（べたつく日常篇）」</li>
 						<li> モバイルゲームコンテンツ「GOODDARTSMOBILE」</li>
 						<li>日本民間放送連盟「ワールドカップキャンペーン（警官と犯人篇、面会室篇）」</li>
 						<li>ジョージア「ご褒美ブレイクとろけるカフェオレ（侍たちの甘い時間篇）」</li>
-						<li>日本民放連 「それ、違法です。～放送番組の違法配信撲滅キャンペーン～」 
+						<li>日本民放連 「それ、違法です。～放送番組の違法配信撲滅キャンペーン～」 </li>
 						<li>日清「カップヌードル（STAYHOT名探偵篇）」</li>
 						<li>SEIYU「牛カルビ（軽尾家の人々篇）」</li>
 						<li>セキスイハイム「快適ソーラー住宅ムービー おおいで家のお客さま」#1～4 </li>
@@ -264,6 +280,7 @@
 						<li>マクドナルド「ハッピーセット（ゴーバスターズ・みつ基地を守れ！篇）」</li>
 						<li>マクドナルド「5ピース チキンマックナゲット（俺たちナゲット篇、Buy One Get One Nuggets篇）」</li>
 						<li>コロプラ「魔法使いと黒猫のウィズ」</li>
+						<li>やる気スイッチグループ　企業CMナレーション</li>
 					</ul>
 
 					<h5>PV</h5>

@@ -89,7 +89,18 @@
 
 					<h5>吹替え</h5>
 					<ul>
-						<li>海外ドラマ<a href="https://www.wowow.co.jp/detail/170592" target="_blank">「ザ・ルーキー 40歳の新米ポリス！？」</a> 第2話　花嫁役　9.9（木）23:00〜放送WOWOWプライム</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/170592" target="_blank">ザ・ルーキー 40歳の新米ポリス！？</a>」#2　花嫁役　WOWOWプライム</li>
+						<li>「<a href="https://www.netflix.com/title/80025678" target="_blank">ザ・クラウン シーズン4</a>」#4 ゲスト　NETFLIX</li>
+						<li>「<a href="https://amzn.to/2LiFImQ" target="_blank">ノスフェラトゥ　シーズン2</a>」#9　エイミー役　Amazonプライム</li>
+						<li>「<a href="https://www.superdramatv.com/lineup/SNN000004082.html" target="_blank">MACGYVER／マクガイバー シーズン4</a>」#10　ゲスト　スーパー！ドラマTV</li>
+						<li>「<a href="https://tv.foxjapan.com/fox/program/index/prgm_id/22001" target="_blank">ホームランド　シーズン8</a>」#11 アンナ役　FOXチャンネル、DVD発売中</li>
+						<li>「<a href="https://jp.history.com/" target="_blank">ヴァイキング 〜海の覇者たち〜 シーズン6</a>」#12,16 ゲスト　ヒストリーチャンネル</li>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+					</ul>
+
+					<h5>ナレーション</h5>
+					<ul>
+						<li>タイドラマ「<a href="https://www.wowow.co.jp/detail/171701/001/01" target="_blank">Still 2 gether</a>」WOWOW番宣ナレーション</li>
 					</ul>
 
 					<hr>
@@ -98,7 +109,18 @@
 
 					<h5>吹替え</h5>
 					<ul>
-					  <li>海外ドラマ「ザ・ルーキー 40歳の新米ポリス！？」第2話　花嫁役</li>
+					  <li>「ザ・ルーキー 40歳の新米ポリス！？」#2　花嫁役　WOWOWプライム</li>
+						<li>「ザ・クラウン  シーズン4 」#4 ゲスト NETFLIX</li>
+						<li>「ノスフェラトゥ　シーズン2」#9　エイミー役　Amazonプライム</li>
+						<li>「MACGYVER／マクガイバー シーズン4」#10　ゲスト　スーパー！ドラマTV</li>
+						<li>「ホームランド　シーズン8」#11 アンナ役　FOXチャンネル、DVD発売中</li>
+						<li>「ヴァイキング 〜海の覇者たち〜 シーズン6」#12,16 ゲスト　ヒストリーチャンネル</li>
+						<li>「工場ケンガク！～たべものが出来るまで」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+					</ul>
+
+					<h5>ナレーション</h5>
+					<ul>
+					  <li>タイドラマ「Still 2 gether」WOWOW番宣ナレーション</li>
 					</ul>
 
 				</div>

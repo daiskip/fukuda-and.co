@@ -15,6 +15,1173 @@
 		<h2>最新情報</h2>
 
 		<div class="news">
+			<p class="date">
+				2021.05.03
+			</p>
+			<h3>菅生隆之 「井上芳雄 by MYSELF」SPライブ、声の出演</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				菅生隆之が、劇中で「声」の出演をしています。<br>
+				<br>
+				「井上芳雄 by MYSELF スペシャルライブ配信 20th Anniversary Festival!<br>
+				～急遽生配信！裏切らない芳雄4時間フェス～」<br>
+				<br>
+				井上芳雄さんのデビュー20年記念のアニバーサリー・ツアー、1日限りの生配信です。<br>
+				＊緊急事態宣言の発出を受けて、全国ツアーが中止となり、無観客・生配信となりました。<br>
+				<br>
+				配信日：5月8日（土）14:00開場／14:30開始　東京国際フォーラムより<br>
+				どうぞご覧ください。<br>
+				<br>
+				<a href="https://liveviewing.jp/yoshioinoue20th/" target="_blank">https://liveviewing.jp/yoshioinoue20th/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.05.02
+			</p>
+			<h3>久保貫太郎　配信トークライブ「夜のラジオボンバー」</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+			</p>
+			<p class="text">
+				調布FMで放送中の「ラジオボンバー」の配信トークライブが開催されます。<br>
+				5/5（水・祝）19:00〜<br>
+				5年ぶり3回目の番組トークライブ、どうぞご覧ください。<br>
+				<br>
+				<a href="https://twitcasting.tv/ahiruotoko/shopcart/65271" target="_blank">https://twitcasting.tv/ahiruotoko/shopcart/65271</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.05.02
+			</p>
+			<h3>久保貫太郎　舞台「斬られの仙太」テレビ放送</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+			</p>
+			<p class="text">
+				6/6（日）23:20〜放送、NHK-BSプレミアム「プレミアムステージ」で中継放送されます。<br>
+				新国立劇場の舞台「シリーズ 人を思うちから」第一弾。<br>
+				4月に上演された舞台です。ご覧ください。<br>
+				<br>
+				<a href="https://www.nntt.jac.go.jp/play/kirarenosenta/" target="_blank">https://www.nntt.jac.go.jp/play/kirarenosenta/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.05.01
+			</p>
+			<h3>久保貫太郎　田村真央 「工場ケンガク！～たべものが出来るまで」放送</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+				<a href="/tamura"><img src="/images/icon/tamura.jpg"></a>
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+				<a href="/aoyagi"><img src="/images/icon/aoyagi.jpg"></a>
+				<a href="/katafuchi"><img src="/images/icon/katafuchi.jpg"></a>
+				<a href="/kobayashi"><img src="/images/icon/kobayashi.jpg"></a>
+				<a href="/sakai"><img src="/images/icon/sakai.jpg"></a>
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				5/14（金）放送開始、ナショナルジオグラフィックTV新シリーズ、<br>
+				「工場ケンガク！～たべものが出来るまで」<br>
+				<br>
+				久保貫太郎、田村真央が、ナレーターを務めます。<br>
+				<br>
+				ボイスオーバーで、<br>
+				塩崎智弘、外石咲、青耶木まゆ、片渕真子、兒林美沙紀、<br>
+				酒井ほのか、那須有、柳井景伊、が出演。<br>
+				<br>
+				全26回、ご覧下さい。<br>
+				<br>
+				<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.04.26
+			</p>
+			<h3>山像かおり　佐古真弓 「仮面の王イ・ソン」放送</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				4/26（月）よりテレビ東京、韓流プレミアにて放送です。<br>
+				<br>
+				山像かおり：王妃役（キム・ソンギョン）<br>
+				佐古真弓：メチャン役（イ・チェヨン）<br>
+				<br>
+				平日（月）〜（金）、朝8:15より、全20回、ご覧ください。<br>
+				<br>
+				<a href="https://www.tv-tokyo.co.jp/kamennoou/" target="_blank">https://www.tv-tokyo.co.jp/kamennoou/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.04.23
+			</p>
+			<h3>外石咲 「カー・SOS　蘇れ！思い出の名車8」放送</h3>
+			<p class="icon">
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+			</p>
+			<p class="text">
+				ボイスオーバーでレギュラー出演します。<br>
+				<br>
+				ナショナルジオグラフィックTV<br>
+				「カー・SOS　蘇れ！思い出の名車8」新シーズンが放送開始となりました。<br>
+				全9回、どうぞご覧ください。<br>
+				<br>
+				<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2851" target="_blank">https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2851</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.04.20
+			</p>
+			<h3>佐古真弓 「私立探偵マグナム　シーズン2」放送</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				シーズン2の放送開始となりました。<br>
+				佐古真弓がヒロイン、ジュリエット・ヒギンズを担当しています。<br>
+				4/20（火）より、AXNにて、全20回、お楽しみください。<br>
+				<br>
+				<a href="https://www.axn.co.jp/programs/magnum_pi" target="_blank">https://www.axn.co.jp/programs/magnum_pi</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.04.17
+			</p>
+			<h3>久保田民絵　NETFLIX「マイ・ラブ：6つの愛の物語」配信</h3>
+			<p class="icon">
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+			</p>
+			<p class="text">
+				「スペイン：ナティとアウグスト」の回で、久保田民絵が、ナティ役を担当しています。<br>
+				ご覧ください。<br>
+				<br>
+				<a href="https://www.netflix.com/title/81001959" target="_blank">https://www.netflix.com/title/81001959</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.04.15
+			</p>
+			<h3>佐古真弓　片渕真子 「ライアー2 交錯する証言」放送</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+				<a href="/katafuchi"><img src="/images/icon/katafuchi.jpg"></a>
+			</p>
+			<p class="text">
+				WOWOWプライムにて4/15（木）放送開始となります。<br>
+				<br>
+				佐古真弓が、主演ローラ・ニールソン（ジョアンヌ・フロガット）、<br>
+				片渕真子が、ウィニー役でレギュラー出演します。<br>
+				全6回、毎週（木）23:00〜ご覧ください。<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/171261" target="_blank">https://www.wowow.co.jp/detail/171261</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/48.jpg" target="_blank"><img src="/images/news/48.jpg"></a>
+			</div>
+			<p class="date">
+				2021.04.15
+			</p>
+			<h3>みけ（藤谷みき） ノックノックス「シンデレラ」公演情報</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				みけ（藤谷みき）が出演いたします。<br>
+				<br>
+				ノックノックス「シンデレラ」<br>
+				<br>
+				上演日時：2021年5月14日（金）～23日（日）<br>
+				会場：お茶の水ホワイトチャペルホール<br>
+				チケット発売開始：4月17日（土）<br>
+				前売：3500円（税込）当日：4000円（税込）<br>
+				<br>
+				有料配信もあります。<br>
+				配信日時：2021年5月22日（土）<br>
+				14:00／18:00の各回を配信<br>
+				（アーカイブは5月29日（土）まで何度でもご覧頂けます。<br>
+				<br>
+				<a href="https://knock-knocks.jp/next" target="_blank">https://knock-knocks.jp/next</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.04.13
+			</p>
+			<h3>久保田民絵 「世界が騒然！本当にあった（秘）衝撃ファイル」放送</h3>
+			<p class="icon">
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+			</p>
+			<p class="text">
+				ボイスオーバーで出演いたします。<br>
+				4/13（火）18:25〜テレビ東京系列にて、ご覧ください。<br>
+				<br>
+				<a href="https://www.tv-tokyo.co.jp/tue/" target="_blank">https://www.tv-tokyo.co.jp/tue/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.03.26
+			</p>
+			<h3>菅生隆之 「YourHonor／追い詰められた判事」配信</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				主演、マイケル・デジアート役（ブライアン・クランストン）を担当しています。<br>
+				3/26（金）より、U-NEXTにて、毎週（金）新エピソードが配信されます。<br>
+				どうぞご覧ください。<br>
+				<br>
+				<a href="https://www.video.unext.jp/lp/your_honor" target="_blank">https://www.video.unext.jp/lp/your_honor</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.03.24
+			</p>
+			<h3>菅生隆之 「旭市飯岡しおさいマラソン大会」PRナレーション公開</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				大会スペシャルムービーのナレーションを担当しました。<br>
+				公式youtubeチャンネルにて公開中です。<br>
+				<br>
+				<a href="https://www.youtube.com/watch?v=eEWtbDGUoqE" target="_blank">https://www.youtube.com/watch?v=eEWtbDGUoqE</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.19
+			</p>
+			<h3>佐古真弓 「フォー・オール・マンカインド」シーズン2配信</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				エレン・ウィルソン役でレギュラー出演しています。<br>
+				<br>
+				Apple TV＋にて、毎週（金）新着エピソード配信。<br>
+				どうぞご覧ください。<br>
+				<a href="https://apple.co/3dmRcBI" target="_blank">https://apple.co/3dmRcBI</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.15
+			</p>
+			<h3>山像かおり 「ゴードン・ラムゼイ：秘境の青空キッチン2」放送</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				ナショナルジオグラフィックTV<br>
+				「南インド：灼熱のカレーパラダイス」の回で、<br>
+				ゲストシェフ、シュリ・バラを担当します。<br>
+				<br>
+				初回放送、2/15（月）21:00〜です。ご覧ください。<br>
+				<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2832" target="_blank">https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2832</a>
+			</p>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+		<div class="news">
+			<p class="date">
+				2021.02.14
+			</p>
+			<h3>菅生隆之　佐々木勝彦　NHK総合「ヘチ 王座への道」放送開始</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+				<a href="/sasaki"><img src="/images/icon/sasaki.jpg"></a>
+			</p>
+			<p class="text">
+				2/14（日）23:00よりNHK総合にて放送開始です。<br>
+				「ヘチ 王座への道」全24回、毎週（日）23:00より<br>
+				菅生隆之が、重臣ミン・ジノン役、<br>
+				佐々木勝彦が、第19代王スクチョン役でレギュラー出演いたします。<br>
+				どうぞご覧ください。<br>
+				<br>
+				<a href="https://www.nhk.jp/p/hechi/ts/ZWWMXG3RG3/" target="_blank">https://www.nhk.jp/p/hechi/ts/ZWWMXG3RG3/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.13
+			</p>
+			<h3>佐古真弓　Eテレ「地球ドラマチック」出演</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				2/13（土）19:00〜NHK Eテレにて放送、<br>
+				地球ドラマチック「ネアンデルタール人 真の姿に迫る！」<br>
+				佐古真弓が声の出演をしています。<br>
+				ご覧ください。<br>
+				<br>
+				<a href="https://www.nhk.jp/p/dramatic/ts/QJ6V6KJ3VZ/episode/te/X4RJ1ZKLJ4/" target="_blank">https://www.nhk.jp/p/dramatic/ts/QJ6V6KJ3VZ/episode/te/X4RJ1ZKLJ4/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.09
+			</p>
+			<h3>菅生隆之　青耶木まゆ　NETFLIX「Mank/マンク」出演</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+				<a href="/aoyagi"><img src="/images/icon/aoyagi.jpg"></a>
+			</p>
+			<p class="text">
+				NETFLIXオリジナル映画「Mank/マンク」配信開始です。<br>
+				菅生隆之が、ウィリアム・ランドルフ・ハースト役（チャールズ・ダンス）、<br>
+				青耶木まゆが、女優役ほか担当しています。<br>
+				日本語版でもお楽しみ下さい。<br>
+				<br>
+				<a href="https://www.netflix.com/jp/title/81117189" target="_blank">https://www.netflix.com/jp/title/81117189</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.08
+			</p>
+			<h3>みけ　NTTドコモ「ハートディスタンス」公開</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				NTTドコモのWEBムービー「ハートディスタンス」<br>
+				みけが、主人公・実希の母親役で声の出演をしています。<br>
+				全編はこちらよりご覧ください。<br>
+				<br>
+				<a href="https://www.youtube.com/watch?v=fq4IvNuyx7w" target="_blank">https://www.youtube.com/watch?v=fq4IvNuyx7w</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.03
+			</p>
+			<h3>佐古真弓　WOWOW「ミセス・アメリカ～時代に挑んだ女たち～」出演</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				佐古真弓が、グロリア・スタイネム役（ローズ・バーン）を担当します。<br>
+				全9回、2週にわたる連続集中放送です。<br>
+				<br>
+				［放送予定］<br>
+				2/6（土）第1回14:00（＊無料放送） / 第2回14:55 / 第3回15:50 / 第4回16:40<br>
+				2/13（土）第5回14:00 / 第6回15:00 / 第7回15:55 / 第8回16:50 / 第9回17:45<br>　
+				<br>
+				第8回にて、外石咲、那須有がゲスト出演いたします。<br>
+				WOWOWプライムにて、日本語版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/171577" target="_blank">https://www.wowow.co.jp/detail/171577</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.03
+			</p>
+			<h3>外石咲　久保貫太郎　塩崎智弘　柳井景伊　WOWOW「風味巡礼2～中国から世界を味わう～」出演</h3>
+			<p class="icon">
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				グルメドキュメンタリー、<br>
+				「風味巡礼2～中国から世界を味わう～」で声の出演をいたします。<br>
+				<br>
+				［放送予定］<br>
+				第1回　塩崎智弘　2/6（土）午前9:00 ／ 2/12（金）午前7:30　＊第1回無料放送<br>
+				第2回　外石咲　2/13（土）午前9:00 ／ 2/19（金）午前7:30<br>
+				第3回　久保貫太郎　柳井景伊　2/20（土）午前9:00 ／ 2/26（金）午前7:30<br>
+				第5,6,7,8回　外石咲　3/6,13,20,27（土）午前9:00 ／ 3/12,19,26（金）午前7:30<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/171409/001/01" target="_blank">https://www.wowow.co.jp/detail/171409/001/01</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.02
+			</p>
+			<h3>久保貫太郎　TVCM「やる気スイッチグループ」ナレーション</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+			</p>
+			<p class="text">
+				久保貫太郎が「やる気スイッチグループ」企業CMのナレーションを担当しています。<br>
+				『新しい時代の「学び」を。幼児編』以下よりご覧ください。<br>
+				<br>
+				<a href="https://www.youtube.com/watch?v=e3LigU8qDr8" target="_blank">https://www.youtube.com/watch?v=e3LigU8qDr8</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.02.01
+			</p>
+			<h3>久保貫太郎　舞台「斬られの仙太」4月出演</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+			</p>
+			<p class="text">
+				“新国立劇場2020/2021シーズン　人を思うちから其の壱”<br>
+				<br>
+				「斬られの仙太」<br>
+				<br>
+				久保貫太郎が出演いたします。<br>
+				<br>
+				［作］三好十郎　［演出］上村聡史<br>
+				［公演期間］4/6（火）〜4/25（日）<br>
+				［予定上演時間］4時間40分（休憩2回）<br>
+				［会場］新国立劇場　小劇場<br>
+				［チケット情報］一般発売　3/7（日）10:00〜<br>
+				劇場会員向けの先行発売もあります。公式サイトをご覧ください。<br>
+				<br>
+				<a href="https://www.nntt.jac.go.jp/play/" target="_blank">https://www.nntt.jac.go.jp/play/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.30
+			</p>
+			<h3>みけ　WOWOW「BULL／ブル4　法廷を操る男」出演</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				みけが、第15話「骨肉の争い」にて、ウォレス裁判官役を担当しています。<br>
+				1/30（土）23:00〜WOWOWプライムにてご覧ください。<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/116706" target="_blank">https://www.wowow.co.jp/detail/116706</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.25
+			</p>
+			<h3>山像かおり　Apple TV+ドラマ「迷宮のアリス」出演</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				山像かおりが、主人公・アリス役（アイェレット・ゾラー）を担当しています。<br>
+				全8回、（金）新着エピソード配信です。<br>
+				日本語版でもお楽しみください。<br>
+				<br>
+				<a href="https://apple.co/3oIC6se" target="_blank">https://apple.co/3oIC6se</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.22
+			</p>
+			<h3>菅生隆之　佐古真弓　NHKFM青春アドベンチャー出演</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				連作シリーズ『シンクホール』に出演します。<br>
+				NHK FM 21:15より、お聴き下さい。<br>
+				<br>
+				［放送予定］<br>
+				佐古真弓<br>
+				「わかれ道、その先」1/22（金）25（月）<br>
+				「そこにあるもの」1/26（火）27（水）<br>
+				<br>
+				菅生隆之<br>
+				「救世主」1/28（木）29（金）<br>
+				<br>
+				公式サイト<br>
+				<a href="https://www.nhk.or.jp/audio/html_se/se2021002.html" target="_blank">https://www.nhk.or.jp/audio/html_se/se2021002.html</a><br>
+				<br>
+				NHKらじる★らじるの聴き逃し配信もご利用ください。<br>
+				<a href="https://www.nhk.or.jp/radio/ondemand/detail.html?p=0164_01" target="_blank">https://www.nhk.or.jp/radio/ondemand/detail.html?p=0164_01</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.21
+			</p>
+			<h3>山像かおり　WOWOW「ザ・ルーキー　40歳の新米ポリス！？ 」出演</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				1/21（木）放送、第20回（最終回）「バイオテロの悪夢」に山像かおりが、モーガン博士役で出演します。<br>
+				23:00〜WOWOWプライムにて、どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/170592" target="_blank">https://www.wowow.co.jp/detail/170592</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.21
+			</p>
+			<h3>佐々木勝彦　佐古真弓　Hulu「CREEPSHOW／クリープショー」出演</h3>
+			<p class="icon">
+				<a href="/sasaki"><img src="/images/icon/sasaki.jpg"></a>
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				Huluオリジナルドラマ「CREEPSHOW／クリープショー」<br>
+				第5話回「手の夜／マスキーホラーの暗黒時代」で、<br>
+				佐々木勝彦が主人公・ホワイティー、佐古真弓がヒロイン・アンジェラ役を担当しています。<br>
+				日本語版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.hulu.jp/creepshow" target="_blank">https://www.hulu.jp/creepshow</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.18
+			</p>
+			<h3>佐古真弓　NETFLIX映画「デンジャー・ゾーン」出演</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				佐古真弓がヒロイン、ソフィヤ役（エミリー・ビーチャム）を担当しています。<br>
+				日本語版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.netflix.com/title/81074110" target="_blank">https://www.netflix.com/title/81074110</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.17
+			</p>
+			<h3>山像かおり　ETV特集「円空　仏像に封印された謎」ナレーション</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				山像かおりが、ナレーションを担当します。<br>
+				<br>
+				ETV特集「円空　仏像に封印された謎」<br>
+				<br>
+				放送日：初回　NHKEテレ　1/16（土）23:00<br>
+				再放送 1/21（木）午前0:00（20日の24:00）<br>
+				「BS４K特集」1/31（日）11:00<br>
+				<br>
+				<a href="https://www.nhk.jp/p/etv21c/ts/M2ZWLQ6RQP/episode/te/LGKM64MJGV/" target="_blank">https://www.nhk.jp/p/etv21c/ts/M2ZWLQ6RQP/episode/te/LGKM64MJGV/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.15
+			</p>
+			<h3>久保貫太郎　外石咲　NETFLIX「潜入! 世界の危険な刑務所 シーズン5」出演</h3>
+			<p class="icon">
+				<a href="/kubo"><img src="/images/icon/kubo.jpg"></a>
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+			</p>
+			<p class="text">
+				久保貫太郎、外石咲が「南アフリカ:ナンバーギャング」の回で声の出演をしています。<br>
+				どうぞご覧ください。<br>
+				<br>
+				<a href="https://www.netflix.com/title/80116922" target="_blank">https://www.netflix.com/title/80116922</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.07
+			</p>
+			<h3>外石咲　WOWOW「ザ・ルーキー　40歳の新米ポリス！？ 」出演</h3>
+			<p class="icon">
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+			</p>
+			<p class="text">
+				1/7（木）放送、第18回「ボーダーライン」に外石咲が出演します。<br>
+				23:00〜WOWOWプライムにて、どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/170592" target="_blank">https://www.wowow.co.jp/detail/170592</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2021.01.04
+			</p>
+			<h3>山像かおり　NHKラジオ朗読「痴人の愛」放送開始</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				NHKラジオ第2「朗読」にて、谷崎潤一郎作品を全60回に渡りお送りします。<br>
+				<br>
+				「痴人の愛」（48回）<br>
+				「秘密」（5回）<br>
+				「二人の稚児」（7回）<br>
+				<br>
+				1/4（月）より平日、月〜金、毎朝9:45より<br>
+				（土）は、21:45よりその週の5回をまとめて再放送<br>
+				<a href="https://www4.nhk.or.jp/roudoku/" target="_blank">https://www4.nhk.or.jp/roudoku/</a><br>
+				<br>
+				聴き逃し配信サービス「らじるらじる」もご利用ください。<br>
+				パソコン、スマートフォンからも視聴可能です。<br>
+				<a href="https://www.nhk.or.jp/radio/ondemand/detail.html?p=0971_01" target="_blank">https://www.nhk.or.jp/radio/ondemand/detail.html?p=0971_01</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.16
+			</p>
+			<h3>菅生隆之「ホームランド ファイナル・シーズン」出演</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+			</p>
+			<p class="text">
+				最終第8シーズン「ホームランド」がいよいよ完結します。<br>
+				菅生隆之が、ソール・ベレンソン（マンディ・パティンキン）役でレギュラー出演。<br>
+				ゲスト出演で、<br>
+				第1回、外石咲（ロビン役）<br>
+				第11回、久保田民絵（アンナ役）、那須有（若い時代のアンナ役）を担当しています。<br>
+				12/16（水）デジタル配信＆DVD発売開始です。<br>
+				<br>
+				<a href="http://www.foxjapan.com/homelands8#show-info" target="_blank">http://www.foxjapan.com/homelands8#show-info</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.16
+			</p>
+			<h3>那須有　海外ドラマ「マクガイバー」出演</h3>
+			<p class="icon">
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+			</p>
+			<p class="text">
+				12/16（水）22:00より放送、「MACGYVER／マクガイバー」シーズン4、第10回に出演いたします。<br>
+				スーパー！ドラマチャンネルにてご覧ください。
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.16
+			</p>
+			<h3>外石咲　Amazonプライム「エクスパンス〜巨獣目覚める〜」配信開始</h3>
+			<p class="icon">
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+			</p>
+			<p class="text">
+				シーズン5が配信開始となりました。<br>
+				外石咲が、今シーズンより、ミチオ役でレギュラー出演しています。<br>
+				どうぞご覧ください。<br>
+				<br>
+				<a href="https://www.amazon.co.jp/dp/B08NFGVPJK" target="_blank">https://www.amazon.co.jp/dp/B08NFGVPJK</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.10
+			</p>
+			<h3>山像かおり　ゲーム「サイバーパンク 2077」発売</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				12月10日発売！オープンワールドRPGゲーム「サイバーパンク 2077」<br>
+				山像かおりが、ブリジッド役で出演しています。<br>
+				PS4、Xbox One、PCにてお楽しみください。<br>
+				<br>
+				<a href="https://www.cyberpunk.net/jp/ja/" target="_blank">https://www.cyberpunk.net/jp/ja/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.07
+			</p>
+			<h3>山像かおり　塩崎智弘　ディズニープラス「マーベル616」出演</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+			</p>
+			<p class="text">
+				マーベルのドキュメンタリーシリーズ「マーベル616」配信となりました。<br>
+				第7話「スポットライト」に、<br>
+				山像かおりが、コートニー・カイル、塩崎智弘がアンドリュー他、担当しています。<br>
+				ご覧ください！<br>
+				<br>
+				<a href="https://bit.ly/37nSwAX" target="_blank">https://bit.ly/37nSwAX</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.04
+			</p>
+			<h3>那須有　WOWOW「Still 2gether」番宣ナレーション</h3>
+			<p class="icon">
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+			</p>
+			<p class="text">
+				那須有が、ナレーションを担当しています。<br>
+				公式サイトの「関連動画」よりご覧ください。<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/171701/001/01" target="_blank">https://www.wowow.co.jp/detail/171701/001/01</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.12.03
+			</p>
+			<h3>柳井景伊　WOWOW「ザ・ルーキー　40歳の新米ポリス！？ 」出演</h3>
+			<p class="icon">
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				12/3（木）放送の第14話「100日目の試練」で、<br>
+				柳井景伊が、ルビー役を担当しています。<br>
+				23:00〜WOWOWプライムにて、どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/170592" target="_blank">https://www.wowow.co.jp/detail/170592</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.11.28
+			</p>
+			<h3>外石咲  Netflix「クリスマスクロニクル2」出演</h3>
+			<p class="icon">
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+			</p>
+			<p class="text">
+				Netflixオリジナル映画「クリスマスクロニクル2」が配信となりました。<br>
+				外石咲が、女の子、案内係ほか、担当しています。<br>
+				どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.netflix.com/title/80988988" target="_blank">https://www.netflix.com/title/80988988</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.11.28
+			</p>
+			<h3>久保田民絵　Netflix「ジングル・ジャングル〜魔法のクリスマスギフト」出演</h3>
+			<p class="icon">
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+			</p>
+			<p class="text">
+				オリジナル映画「クリスマスクロニクル2」が配信となりました。<br>
+				久保田民絵が、おばあちゃん役（フィリシア・ラシャド）を担当しています。<br>
+				どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.netflix.com/title/80232043" target="_blank">https://www.netflix.com/title/80232043</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.11.15
+			</p>
+			<h3>山像かおり　NETFLIX「ザ・クラウン」シーズン4配信開始</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+				<a href="/toishi"><img src="/images/icon/toishi.jpg"></a>
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+			</p>
+			<p class="text">
+				NETFLIXオリジナル海外ドラマ「ザ・クラウン」（全10話）<br>
+				山像かおりが、前作に続き、主演・エリザベス女王（オリヴィア・コールマン）を担当しています。<br>
+				ゲストで、外石咲が第1話と3話、那須有が第4話に出演。<br>
+				日本語版でもどうぞご覧ください。<br>
+				<br>
+				<a href="https://www.netflix.com/browse?jbv=80025678" target="_blank">https://www.netflix.com/browse?jbv=80025678</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.11.15
+			</p>
+			<h3>山像かおり　Amazonプライム「イーブルアイ」配信開始</h3>
+			<p class="icon">
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+			</p>
+			<p class="text">
+				Amazonプライムビデオオリジナル映画「イーブルアイ」<br>
+				山像かおりが、ヒロインの母、ウシャ・カトリ役（サリタ･チョードゥリー）を担当。<br>
+				塩崎智弘が医者役、ほかで出演。<br>
+				日本語版でもご覧ください。<br>
+				<br>
+				<a href="https://www.amazon.co.jp/gp/video/detail/B08KYZ6XMQ/" target="_blank">https://www.amazon.co.jp/gp/video/detail/B08KYZ6XMQ/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.11.12
+			</p>
+			<h3>菅生隆之　「Marvel’s Spider-Man: Miles Morales」発売</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				PlayStation®5/PlayStation®4最新作、<br>
+				「Marvel’s Spider-Man: Miles Morales」<br>
+				菅生隆之が前作に引き続き、J・ジョナ・ジェイムソンを担当しています。<br>
+				どうぞお楽しみください！<br>
+				<br>
+				<a href="https://www.playstation.com/ja-jp/games/marvels-spider-man-miles-morales/" target="_blank">https://www.playstation.com/ja-jp/games/marvels-spider-man-miles-morales/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.11.06
+			</p>
+			<h3>
+				佐々木勝彦　青耶木まゆ　兒林美沙紀　酒井ほのか　那須有　柳井景伊<br>
+				Amazonプライム「ノスフェラトゥ」配信開始
+			</h3>
+			<p class="icon">
+				<a href="/sasaki"><img src="/images/icon/sasaki.jpg"></a>
+				<a href="/aoyagi"><img src="/images/icon/aoyagi.jpg"></a>
+				<a href="/kobayashi"><img src="/images/icon/kobayashi.jpg"></a>
+				<a href="/sakai"><img src="/images/icon/sakai.jpg"></a>
+				<a href="/nasu"><img src="/images/icon/nasu.jpg"></a>
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				シーズン2が配信開始となりました。<br>
+				出演話数<br>
+				佐々木勝彦　6,8話（ドルトリー役）<br>
+				酒井ほのか　7話（オスカー役）<br>
+				青耶木まゆ　9,10話（ホゼ役）<br>
+				兒林美沙紀　9話（アニー役）<br>
+				那須　有　9話（エイミー役）<br>
+				柳井景伊　9話（クリスマスランドの少女役）<br>
+				<br>
+				吹替え版でもご覧ください。<br>
+				<a href="https://amzn.to/2LiFImQ" target="_blank">https://amzn.to/2LiFImQ</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.10.24
+			</p>
+			<h3>佐古真弓　NETFLIX「僕と君と彼女の関係」シーズン5 配信開始</h3>
+			<p class="icon">
+				<a href="/saco"><img src="/images/icon/saco.jpg"></a>
+			</p>
+			<p class="text">
+				いよいよファイナルシーズンです。<br>
+				佐古真弓が、ヒロイン、エマ役（レイチェル・ブランチャード）を担当しています。<br>
+				吹替え版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.netflix.com/title/80103417" target="_blank">https://www.netflix.com/title/80103417</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.10.24
+			</p>
+			<h3>菅生隆之　WOWOW「ホワイトハウス・ファームの惨劇～バンバー家殺人事件～」放送開始</h3>
+			<p class="icon">
+				<a href="/sugo"><img src="/images/icon/sugo.jpg"></a>
+			</p>
+			<p class="text">
+				菅生隆之が、スタン（スタンリー）・ジョーンズ巡査部長を担当しています。<br>
+				放送は、10/24（土）第1話〜3話、10/31（土）第4話〜6話<br>
+				いずれも13:00～WOWOWプライムにて。<br>
+				全6話、吹替え版でもお楽しみください。<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/171262" target="_blank">https://www.wowow.co.jp/detail/171262</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/47.jpg" target="_blank"><img src="/images/news/47.jpg"></a>
+			</div>
+			<p class="date">
+				2020.10.19
+			</p>
+			<h3>藤谷みき（みけ）堀企画「水の駅」公演情報</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				藤谷みき（みけ）が出演いたします。<br>
+				<br>
+				堀企画「水の駅」<br>
+				作：太田省吾　構成・演出：堀夏子<br>
+				日時：11/13（金）〜23日（月・祝）<br>
+				会場：アトリエ春風舎<br>
+				詳細は公式サイトをご覧ください。<br>
+				<br>
+				<a href="https://horikikaku.amebaownd.com/posts/10603989" target="_blank">https://horikikaku.amebaownd.com/posts/10603989</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/46.jpg" target="_blank"><img src="/images/news/46.jpg"></a>
+			</div>
+			<p class="date">
+				2020.10.19
+			</p>
+			<h3>兒林美沙紀　アウン・クローゼットプロデュース「夜長姫と耳男」配信公演</h3>
+			<p class="icon">
+				<a href="/kobayashi"><img src="/images/icon/kobayashi.jpg"></a>
+			</p>
+			<p class="text">
+				兒林美沙紀が出演いたします。<br>
+				<br>
+				アウン・クローゼットプロデュース 朗読ライブ配信<br>
+				「夜長姫と耳男」<br>
+				原作：坂口安吾<br>
+				構成・演出：フジタタイセイ（劇団肋骨蜜柑同好会）<br>
+				日時：11/4（水）21:15〜<br>
+				（アーカイブは11月18日(水)までご視聴頂けます）<br>
+				詳細は公式サイトをご覧ください。<br>
+				<br>
+				<a href="https://twitcasting.tv/_misakoba_/shopcart/27783" target="_blank">https://twitcasting.tv/_misakoba_/shopcart/27783</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/45.jpg" target="_blank"><img src="/images/news/45.jpg"></a>
+			</div>
+			<p class="date">
+				2020.10.19
+			</p>
+			<h3>藤谷みき（みけ）ノックノックス「照らす」配信公演情報</h3>
+			<p class="icon">
+				<a href="/mi-ke"><img src="/images/icon/mi-ke.jpg"></a>
+			</p>
+			<p class="text">
+				藤谷みき（みけ）が出演いたします。<br>
+				<br>
+				ノックノックス「照らす」<br>
+				作・演出・作曲：ヤストミフルタ<br>
+				配信日時：10/31（土）19:00開演<br>
+				（アーカイブは、11/7（土）23:59までご覧いただけます）<br>
+				＊無観客による配信公演です。<br>
+				詳細は公式サイトをご覧ください。<br>
+				<br>
+				<a href="https://knock-knocks.jp/" target="_blank">https://knock-knocks.jp/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.10.15
+			</p>
+			<h3>青耶木まゆ　WOWOW「ザ・ルーキー 40歳の新米ポリス！？」出演</h3>
+			<p class="icon">
+				<a href="/aoyagi"><img src="/images/icon/aoyagi.jpg"></a>
+			</p>
+			<p class="text">
+				10/15（木）放送の第7話「ハリウッドは危険がお好き」で、<br>
+				青耶木まゆが、ティファニー役を担当しています。<br>
+				23:00〜WOWOWプライムにて、どうぞご覧ください！<br>
+				<br>
+				<a href="https://www.wowow.co.jp/detail/170592" target="_blank">https://www.wowow.co.jp/detail/170592</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/44.jpg" target="_blank"><img src="/images/news/44.jpg"></a>
+			</div>
+			<p class="date">
+				2020.10.18
+			</p>
+			<h3>酒井ほのか 「WIPリーディングシアター〜挑むとき〜」</h3>
+			<p class="icon">
+				<a href="/sakai"><img src="/images/icon/sakai.jpg"></a>
+			</p>
+			<p class="text">
+				リーディング生配信に、出演いたします。<br>
+				配信日：10/18（日）19:00〜<br>
+				作品：「名残の三日月〜ふじおか屋採日禄〜」「トロッコ」<br>
+				YouTubeチャンネル「WIPリーディングシアター」よりご覧ください。<br>
+				<br>
+				<a href="https://www.youtube.com/watch?v=y-3VsA22QBA" target="_blank">https://www.youtube.com/watch?v=y-3VsA22QBA</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/43.jpg" target="_blank"><img src="/images/news/43.jpg"></a>
+			</div>
+			<p class="date">
+				2020.09.27
+			</p>
+			<h3>塩崎智弘　湘南ひらつか市民演劇フェスティバル</h3>
+			<p class="icon">
+				<a href="/shiozaki"><img src="/images/icon/shiozaki.jpg"></a>
+			</p>
+			<p class="text">
+				塩崎智弘が出演します。<br>
+				<br>
+				第19回湘南ひらつか市民演劇フェスティバル<br>
+				～ハートフル♡ディスタンス～<br>
+				湘南テアトロ☆デラルテ<br>
+				「即興仙人～その日限りの感動をあなたに～」<br>
+				<br>
+				日時：９月２７日（日）11:30〜<br>
+				会場：平塚市中央公民館大ホール<br>
+				<br>
+				<a href="http://www.city.hiratsuka.kanagawa.jp/events/page-e_00552.html" target="_blank">http://www.city.hiratsuka.kanagawa.jp/events/page-e_00552.html</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/42.jpg" target="_blank"><img src="/images/news/42.jpg"></a>
+			</div>
+			<p class="date">
+				2020.09.25
+			</p>
+			<h3>久保田民絵　映画「アダムス・ファミリー」9/25公開</h3>
+			<p class="icon">
+				<a href="/kubota"><img src="/images/icon/kubota.jpg"></a>
+			</p>
+			<p class="text">
+				久保田民絵が、祖母フランプ役を担当しています。<br>
+				劇場で吹替え版でもお楽しみ下さい。<br>
+				<br>
+				<a href="https://addams-movie.com/" target="_blank">https://addams-movie.com/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.20
+			</p>
+			<h3>青耶木まゆ 「渋谷のラジオ」9/20（日）朝8:00〜ゲスト出演</h3>
+			<p class="icon">
+				<a href="/aoyagi"><img src="/images/icon/aoyagi.jpg"></a>
+			</p>
+			<p class="text">
+				渋谷のラジオ「渋谷でわくわくラジオインターン」に青耶木まゆがゲスト出演いたします。<br>
+				9/20（日）朝8:00〜生放送です。どうぞお聴きください。<br>
+				<br>
+				<a href="https://shiburadi.com/" target="_blank">https://shiburadi.com/</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<p class="date">
+				2020.09.15
+			</p>
+			<h3>柳井景伊　PV「猫とドラゴン×大川ぶくぶコラボ」ナレーション</h3>
+			<p class="icon">
+				<a href="/yanai"><img src="/images/icon/yanai.jpg"></a>
+			</p>
+			<p class="text">
+				柳井景伊が、アプリゲーム「猫とドラゴン」最新作、<br>
+				大川ぶくぶコラボ企画のPVナレーションを担当しています。<br>
+				どうぞお楽しみ下さい。<br>
+				<br>
+				<a href="https://www.youtube.com/watch?v=I6SM_bmMeV0" target="_blank">https://www.youtube.com/watch?v=I6SM_bmMeV0</a>
+			</p>
+		</div>
+
+		<div class="news">
+			<div class="news-photos">
+				<a href="/images/news/40.jpg" target="_blank"><img src="/images/news/40.jpg"></a>
+			</div>
+			<p class="date">
+				2020.09.11
+			</p>
+			<h3>秋之桜子、山像かおり　西瓜糖特別公演「MOON」</h3>
+			<p class="icon">
+				<a href="/akino"><img src="/images/icon/akino.jpg"></a>
+				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
+			</p>
+			<p class="text">
+				西瓜糖、初の二人芝居、初のコメディ！？<br>
+				特別公演「MOON」の上演が決まりました。<br>
+				<br>
+				西瓜糖特別公演<br>
+				「MOON」<br>
+				作：秋之桜子　演出：高橋正徳<br>
+				出演：山像かおり　奥山美代子<br>
+				日時：10/7（水）19:00 ｜ 10/8（木）14:00／18:00<br>
+				会場：絵空箱（東京・江戸川橋駅、神楽坂駅最寄り）<br>
+				チケット：9/11発売開始<br>
+				以下の予約フォームからお買い求めください。<br>
+				▶︎山像かおり扱い　<a href="https://bit.ly/3m9b7WL" target="_blank">https://bit.ly/3m9b7WL</a><br>
+				▶︎西瓜糖扱い　<a href="https://bit.ly/2Zmco2X" target="_blank">https://bit.ly/2Zmco2X</a><br>
+				<br>
+				公式サイト<br>
+				<a href="http://suikato.blog.jp/archives/33094761.html" target="_blank">http://suikato.blog.jp/archives/33094761.html</a>
+			</p>
+		</div>
+
+		<div class="news">
 			<div class="news-photos">
 				<a href="/images/news/41.jpg" target="_blank"><img src="/images/news/41.jpg"></a>
 			</div>
@@ -50,34 +1217,6 @@
 				23:00〜WOWOWプライムにて、どうぞご覧ください！<br>
 				<br>
 				<a href="https://www.wowow.co.jp/detail/170592" target="_blank">https://www.wowow.co.jp/detail/170592</a>
-			</p>
-		</div>
-
-		<div class="news">
-			<div class="news-photos">
-				<a href="/images/news/40.jpg" target="_blank"><img src="/images/news/40.jpg"></a>
-			</div>
-			<p class="date">
-				2020.09.10
-			</p>
-			<h3>秋之桜子、山像かおり　西瓜糖特別公演「MOON」</h3>
-			<p class="icon">
-				<a href="/akino"><img src="/images/icon/akino.jpg"></a>
-				<a href="/yamagata"><img src="/images/icon/yamagata.jpg"></a>
-			</p>
-			<p class="text">
-				西瓜糖、初の二人芝居、初のコメディ！？<br>
-				特別公演「MOON」の上演が決まりました。<br>
-				<br>
-				西瓜糖特別公演<br>
-				「MOON」<br>
-				作：秋之桜子　演出：高橋正徳<br>
-				出演：山像かおり　奥山美代子<br>
-				日時：10/7（水）19:00 ｜ 10/8（木）14:00／18:00<br>
-				会場：絵空箱（東京・江戸川橋駅、神楽坂駅最寄り）<br>
-				詳細は公式サイトをご覧ください。<br>
-				<br>
-				<a href="http://suikato.blog.jp/archives/33094761.html" target="_blank">http://suikato.blog.jp/archives/33094761.html</a>
 			</p>
 		</div>
 

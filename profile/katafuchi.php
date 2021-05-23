@@ -94,14 +94,27 @@
 
 					<h4>最新作</h4>
 
-					<h5>ボイスオーバー</h5>
+					<h5>吹替え</h5>
 					<ul>
+						<li>「<a href="https://www.wowow.co.jp/detail/171261" target="_blank">ライアー2 交錯する証言</a>」レギュラー　ウィニー役　WOWOWプライム</li>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/170592" target="_blank">ザ・ルーキー　40歳の新米ポリス！？</a>」#17 ゲスト WOWOWプライム</li>
+						<li>「<a href="https://www.netflix.com/watch/81181286" target="_blank">クィーン・オブ・ザ・サウス〜女王への階段 S4</a>」第5話 ジャスミン役 NETFLIX</li>
 						<li>「<a href="https://www.wowow.co.jp/detail/170232" target="_blank">BBC Earth2020　トロピカル・アイランド 常夏の楽園</a>」WOWOW ボイスオーバー</li>
 					</ul>
 
 					<hr>
 
 					<h4>主な出演作品</h4>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>「ライアー2 交錯する証言」レギュラー　ウィニー役　WOWOWプライム</li>
+						<li>「工場ケンガク！～たべものが出来るまで」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「ザ・ルーキー　40歳の新米ポリス！？」#17 WOWOWプライム</li>
+						<li>「クィーン・オブ・ザ・サウス〜女王への階段 S4」第5話 ジャスミン役 NETFLIX</li>
+					  <li>「BBC Earth2020　トロピカル・アイランド 常夏の楽園」WOWOW</li>
+					</ul>
 
 					<h5>舞台</h5>
 					<ul>
@@ -127,11 +140,6 @@
 					  <li>2019年</li>
 					  <li>「た～まや～」演劇集団SMILEJACK（作・演出：大杉篤史）上野ストアハウス</li>
 					  <li>「パンパンじゃもの、花じゃもの」劇団天然ポリエステル（作：高原フヒト、演出：高原フヒト・やんえみ）下北沢小劇場 B1</li>
-					</ul>
-
-					<h5>ボイスオーバー</h5>
-					<ul>
-					  <li>「BBC Earth2020　トロピカル・アイランド 常夏の楽園」WOWOW</li>
 					</ul>
 
 					<h5>CM 出演</h5>

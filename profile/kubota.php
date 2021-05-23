@@ -89,9 +89,16 @@
 
 					<h4>最新作</h4>
 
+					<h5>映画</h5>
+					<ul>
+						<li><a href="https://www.netflix.com/title/80232043" target="_blank">「ジングル・ジャングル〜魔法のクリスマスギフト」</a> おばあちゃん役（フィリシア・ラシャド）NETFLIX</li>
+						<li><a href="https://addams-movie.com" target="_blank">「アダムス・ファミリー」</a> 祖母フランプ　9/25公開</li>
+					</ul>
+
 					<h5>海外ドラマ</h5>
 					<ul>
 						<li><a href="https://www.netflix.com/jp/title/80214512" target="_blank">「AWAY -遠く離れて-」</a> 全10回　ダーリーン役　レギュラー　NETFLIX</li>
+						<li><a href="http://www.foxjapan.com/homelands8#show-info" target="_blank">「HOMELAND／ホームランド　ファイナル・シーズン」</a>#11 アンナ役　デジタル配信、DVD発売中</li>
 					</ul>
 
 					<h5>TV</h5>
@@ -102,6 +109,11 @@
 					<h5>TVCM</h5>
 					<ul>
 						<li><a href="https://www.harada-tea.co.jp/products/yabukita-blend/" target="_blank">ハラダ製茶「やぶ北ブレンド」「水出し煎茶」</a> 姑・おかあさま役 放送中</li>
+					</ul>
+
+					<h5>ゲーム</h5>
+					<ul>
+						<li><a href="http://shin-megamitensei.jp/3hd/" target="_blank">「真・女神転生ⅢNOCTURNE HD REMASTER」</a> 喪服の老婆　PS4</li>
 					</ul>
 
 					<hr>
@@ -218,10 +230,12 @@
 					  <li>「レインメーカー」バーディ夫人（テレサ・ライト）</li>
 					  <li>「ザ・インターネット」ミセス・ベネット（ダイアン・ベイカー）DVD版</li>
 					  <li>「TINA ティナ」ゼルマ・ブロック（ジェニファー・ルイス）</li>
-					  <li>「愛という名の疑惑」ガルーシン医師（リタ・ゾーハー）＊</li>
+					  <li>「愛という名の疑惑」ガルーシン医師（リタ・ゾーハー）</li>
 					  <li>「エイリアン」マザー　CX版</li>
 					  <li>「スーパーマン」マーサ・ケント　EX版</li>
 					  <li>「卒業」ミセス・ブラドック　TX版</li>
+						<li>「アダムス・ファミリー」祖母フランプ</li>
+						<li>「ジングル・ジャングル〜魔法のクリスマスギフト」おばあちゃん役（フィリシア・ラシャド）</li>
 					</ul>
 
 					<h5>吹替え 海外ドラマ</h5>
@@ -238,6 +252,7 @@
 					  <li>「名探偵モンク」</li>
 						<li>「アンネ・フランク 時を越えるストーリー」（ボイスオーバー）</li>
 						<li>「AWAY -遠く離れて-」全10回　ダーリーン役　レギュラー　NETFLIX</li>
+						<li>「HOMELAND／ホームランド　ファイナル・シーズン」#11 アンナ役</li>
 					</ul>
 
 					<h5>吹替え 海外アニメ</h5>
@@ -259,6 +274,7 @@
 					<h5>ゲーム</h5>
 					<ul>
 					  <li>「インクレディブル・ファミリー」cvセリック大使</li>
+						<li>「真・女神転生ⅢNOCTURNE HD REMASTER」喪服の老婆</li>
 					</ul>
 
 				</div>

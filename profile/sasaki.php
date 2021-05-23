@@ -61,8 +61,10 @@
 
 					<h5>海外ドラマ</h5>
 					<ul>
-						<li>「<a href="https://www9.nhk.or.jp/kaigai/hechi/" target="_blank">ヘチ 王座への道</a>」スクチョン（キム・ガプス）毎週（日）21時〜NHKBSプレミアム</li>
+						<li>「<a href="https://www.nhk.jp/p/hechi/ts/ZWWMXG3RG3/" target="_blank">ヘチ 王座への道</a>」スクチョン（キム・ガプス）2/14（日）放送開始　毎週（日）23時〜NHK総合</li>
 						<li>「<a href="https://www.netflix.com/title/80107369" target="_blank">クイーン・オブ・ザ・サウス〜女王への階段〜</a>」ドン・エピファニオ NETFLIX</li>
+						<li>「<a href="https://amzn.to/2LiFImQ" target="_blank">ノスフェラトゥ　S2</a>」Amazonプライムビデオ　#6,8 ドルトリー</li>
+						<li>「<a href="https://www.hulu.jp/watch/100068815" target="_blank">CREEPSHOW／クリープショー</a>」＃5「手の夜／マスキーホラーの暗黒時代」ホワイティー　Hulu　<strong>主役</strong></li>
 					</ul>
 
 					<h5>アニメ</h5>
@@ -168,6 +170,8 @@
 					  <li>「宮廷女官チャングムの誓い」イ・グァンヒ（パク・ヨンヒ）</li>
 					  <li>「ファンジニ」ソン・イックァン（ヒョン・ソク）</li>
 					  <li>「ヘチ 王座への道」スクチョン（キム・ガプス）</li>
+						<li>「ノスフェラトゥ　S2」#6,8 ドルトリー</li>
+						<li>「CREEPSHOW／クリープショー」＃5「手の夜／マスキーホラーの暗黒時代」ホワイティー　<strong>主役</strong></li>
 					</ul>
 
 					<h5>アニメ</h5>

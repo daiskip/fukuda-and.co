@@ -120,8 +120,9 @@
 
 					<h5>海外ドラマ</h5>
 					<ul>
+						<li>「<a href="https://tv.apple.com/jp/show/%E8%BF%B7%E5%AE%AE%E3%81%AE%E3%82%A2%E3%83%AA%E3%82%B9/umc.cmc.1h3msl5cfif0fz9my2kgvtk36" target="_blank">迷宮のアリス</a>」アリス（アイェレット・ゾラー）Apple TV+　<strong>主役</strong></li>
+						<li>「<a href="https://www.netflix.com/title/80025678" target="_blank">ザ・クラウン S4</a>」エリザベス女王（オリヴィア・コールマン）NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/title/80219707?s=i&trkid=13747225" target="_blank">デッド・トゥ・ミー 〜さようならの裏に〜 S2</a>」ジェン(クリスティナ・アップルゲイト) NETFLIX　<strong>主役</strong></li>
-						<li>「<a href="https://www.netflix.com/title/80025678" target="_blank">ザ・クラウン S3</a>」エリザベス女王（オリヴィア・コールマン）NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/jp/title/81206211" target="_blank">ステートレス-彷徨の行方-</a>」クレア　NETFLIXリミテッドシリーズ</li>
 						<li>「<a href="https://www.netflix.com/jp/title/81223007" target="_blank">シットコム大運動会　アシュリー・ガルシア：パサデナ2020</a>」ジア　NETFLIX</li>
 						<li>「<a href="https://www4.nhk.or.jp/sabayomi/" target="_blank">ライザのサバヨミ大作戦！</a>」ダイアナ　NHKBSプレミアム 1.31より毎週（金）23:45</li>
@@ -129,10 +130,12 @@
 						<li>「<a href="https://www.netflix.com/title/80211563" target="_blank">メリー・アン・シングルトンの物語</a>」メリー・アン（ローラ・リニー）NETFLIX　<strong>主役</strong></li>
 						<li>「ホームカミング」（ジュリア・ロバーツ）Amazonプライム　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/search?q=SEX&jbv=80197526&jbp=0&jbr=0" target="_blank">セックス・エデュケーション S2</a>」 ジーン（ジリアン・アンダーソン）　NETFLIX</li>
+						<li>「<a href="https://disneyplus.disney.co.jp/view/#!/series/detailed/%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB616/819716" target="_blank">マーベル616　第7話 スポットライト</a>」コートニー・カイル役　ディズニープラス　<strong>主役</strong></li>
 					</ul>
 
 					<h5>映画</h5>
 					<ul>
+						<li>「<a href="https://www.amazon.co.jp/gp/video/detail/B08KYZ6XMQ/" target="_blank">イーブルアイ</a>」Amazonプライム　ウシャ・カトリ（サリタ･チョードゥリー）　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/title/81127902" target="_blank">グレイス-消えゆく幸せ-</a>」NETFLIX　<strong>主役</strong></li>
 						<li>「<a href="https://www.netflix.com/jp/title/80204465" target="_blank">プロジェクト・パワー</a>」ガードナー（エイミー・ランデッカー）NETFLIX</li>
 						<li>「<a href="https://www.netflix.com/browse?jbv=80223779&jbp=3&jbr=1" target="_blank">マリッジ・ストーリー</a>」ノーラ（ローラ・ダーン） NETFLIX</li>
@@ -141,17 +144,20 @@
 
 					<h5>TV</h5>
 					<ul>
-						<li>海外ドキュメンタリ―「<a href="https://www4.nhk.or.jp/P5973/" target="_blank">奇跡の星</a>」NHKEテレ　毎週（火）22:50～</li>
+						<li>「<a href="https://www.nhk.jp/p/etv21c/ts/M2ZWLQ6RQP/episode/te/LGKM64MJGV/" target="_blank">円空　仏像に封印された謎</a>」NHK ETV特集 ナレーション 1/16（土）放送</li>
+					</ul>
+
+					<h5>ゲーム</h5>
+					<ul>
+						<li>「<a href="https://www.cyberpunk.net/jp/ja/" target="_blank">サイバーパンク 2077</a>」ブリジッド役　PS4、Xbox One、PC　12/10（木）発売</li>
 					</ul>
 
 					<h5>ラジオ</h5>
 					<ul>
-						<li>朗読　林芙美子著「浮雲」（後編・全35回）NHKラジオ第2　1.6〜2.21放送</li>
-					</ul>
-
-					<h5>取材</h5>
-					<ul>
-						<li>広報ひらかた「<a href="https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000027/27298/all.pdf" target="_blank">枚方家族</a>」（令和2年2月号・47ページに掲載）</li>
+						<li>
+							朗読「<a href="https://www4.nhk.or.jp/roudoku/" target="_blank">谷崎潤一郎作品集</a>」NHKラジオ第2　1/4（月）〜3/26（金）<br>
+							「痴人の愛」48回、「秘密」5回、「二人の稚児」7回
+						</li>
 					</ul>
 
 					<hr>
@@ -257,6 +263,7 @@
 						<li>NHKラジオ朗読</li>
 						<li>「織田作之助作品集〜夫婦善哉／続 夫婦善哉」</li>
 						<li>「林芙美子著　浮雲」</li>
+						<li>「谷崎潤一郎作品集　痴人の愛／秘密／二人の稚児」</li>
 					</ul>
 
 					<h5>吹替え [海外ドラマ,レギュラー作品]</h5>
@@ -289,6 +296,7 @@
 						<li>「ライザのサバヨミ大作戦！」ダイアナ（ミリアム・ショア）</li>
 						<li>「シットコム大運動会　アシュリー・ガルシア：パサデナ2020」ジア</li>
 						<li>「ステートレス-彷徨の行方-」クレア</li>
+						<li>「迷宮のアリス」アリス（アイェレット・ゾラー）　<strong>主役</strong></li>
 					</ul>
 
 					<h5>吹替え [洋画]</h5>
@@ -360,6 +368,7 @@
 						<li>「マリッジ・ストーリー」ノーラ（ローラ・ダーン）</li>
 						<li>「グレイス-消えゆく幸せ-」グレイス（クリスタル・R・フォックス）　<strong>主役</strong></li>
 						<li>「プロジェクト・パワー」ガードナー（エイミー・ランデッカー）</li>
+						<li>「イーブルアイ」ウシャ・カトリ（サリタ･チョードゥリー）　<strong>主役</strong></li>
 					</ul>
 
 					<h5>アニメ</h5>
@@ -380,10 +389,16 @@
 						<li>「黒塚」花月</li>
 					</ul>
 
+					<h5>アニメ</h5>
+					<ul>
+						<li>「Detroit: Become Human」　ローズ・チャップマン</li>
+						<li>「サイバーパンク 2077」　ブリジッド</li>
+					</ul>
+
 					<h5>ナレーション、ボイスオーバー</h5>
 					<ul>
-						<li>「世界一受けたい授業」NTV </li>
-						<li>「スタイルアップ　パーフェクトな妻たち」ナレーション　NHK </li>
+						<li>「世界一受けたい授業」NTV</li>
+						<li>「スタイルアップ　パーフェクトな妻たち」ナレーション　NHK</li>
 						<li>「検索deゴー！とっておき世界遺産」NHK</li>
 						<li>「地球ドラマチック」Eテレ</li>
 						<li>「ルーブル美術館を救った男」ナレーション　NHKBS世界のドキュメンタリー</li>
@@ -391,11 +406,13 @@
 						<li>「コアリズム」通販番組　ナレーション</li>
 						<li>「シャドーボクサー」通販番組　ナレーション</li>
 						<li>「奇跡の星」NHKEテレ</li>
+						<li>「円空　仏像に封印された謎」NHK ETV特集</li>
+						<li>「マーベル616　第7話 スポットライト」コートニー・カイル　<strong>主役</strong></li>
 					</ul>
 
 					<h5>著作</h5>
 					<ul>
-						<li>「物語 Ｇｏ！プリンセスプリキュア　花とレフィの冒険」（作・秋之桜子/講談社ＫＫ文庫）　</li>
+						<li>「物語 Ｇｏ！プリンセスプリキュア　花とレフィの冒険」（作・秋之桜子/講談社ＫＫ文庫）</li>
 					</ul>
 
 				</div>

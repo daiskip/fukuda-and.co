@@ -86,9 +86,24 @@
 
 					<h4>最新作</h4>
 
-					<h5>吹替え 洋画</h5>
+					<h5>吹替え</h5>
 					<ul>
+						<li>「<a href="https://www.amazon.co.jp/dp/B08NFGVPJK" target="_blank">エクスパンス〜巨獣目覚める〜 シーズン5</a>」ミチオ役（レギュラー）Amazonプライム</li>
+						<li>「<a href="https://www.netflix.com/title/80988988" target="_blank">クリスマスクロニクル2</a>」女の子、案内係ほか　NETFLIX</li>
 						<li>「<a href="http://u0u1.net/Z73I" target="_blank">ブレイクスルー 奇跡の生還</a>」ウェンディ役　Amazonプライムビデオ</li>
+						<li>「<a href="https://www.netflix.com/browse?jbv=80025678" target="_blank">ザ・クラウン S4</a>」第1、3話 ゲスト　NETFLIX</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/171577" target="_blank">ミセス・アメリカ～時代に挑んだ女たち～</a>」#8 ゲスト WOWOWプライム</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/171409/001/01" target="_blank">風味巡礼2～中国から世界を味わう～</a>」#2,5,6,7,8（ボイスオーバー）WOWOWプライム</li>
+						<li>「<a href="https://www.netflix.com/title/80116922" target="_blank">潜入! 世界の危険な刑務所 シーズン5〜南アフリカ:ナンバーギャング</a>」（ボイスオーバー）NETFLIX</li>
+						<li>「<a href="http://www.foxjapan.com/homelands8#show-info" target="_blank">HOMELAND／ホームランド ファイナル・シーズン</a>」＃1　ロビン役　デジタル配信、DVD発売中</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/170592" target="_blank">ザ・ルーキー　40歳の新米ポリス！？</a>」#18  WOWOWプライム</li>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2851" target="_blank">カー・SOS 蘇れ！思い出の名車 8</a>」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+					</ul>
+
+					<h5>ゲーム</h5>
+					<ul>
+						<li>「<a href="https://www.onmyojigame.jp/" target="_blank">陰陽師本格幻想</a>」阿修羅の母役</li>
 					</ul>
 
 					<hr>
@@ -108,6 +123,11 @@
 					  <li>「クリミナルマインド国際捜査班S2」</li>
 					  <li>「レギオン」</li>
 					  <li>「ロッキーとブルウィンクルの大冒険」</li>
+						<li>「ザ・クラウン S4」第1、3話  ゲスト NETFLIX</li>
+						<li>「エクスパンス〜巨獣目覚める〜 シーズン5」ミチオ役（レギュラー）Amazonプライム</li>
+						<li>「ミセス・アメリカ～時代に挑んだ女たち～」#8 ゲスト WOWOWプライム</li>
+						<li>「HOMELAND／ホームランド ファイナル・シーズン」＃1　ロビン役　デジタル配信、DVD発売中</li>
+						<li>「ザ・ルーキー　40歳の新米ポリス！？」#18  WOWOWプライム</li>
 					</ul>
 
 					<h5>吹替え 洋画</h5>
@@ -122,12 +142,14 @@
 					  <li>「パドルトン」</li>
 					  <li>「令嬢ジョンキエール－愛と復讐の果てに－」</li>
 						<li>「ブレイクスルー 奇跡の生還」ウェンディ役</li>
+						<li>「クリスマスクロニクル2」女の子、案内係ほか　NETFLIX</li>
 					</ul>
 
 					<h5>ゲーム</h5>
 					<ul>
 					  <li>「ゴシックは魔法乙女」フィルドール役</li>
 					  <li>「フィリスのアトリエ」</li>
+						<li>「陰陽師本格幻想」阿修羅の母役</li>
 					</ul>
 
 					<h5>ボイスオーバー</h5>
@@ -138,6 +160,10 @@
 					  <li>「ヒトラーの教皇 闇の真実」</li>
 					  <li>「女性刑務官の戦いと真実」</li>
 					  <li>「グランド・ツアー」</li>
+						<li>「風味巡礼2～中国から世界を味わう～」#2,5,6,7,8　WOWOWプライム</li>
+						<li>「潜入! 世界の危険な刑務所 シーズン5〜南アフリカ:ナンバーギャング」NETFLIX</li>
+						<li>「工場ケンガク！～たべものが出来るまで」レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「カー・SOS 蘇れ！思い出の名車 8」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
 					</ul>
 
 				</div>

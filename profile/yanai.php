@@ -96,15 +96,37 @@
 
 					<h4>最新作</h4>
 
-					<h5>舞台</h5>
+					<h5>吹替え</h5>
 					<ul>
-						<li>「<a href="https://www.youtube.com/watch?v=oprMKN0l0yE" target="_blank">ぷーねこぷーにゃん</a>」ドラマティック・カンパニー2020年夏のアトリエ親子劇場</li>
-						<li>「shuffle！7」劇団FREE SIZE（作・演出：いよく直人）7.2（木）〜7.5（日）日暮里d-倉庫</li>
+						<li>「<a href="https://natgeotv.jp/tv/lineup/prgmtop/index/prgm_cd/2870" target="_blank">工場ケンガク！～たべものが出来るまで</a>」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/170592" target="_blank">ザ・ルーキー　40歳の新米ポリス！？</a>」#14 ルビー役 WOWOWプライム</li>
+						<li>「<a href="https://amzn.to/2LiFImQ" target="_blank">ノスフェラトゥ　シーズン2</a>」#9  クリスマスランドの少女役  Amazonプライム</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/171409/001/01" target="_blank">風味巡礼2～中国から世界を味わう～</a>」#3（ボイスオーバー）WOWOWプライム</li>
+						<li>「<a href="https://www.wowow.co.jp/detail/170592" target="_blank">ザ・ルーキー　40歳の新米ポリス！？</a>」#14　ルビー役　WOWOWプライム</li>
+					</ul>
+
+					<h5>ナレーション</h5>
+					<ul>
+						<li>アプリゲーム「<a href="https://www.youtube.com/watch?v=I6SM_bmMeV0" target="_blank">猫とドラゴン×大川ぶくぶコラボ</a>」PV</li>
 					</ul>
 
 					<hr>
 
 					<h4>主な出演作品</h4>
+
+					<h5>吹替え</h5>
+					<ul>
+						<li>「工場ケンガク！～たべものが出来るまで」準レギュラー（ボイスオーバー）ナショナルジオグラフィックTV、Hulu</li>
+						<li>「ザ・ルーキー　40歳の新米ポリス！？」#14 ルビー役 WOWOWプライム</li>
+					  <li>「ノスフェラトゥ　シーズン2」#9  クリスマスランドの少女役  Amazonプライム</li>
+						<li>「風味巡礼2～中国から世界を味わう～」#3（ボイスオーバー）WOWOWプライム</li>
+						<li>「ザ・ルーキー　40歳の新米ポリス！？」#14　ルビー役　WOWOWプライム</li>
+					</ul>
+
+					<h5>ナレーション</h5>
+					<ul>
+					  <li>アプリゲーム「猫とドラゴン×大川ぶくぶコラボ」PV</li>
+					</ul>
 
 					<h5>舞台</h5>
 					<ul>
@@ -116,6 +138,8 @@
 					  <li>　</li>
 					  <li>2019年</li>
 					  <li>「ごじあおい」吉岡役 ねむりねこプロジェクト其ノ弐（作・演出：中村利裕）エリア543</li>
+						<li>　</li>
+					  <li>2020年</li>
 						<li>「shuffle！7」劇団FREE SIZE（作・演出：いよく直人）日暮里d-倉庫</li>
 					  <li>　</li>
 					  <li>ドラマティック・カンパニー</li>
@@ -127,6 +151,9 @@
 					  <li>2020年</li>
 					  <li>「ナツヤスミ語辞典」ムロマチ役　ドラマティック・カンパニー（作：成井豊、演出：関俊彦・堀本等）アトリエエイティーワン</li>
 						<li>「ぷーねこぷーにゃん」ドラマティック・カンパニー2020年夏のアトリエ親子劇場（配信上演）</li>
+						<li>　</li>
+						<li>2021年</li>
+					  <li>「ナンセンスな午下がり〜待ち合わせ」（作：オオタスセリ、演出：伝坂勉）アトリエエイティーワン</li>
 					</ul>
 
 				</div>
